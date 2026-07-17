@@ -3,8 +3,8 @@ name: LitBot pipeline
 on:
   schedule:
     # Runs at 06:00 and 18:00 UTC every day
-    - cron: '0 6 * * *'
-    - cron: '20 15 * * *'
+    - cron: '0 3 * * *'
+    - cron: '0 11 * * *'
   workflow_dispatch: {}   # lets you trigger it manually from the Actions tab too
 
 permissions:
