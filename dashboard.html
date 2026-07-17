@@ -53,6 +53,20 @@
     border:1px solid rgba(238,243,240,.08);
   }
   .panel-inner{max-width:920px;margin:0 auto;position:relative;}
+  .nav{display:flex;gap:14px;margin-bottom:18px;}
+  .nav a{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:.72rem;
+    letter-spacing:.08em;
+    text-transform:uppercase;
+    color:#8fb8ac;
+    text-decoration:none;
+    padding-bottom:3px;
+    border-bottom:1px solid transparent;
+  }
+  .nav a:hover{border-bottom-color:#8fb8ac;}
+  .nav a.current{color:var(--cream);border-bottom-color:var(--cream);}
+
   .eyebrow{
     font-family:'IBM Plex Mono',monospace;
     font-size:11px;
@@ -251,6 +265,10 @@
 
   <div class="panel">
     <div class="panel-inner">
+      <div class="nav">
+        <a href="dashboard.html" class="current">Today</a>
+        <a href="archive.html">Archive</a>
+      </div>
       <div class="eyebrow">Screening report</div>
       <h1>LitBot</h1>
       <div class="sub">Automated relevance screening for digital biomarker development and computational modelling of executive function.</div>
