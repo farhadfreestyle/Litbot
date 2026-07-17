@@ -1,4 +1,5 @@
 # LitBot
+<img src="litbot.png" alt="LitBot logo" width="150">
 
 LitBot is an automated literature screening pipeline. It queries arXiv on a schedule, scores each result for relevance using a large language model, stores the results, and publishes them to two web dashboards, a daily view and a full historical archive.
 
