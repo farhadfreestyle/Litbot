@@ -1,6 +1,7 @@
 from dotenv import load_dotenv
 from openai import OpenAI
 import json
+import os
 
 load_dotenv()
 client = OpenAI()
@@ -74,6 +75,17 @@ response = client.responses.create(
 
 todays_papers = "todays_papers.json"
 
-with open (todays_papers, "a") as file:
-    json_data = json.loads(response.output_text)
-    json.dump(json_data, file)
+new_data = json.loads(response.output_text)
+
+
+if not os.path.exists(todays_papers) or os.path.getsize(todays_papers) == 0:
+    data = {"papers": []}
+else:
+    with open(todays_papers, "r") as file:
+        data = json.load(file)
+      
+data["papers"].extend(new_data["papers"])
+
+
+with open(todays_papers, "w") as file:
+    json.dump(data, file, indent=4)
