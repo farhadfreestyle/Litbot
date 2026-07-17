@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LitBot Archive</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --panel:#0e1e1a;
+    --panel-2:#132a24;
+    --paper:#f3f1e9;
+    --surface:#ffffff;
+    --ink:#1c231f;
+    --ink-dim:#68716a;
+    --line:#e4e0d3;
+    --arc1:#1f7a6c;
+    --arc1-soft:#e2f0ec;
+    --arc2:#b4651f;
+    --arc2-soft:#f7ead9;
+    --both:#4a4f9e;
+    --both-soft:#e9e9f6;
+    --none:#9a978a;
+    --none-soft:#efede3;
+    --cream:#f6efd8;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'IBM Plex Sans',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+
+  /* ===== instrument header ===== */
+  .panel{
+    background:
+      radial-gradient(1200px 420px at 15% -20%, rgba(31,122,108,.35), transparent 60%),
+      linear-gradient(180deg, var(--panel) 0%, var(--panel-2) 100%);
+    color:#eef3f0;
+    padding:52px 28px 34px;
+    position:relative;
+    overflow:hidden;
+  }
+  .panel::after{
+    content:"";
+    position:absolute;
+    right:-60px; top:-60px;
+    width:320px; height:320px;
+    border-radius:50%;
+    border:1px solid rgba(238,243,240,.08);
+  }
+  .panel-inner{max-width:920px;margin:0 auto;position:relative;}
+  .nav{display:flex;gap:14px;margin-bottom:18px;}
+  .nav a{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:.72rem;
+    letter-spacing:.08em;
+    text-transform:uppercase;
+    color:#8fb8ac;
+    text-decoration:none;
+    padding-bottom:3px;
+    border-bottom:1px solid transparent;
+  }
+  .nav a:hover{border-bottom-color:#8fb8ac;}
+  .nav a.current{color:var(--cream);border-bottom-color:var(--cream);}
+
+  .eyebrow{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:11px;
+    letter-spacing:.16em;
+    text-transform:uppercase;
+    color:#8fb8ac;
+    margin-bottom:10px;
+  }
+  h1{
+    font-family:'Source Serif 4',Georgia,serif;
+    font-size:2.4rem;
+    font-weight:700;
+    letter-spacing:-0.01em;
+    margin:0;
+    color:var(--cream);
+  }
+  .sub{color:#a7b8b1;font-size:.92rem;margin-top:8px;max-width:520px;line-height:1.5;}
+
+  .stats{
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:1px;
+    margin:32px 0 0;
+    background:rgba(238,243,240,.1);
+    border:1px solid rgba(238,243,240,.12);
+    border-radius:12px;
+    overflow:hidden;
+  }
+  .stat{padding:16px 18px;background:rgba(14,30,26,.4);}
+  .stat .n{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:1.6rem;
+    font-weight:700;
+    color:var(--cream);
+  }
+  .stat .l{
+    font-size:.68rem;
+    color:#93a8a0;
+    text-transform:uppercase;
+    letter-spacing:.09em;
+    margin-top:3px;
+  }
+
+  /* ===== body ===== */
+  .shell{max-width:920px;margin:0 auto;padding:32px 28px 100px;}
+
+  .controls{
+    display:flex;
+    gap:10px;
+    flex-wrap:wrap;
+    align-items:center;
+    margin:0 0 26px;
+  }
+  #search{
+    flex:1;
+    min-width:200px;
+    padding:10px 14px;
+    border:1px solid var(--line);
+    border-radius:9px;
+    background:var(--surface);
+    font-family:inherit;
+    font-size:.88rem;
+    color:var(--ink);
+  }
+  #search:focus{outline:2px solid var(--arc1);outline-offset:-1px;}
+  select{
+    padding:10px 12px;
+    border:1px solid var(--line);
+    border-radius:9px;
+    background:var(--surface);
+    font-family:inherit;
+    font-size:.85rem;
+    color:var(--ink);
+  }
+  .chip{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:.75rem;
+    font-weight:600;
+    padding:8px 14px;
+    border-radius:20px;
+    border:1px solid var(--line);
+    background:var(--surface);
+    color:var(--ink-dim);
+    cursor:pointer;
+    user-select:none;
+    transition:all .12s ease;
+  }
+  .chip:hover{border-color:var(--arc1);}
+  .chip.active[data-arc="Arc 1"]{background:var(--arc1);border-color:var(--arc1);color:#fff;}
+  .chip.active[data-arc="Arc 2"]{background:var(--arc2);border-color:var(--arc2);color:#fff;}
+  .chip.active[data-arc="Both"]{background:var(--both);border-color:var(--both);color:#fff;}
+  .chip.active[data-arc="all"]{background:var(--ink);border-color:var(--ink);color:#fff;}
+
+  h2{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:.72rem;
+    text-transform:uppercase;
+    letter-spacing:.11em;
+    color:var(--ink-dim);
+    border-bottom:1px solid var(--line);
+    padding-bottom:9px;
+    margin:0 0 16px;
+  }
+
+  .card{
+    display:flex;
+    gap:20px;
+    background:var(--surface);
+    border:1px solid var(--line);
+    border-radius:14px;
+    padding:20px 22px;
+    margin-bottom:12px;
+    transition:box-shadow .15s ease, transform .15s ease, border-color .15s ease;
+  }
+  .card:hover{
+    box-shadow:0 6px 24px rgba(20,30,26,.08);
+    border-color:#cfd6c9;
+    transform:translateY(-1px);
+  }
+  .card.dim{opacity:.52;}
+
+  .gauge{flex:none;width:56px;height:56px;position:relative;}
+  .gauge svg{width:100%;height:100%;transform:rotate(-90deg);}
+  .gauge .track{fill:none;stroke:var(--line);stroke-width:5;}
+  .gauge .fill{fill:none;stroke-width:5;stroke-linecap:round;}
+  .gauge .num{
+    position:absolute;inset:0;
+    display:flex;align-items:center;justify-content:center;
+    font-family:'IBM Plex Mono',monospace;
+    font-weight:700;
+    font-size:1rem;
+  }
+
+  .card-body{flex:1;min-width:0;}
+  .title{
+    font-size:1.02rem;
+    font-weight:600;
+    color:var(--ink);
+    text-decoration:none;
+    line-height:1.42;
+  }
+  .title:hover{color:var(--arc1);}
+  .meta{display:flex;gap:6px;flex-wrap:wrap;margin:9px 0 9px;}
+  .badge{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:.68rem;
+    padding:4px 10px;
+    border-radius:20px;
+    font-weight:700;
+    letter-spacing:.02em;
+  }
+  .badge.Arc-1{background:var(--arc1-soft);color:var(--arc1);}
+  .badge.Arc-2{background:var(--arc2-soft);color:var(--arc2);}
+  .badge.Both{background:var(--both-soft);color:var(--both);}
+  .badge.None{background:var(--none-soft);color:var(--none);}
+  .tag{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:.68rem;
+    padding:4px 9px;
+    border-radius:20px;
+    background:#f1efe3;
+    color:#8a7546;
+    font-weight:700;
+  }
+  .date{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:.68rem;
+    padding:4px 2px;
+    color:var(--ink-dim);
+    align-self:center;
+  }
+  .reason{margin:0;font-size:.89rem;color:#4c5650;line-height:1.58;}
+  .empty-state{
+    text-align:center;
+    color:var(--ink-dim);
+    font-size:.88rem;
+    padding:34px 0;
+  }
+
+  details summary{
+    cursor:pointer;
+    font-family:'IBM Plex Mono',monospace;
+    font-size:.72rem;
+    text-transform:uppercase;
+    letter-spacing:.11em;
+    color:var(--ink-dim);
+    border-bottom:1px solid var(--line);
+    padding-bottom:9px;
+    margin:38px 0 16px;
+    list-style:revert;
+  }
+  details summary:hover{color:var(--arc1);}
+</style>
+</head>
+<body>
+
+  <div class="panel">
+    <div class="panel-inner">
+      <div class="nav">
+        <a href="dashboard.html">Today</a>
+        <a href="archive.html" class="current">Archive</a>
+      </div>
+      <div class="eyebrow">Full history</div>
+      <h1>LitBot Archive</h1>
+      <div class="sub">Every paper LitBot has screened, across all runs, for digital biomarker development and computational modelling of executive function.</div>
+      <div class="stats" id="stats"></div>
+    </div>
+  </div>
+
+  <div class="shell">
+    <div class="controls">
+      <input type="text" id="search" placeholder="Search title or reason…">
+      <select id="sortBy">
+        <option value="date-desc">Date, newest first</option>
+        <option value="date-asc">Date, oldest first</option>
+        <option value="score-desc">Score, high to low</option>
+        <option value="score-asc">Score, low to high</option>
+        <option value="title-asc">Title, A to Z</option>
+      </select>
+      <span class="chip active" data-arc="all">All</span>
+      <span class="chip" data-arc="Arc 1">Arc 1</span>
+      <span class="chip" data-arc="Arc 2">Arc 2</span>
+    </div>
+
+    <h2>Relevant papers</h2>
+    <div id="keepList"></div>
+
+    <details>
+      <summary id="filteredSummary">Filtered out</summary>
+      <div id="dropList"></div>
+    </details>
+  </div>
+
+<script>
+let allPapers = [];
+
+function scoreColor(score){
+  if (score >= 7) return '#1f7a6c';
+  if (score >= 4) return '#b4651f';
+  return '#9a978a';
+}
+
+function gaugeSVG(score){
+  const pct = Math.max(0, Math.min(10, score)) / 10;
+  const r = 22, c = 2 * Math.PI * r;
+  const dash = c * pct;
+  const color = scoreColor(score);
+  return `
+    <div class="gauge">
+      <svg viewBox="0 0 56 56">
+        <circle class="track" cx="28" cy="28" r="${r}"></circle>
+        <circle class="fill" cx="28" cy="28" r="${r}" stroke="${color}"
+          stroke-dasharray="${dash} ${c}"></circle>
+      </svg>
+      <div class="num" style="color:${color}">${score}</div>
+    </div>`;
+}
+
+function escapeHTML(str){
+  const div = document.createElement('div');
+  div.textContent = str || '';
+  return div.innerHTML;
+}
+
+function formatDate(raw){
+  if (!raw) return '';
+  const d = new Date(raw.replace(' ', 'T'));
+  if (isNaN(d)) return raw;
+  const datePart = d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+  const timePart = d.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' });
+  return `${datePart}, ${timePart}`;
+}
+
+function card(p, dim){
+  const arc = p.matched_arc || 'None';
+  const arcClass = arc.replace(/\s+/g,'-');
+  const dateStr = formatDate(p.date_fetched);
+  return `
+    <div class="card ${dim ? 'dim' : ''}">
+      ${gaugeSVG(p.relevance_score || 0)}
+      <div class="card-body">
+        <a class="title" href="${escapeHTML(p.link || '#')}" target="_blank" rel="noopener">${escapeHTML(p.title || 'Untitled')}</a>
+        <div class="meta">
+          <span class="badge ${arcClass}">${escapeHTML(arc)}</span>
+          ${dateStr ? `<span class="date">${escapeHTML(dateStr)}</span>` : ''}
+        </div>
+        <p class="reason">${escapeHTML(p.reason || '')}</p>
+      </div>
+    </div>`;
+}
+
+function render(){
+  const searchTerm = document.getElementById('search').value.toLowerCase();
+  const sortBy = document.getElementById('sortBy').value;
+  const activeArc = document.querySelector('.chip.active').dataset.arc;
+
+  let kept = allPapers.filter(p => !p.filtered);
+  let dropped = allPapers.filter(p => p.filtered);
+
+  if (activeArc !== 'all') kept = kept.filter(p => (p.matched_arc || 'None') === activeArc);
+  if (searchTerm){
+    kept = kept.filter(p =>
+      (p.title || '').toLowerCase().includes(searchTerm) ||
+      (p.reason || '').toLowerCase().includes(searchTerm)
+    );
+  }
+
+  kept.sort((a,b) => {
+    if (sortBy === 'score-desc') return (b.relevance_score||0) - (a.relevance_score||0);
+    if (sortBy === 'score-asc') return (a.relevance_score||0) - (b.relevance_score||0);
+    if (sortBy === 'title-asc') return (a.title||'').localeCompare(b.title||'');
+    if (sortBy === 'date-desc') return new Date(b.date_fetched||0) - new Date(a.date_fetched||0);
+    if (sortBy === 'date-asc') return new Date(a.date_fetched||0) - new Date(b.date_fetched||0);
+  });
+  dropped.sort((a,b) => (b.relevance_score||0) - (a.relevance_score||0));
+
+  document.getElementById('keepList').innerHTML =
+    kept.length ? kept.map(p => card(p,false)).join('') : `<div class="empty-state">No papers match the current filters.</div>`;
+  document.getElementById('dropList').innerHTML =
+    dropped.length ? dropped.map(p => card(p,true)).join('') : `<div class="empty-state">Nothing filtered out.</div>`;
+  document.getElementById('filteredSummary').textContent = `Filtered out (${dropped.length})`;
+
+  const avg = allPapers.length ? (allPapers.reduce((s,p)=>s+(p.relevance_score||0),0)/allPapers.length).toFixed(1) : '0.0';
+  const arc1Count = allPapers.filter(p => p.matched_arc === 'Arc 1').length;
+  const arc2Count = allPapers.filter(p => p.matched_arc === 'Arc 2').length;
+
+  document.getElementById('stats').innerHTML = `
+    <div class="stat"><div class="n">${allPapers.length}</div><div class="l">Total screened</div></div>
+    <div class="stat"><div class="n">${allPapers.filter(p=>!p.filtered).length}</div><div class="l">Passed filter</div></div>
+    <div class="stat"><div class="n">${arc1Count} / ${arc2Count}</div><div class="l">Arc 1 / Arc 2</div></div>
+    <div class="stat"><div class="n">${avg}</div><div class="l">Avg score</div></div>
+  `;
+}
+
+document.getElementById('search').addEventListener('input', render);
+document.getElementById('sortBy').addEventListener('change', render);
+document.querySelectorAll('.chip').forEach(chip => {
+  chip.addEventListener('click', () => {
+    document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+    chip.classList.add('active');
+    render();
+  });
+});
+
+function showLoadError(message){
+  document.getElementById('keepList').innerHTML = `<div class="empty-state">${escapeHTML(message)}</div>`;
+  document.getElementById('dropList').innerHTML = '';
+}
+
+fetch('paper_history.json', { cache: 'no-store' })
+  .then(res => {
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    return res.json();
+  })
+  .then(data => {
+    allPapers = data.papers || [];
+    render();
+  })
+  .catch(err => {
+    showLoadError('Could not load paper_history.json: ' + err.message);
+  });
+</script>
+</body>
+</html>
