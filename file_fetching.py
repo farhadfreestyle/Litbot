@@ -30,7 +30,7 @@ for paper in papers:
     
     paper_data.append(paper["summary"])
 
-    with open("todays_fetched_papers.txt", "a") as f:
+    with open("todays_fetched_papers.txt", "a+") as f:
         if paper_data[0] not in f:
             f.write(f"Title: {paper_data[0]}\n")
             f.write(f"Link: {paper_data[1]}\n")
