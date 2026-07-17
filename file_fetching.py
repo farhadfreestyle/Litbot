@@ -14,7 +14,7 @@ parameters = {
     "search_query": query,
     "sortBy": "submittedDate",
     "sortOrder": "descending",
-    "max_results": 10
+    "max_results": 30
 }
 results = requests.get("http://export.arxiv.org/api/query", params=parameters)
 dict_answer = xmltodict.parse(results.text)
