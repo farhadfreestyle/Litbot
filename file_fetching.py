@@ -31,14 +31,16 @@ for paper in papers:
     paper_data.append(paper["summary"])
 
     with open("todays_fetched_papers.txt", "a") as f:
-        f.write(f"Title: {paper_data[0]}\n")
-        f.write(f"Link: {paper_data[1]}\n")
-        f.write(f"Summary: {paper_data[2]}\n")
-        f.write(f"DateAdded: {datetime.today().strftime('%Y-%m-%d %H:%M:%S')}\n")
-        f.write("---------------------------------------------------------------------------\n") 
+        if paper_data[0] not in f:
+            f.write(f"Title: {paper_data[0]}\n")
+            f.write(f"Link: {paper_data[1]}\n")
+            f.write(f"Summary: {paper_data[2]}\n")
+            f.write(f"DateAdded: {datetime.today().strftime('%Y-%m-%d %H:%M:%S')}\n")
+            f.write("---------------------------------------------------------------------------\n") 
 
 
-    fetched_papers.append(paper_data)
+
+
 
 
 
