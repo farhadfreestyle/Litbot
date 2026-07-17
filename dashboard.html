@@ -389,9 +389,23 @@ document.querySelectorAll('.chip').forEach(chip => {
   });
 });
 
-const PAPERS_DATA = {"papers": [{"title": "Uneven Evolution of Cognition Across Generations of Generative AI Models", "link": "https://arxiv.org/abs/2605.06815v1", "relevance_score": 0, "matched_arc": "None", "filtered": true, "elements_present": [], "reason": "Excluded because it evaluates the cognitive abilities of generative AI models rather than cognition in human participants.", "date_fetched": "2026-07-17 14:06:26"}, {"title": "ASR-Agnostic Multimodal Spectrotemporal Modeling for Early Dementia Detection", "link": "https://arxiv.org/abs/2606.30646v1", "relevance_score": 2, "matched_arc": "Arc 1", "filtered": false, "elements_present": [], "reason": "The paper develops a human dementia biomarker from elicited speech, but it lacks an interactive decision task, eye tracking, qualifying EEG analysis, and a cognitive process model.", "date_fetched": "2026-07-17 14:06:26"}, {"title": "Demystifying Video Reasoning", "link": "https://arxiv.org/abs/2603.16870v2", "relevance_score": 0, "matched_arc": "None", "filtered": true, "elements_present": [], "reason": "Excluded because it studies reasoning and working memory inside diffusion-based video generation models rather than human cognition.", "date_fetched": "2026-07-17 14:06:26"}, {"title": "The Richest Paradigm You're Not Using: Commercial Videogames at the Intersection of Human-Computer Interaction and Cognitive Science", "link": "https://arxiv.org/abs/2603.09753v1", "relevance_score": 6, "matched_arc": "Arc 1", "filtered": false, "elements_present": ["A", "B"], "reason": "The proposed methodology centers on interactive human videogame behavior and eye tracking, although it is a methodological perspective rather than a reported multimodal experiment.", "date_fetched": "2026-07-17 14:06:26"}, {"title": "Pupillometry and Brain Dynamics for Cognitive Load in Working Memory", "link": "https://arxiv.org/abs/2602.10614v1", "relevance_score": 7, "matched_arc": "Arc 1", "filtered": false, "elements_present": ["A", "B"], "reason": "Human participants perform a sequential digit-span task while pupillometry is analyzed, but the EEG pipeline uses generic Catch-22 features rather than qualifying frequency-domain or connectivity analysis.", "date_fetched": "2026-07-17 14:06:26"}, {"title": "Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization", "link": "https://arxiv.org/abs/2602.02958v5", "relevance_score": 0, "matched_arc": "None", "filtered": true, "elements_present": [], "reason": "Excluded because it concerns video generation and KV-cache memory in machine-learning models rather than human participants.", "date_fetched": "2026-07-17 14:06:26"}, {"title": "Cognitive Load Estimation Using Brain Foundation Models and Interpretability for BCIs", "link": "https://arxiv.org/abs/2601.21965v1", "relevance_score": 2, "matched_arc": "Arc 1", "filtered": false, "elements_present": [], "reason": "The study addresses human cognitive-load monitoring with EEG, but reports foundation-model classification without a specified interactive paradigm, frequency-domain or connectivity analysis, eye tracking, or cognitive process model.", "date_fetched": "2026-07-17 14:06:26"}, {"title": "Cross-Modal Computational Model of Brain-Heart Interactions via HRV and EEG Feature", "link": "https://arxiv.org/abs/2601.06792v1", "relevance_score": 4, "matched_arc": "Arc 1", "filtered": false, "elements_present": ["A"], "reason": "The dataset includes a human working-memory task, but EEG is represented mainly by band-power and generic features while XGBoost and synthetic HRV generation do not constitute a cognitive generative model.", "date_fetched": "2026-07-17 14:06:26"}, {"title": "Unveiling the Heart-Brain Connection: An Analysis of ECG in Cognitive Performance", "link": "https://arxiv.org/abs/2601.01424v1", "relevance_score": 4, "matched_arc": "Arc 1", "filtered": false, "elements_present": ["A"], "reason": "The human working-memory paradigm supplies an interactive cognitive task, but the EEG analysis is limited to spectral and generic features and the XGBoost projection is not a cognitive process model.", "date_fetched": "2026-07-17 14:06:26"}, {"title": "Your Eyes Controlled the Game: Real-Time Cognitive Training Adaptation based on Eye-Tracking and Physiological Data in Virtual Reality", "link": "https://arxiv.org/abs/2512.17882v3", "relevance_score": 8, "matched_arc": "Arc 1", "filtered": false, "elements_present": ["A", "B"], "reason": "The study combines interactive sustained-attention and working-memory training in virtual reality with eye tracking for real-time difficulty adaptation in human participants.", "date_fetched": "2026-07-17 14:06:26"}]};
-allPapers = PAPERS_DATA.papers || [];
-render();
+function showLoadError(message){
+  document.getElementById('keepList').innerHTML = `<div class="empty-state">${escapeHTML(message)}</div>`;
+  document.getElementById('dropList').innerHTML = '';
+}
+
+fetch('todays_papers.json', { cache: 'no-store' })
+  .then(res => {
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    return res.json();
+  })
+  .then(data => {
+    allPapers = data.papers || [];
+    render();
+  })
+  .catch(err => {
+    showLoadError('Could not load todays_papers.json: ' + err.message);
+  });
 </script>
 </body>
 </html>
