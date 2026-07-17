@@ -77,14 +77,24 @@ todays_papers = "todays_papers.json"
 
 new_data = json.loads(response.output_text)
 
+print(new_data)
+
 
 if not os.path.exists(todays_papers) or os.path.getsize(todays_papers) == 0:
     data = {"papers": []}
 else:
     with open(todays_papers, "r") as file:
         data = json.load(file)
+
+existing_titles = {paper["title"] for paper in data["papers"]}
+
+new_papers = [
+    paper for paper in new_data["papers"]
+    if paper["title"] not in existing_titles
+]
+
       
-data["papers"].extend(new_data["papers"])
+data["papers"].extend(new_papers)
 
 
 with open(todays_papers, "w") as file:
