@@ -323,6 +323,16 @@
             "elements_present": [],
             "reason": "The human safety study co-records EEG and executive-function assessments, but neither an interactive task nor frequency-domain or connectivity EEG analysis is methodologically detailed.",
             "date_fetched": "2026-07-18 05:22:55"
+        },
+        {
+            "title": "Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization",
+            "link": "https://arxiv.org/abs/2602.02958v5",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because it concerns video generation and KV-cache memory in a machine learning system.",
+            "date_fetched": "2026-07-18 11:43:30"
         }
     ]
 }
