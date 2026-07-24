@@ -3798,6 +3798,346 @@
             "elements_present": [],
             "reason": "The human safety study co-records EEG and executive-function outcomes but does not describe an interactive task or qualifying frequency-domain or connectivity analysis.",
             "date_fetched": "2026-07-23 05:51:02"
+        },
+        {
+            "title": "Uneven Evolution of Cognition Across Generations of Generative AI Models",
+            "link": "https://arxiv.org/abs/2605.06815v1",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because it evaluates the cognitive abilities of generative AI models rather than human participants.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "ASR-Agnostic Multimodal Spectrotemporal Modeling for Early Dementia Detection",
+            "link": "https://arxiv.org/abs/2606.30646v1",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "It addresses human dementia detection from speech but lacks an interactive decision task, eye tracking, qualifying EEG analysis, or a cognitive process model.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "Demystifying Video Reasoning",
+            "link": "https://arxiv.org/abs/2603.16870v2",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because it studies reasoning and working memory inside diffusion-based video generation models.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "The Richest Paradigm You're Not Using: Commercial Videogames at the Intersection of Human-Computer Interaction and Cognitive Science",
+            "link": "https://arxiv.org/abs/2603.09753v1",
+            "relevance_score": 5,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "B"
+            ],
+            "reason": "It centrally proposes interactive commercial games with behavioral timing and eye tracking for studying human executive function, but it is a perspective without an empirical participant study.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "Pupillometry and Brain Dynamics for Cognitive Load in Working Memory",
+            "link": "https://arxiv.org/abs/2602.10614v1",
+            "relevance_score": 7,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "B"
+            ],
+            "reason": "Human participants perform an interactive digit-span task while pupil dynamics and EEG are analyzed, although the described EEG features do not establish frequency-domain or connectivity analysis.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization",
+            "link": "https://arxiv.org/abs/2602.02958v5",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because it concerns video generation and the memory and quantization of a model's KV cache.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "Cognitive Load Estimation Using Brain Foundation Models and Interpretability for BCIs",
+            "link": "https://arxiv.org/abs/2601.21965v1",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "It performs human EEG-based cognitive-load monitoring, but the summary provides neither an interactive task nor qualifying frequency-domain or connectivity methodology.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "Cross-Modal Computational Model of Brain-Heart Interactions via HRV and EEG Feature",
+            "link": "https://arxiv.org/abs/2601.06792v1",
+            "relevance_score": 4,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A"
+            ],
+            "reason": "It uses a human working-memory task, but its EEG contribution is limited to spectral band-power and generic features while its synthetic generator is not a cognitive decision-process model.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "Unveiling the Heart-Brain Connection: An Analysis of ECG in Cognitive Performance",
+            "link": "https://arxiv.org/abs/2601.01424v1",
+            "relevance_score": 4,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A"
+            ],
+            "reason": "It includes an active human working-memory paradigm, but EEG is represented through spectral features rather than detailed frequency-domain or connectivity analysis.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "Your Eyes Controlled the Game: Real-Time Cognitive Training Adaptation based on Eye-Tracking and Physiological Data in Virtual Reality",
+            "link": "https://arxiv.org/abs/2512.17882v3",
+            "relevance_score": 8,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "B"
+            ],
+            "reason": "It combines interactive adaptive VR tasks targeting attention and working memory with centrally analyzed real-time eye-tracking data from human participants.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "How Light Shapes Memory: Beta Synchrony in the Temporal-Parietal Cortex Predicts Cognitive Ergonomics for BCI Applications",
+            "link": "https://arxiv.org/abs/2512.17775v1",
+            "relevance_score": 8,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "C"
+            ],
+            "reason": "It analyzes beta-phase EEG connectivity across cortical regions while participants perform interactive working-memory recall and sequence tasks.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "Setting up for failure: automatic discovery of the neural mechanisms of cognitive errors",
+            "link": "https://arxiv.org/abs/2512.04808v2",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because its neural validation uses macaque rather than human neural data, so the study population is not restricted to human participants.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "A Quantitative Framework for Assessing Sleep Quality from EEG Time Series in Complex Dynamic Systems",
+            "link": "https://arxiv.org/abs/2511.15012v1",
+            "relevance_score": 8,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "C"
+            ],
+            "reason": "It combines a human working-memory task with EEG phase-amplitude coupling, frequency-power, and connectivity analyses used to derive an electrophysiological marker.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "Quantifying the Effects of Word Length, Frequency, and Predictability on Dyslexia",
+            "link": "https://arxiv.org/abs/2510.24647v1",
+            "relevance_score": 4,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "B"
+            ],
+            "reason": "Eye tracking is central to comparing naturalistic reading behavior in dyslexic and typical human readers, but the reading condition is not an interactive decision task.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "Working Memory Functional Connectivity Analysis for Dementia Classification using EEG",
+            "link": "https://arxiv.org/abs/2510.13399v1",
+            "relevance_score": 8,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "C"
+            ],
+            "reason": "Human clinical groups perform working-memory tasks while EEG functional connectivity and network metrics are analyzed for AD, MCI, and control classification.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "Bayesian Distributional Models of Executive Functioning",
+            "link": "https://arxiv.org/abs/2510.00387v3",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because the evaluation uses controlled simulations and synthetically sampled sessions rather than human participants.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "Bibliometric-enhanced Systematic Literature Review of EEG in Education: Learning Concepts, Computational Methods, and Research Opportunities",
+            "link": "https://arxiv.org/abs/2509.26083v1",
+            "relevance_score": 1,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "It reviews human EEG research on attention and learning but does not itself implement an interactive task, eye tracking, qualifying EEG analysis, or cognitive generative modelling.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "EEG-Based Framework for Reflexive and Perceptual Assessment in CLIS: Preliminary Study in Healthy Volunteers",
+            "link": "https://arxiv.org/abs/2509.23524v1",
+            "relevance_score": 4,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "C"
+            ],
+            "reason": "The healthy-volunteer pilot centrally measures frequency-specific steady-state EEG responses, but its passive sensory paradigms provide no interactive behavioral component.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "EEG-Based Cognitive Load Classification During Landmark-Based VR Navigation",
+            "link": "https://arxiv.org/abs/2509.14056v1",
+            "relevance_score": 4,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A"
+            ],
+            "reason": "Participants actively navigate landmark-based VR routes, but the EEG methodology is reported mainly through classifier performance without qualifying spectral or connectivity details.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "A Unified Cortical Circuit Model with Divisive Normalization and Self-Excitation for Robust Representation and Memory Maintenance",
+            "link": "https://arxiv.org/abs/2508.12702v1",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because it is a theoretical neural-circuit study without a human-participant population.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "Dissociating Cognitive Load and Stress Responses Using Single-Channel EEG: Behavioral and Neural Correlates of Anxiety Across Cognitive States",
+            "link": "https://arxiv.org/abs/2507.10093v1",
+            "relevance_score": 4,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A"
+            ],
+            "reason": "Human participants complete cognitively demanding auditory tasks, but the EEG analysis is summarized through individual frequency-band amplitudes rather than connectivity or richer frequency-domain methods.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "Sleep Brain and Cardiac Activity Predict Cognitive Flexibility and Conceptual Reasoning Using Deep Learning",
+            "link": "https://arxiv.org/abs/2506.00279v1",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "It predicts human executive-function scores from passively recorded sleep EEG and ECG, using band power and deep classification rather than any qualifying task, connectivity analysis, or cognitive model.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "Evaluating Cognitive Assessment Tools:A Comparative Analysis of MMSE, RUDAS, SAGE, ADAS and MoCA for Early Dementia Detection",
+            "link": "https://arxiv.org/abs/2505.07246v1",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "It reviews clinical cognitive assessment instruments for early dementia detection but contains none of the specified behavioral, ocular, EEG, or computational methodologies.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "Early Detection of Cognitive Impairment in Elderly using a Passive FPVS-EEG BCI and Machine Learning -- Extended Version",
+            "link": "https://arxiv.org/abs/2504.10973v1",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "It targets human cognitive-impairment detection with passive EEG, but explicitly lacks behavioral interaction and does not describe qualifying frequency-domain or connectivity analysis.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "Immersive Virtual Reality Assessments of Working Memory and Psychomotor Skills: A Comparison between Immersive and Non-Immersive Assessments",
+            "link": "https://arxiv.org/abs/2503.06333v2",
+            "relevance_score": 5,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A"
+            ],
+            "reason": "Human participants perform interactive digit-span, Corsi-block, and reaction-time assessments in VR and PC formats, but no eye tracking, qualifying EEG, or cognitive process model is included.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "Triangulating LLM Progress through Benchmarks, Games, and Cognitive Tests",
+            "link": "https://arxiv.org/abs/2502.14359v4",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because it evaluates the cognitive capabilities of LLMs using benchmarks, games, and tests designed for models.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "Interactive Virtual Games: Winners for Deep Cognitive Assessment",
+            "link": "https://arxiv.org/abs/2502.10290v3",
+            "relevance_score": 8,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "B"
+            ],
+            "reason": "A clinical human sample completes interactive executive-function minigames with continuous behavioral and gaze-trajectory analysis for psychometric assessment and strategy profiling.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "Mazed and Confused: A Dataset of Cybersickness, Working Memory, Mental Load, Physical Load, and Attention During a Real Walking Task in VR",
+            "link": "https://arxiv.org/abs/2409.06898v1",
+            "relevance_score": 7,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "B"
+            ],
+            "reason": "Participants actively navigate VR mazes and perform attention and working-memory tasks while eye tracking and continuous behavioral and physiological data are collected and analyzed.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "Pathformer3D: A 3D Scanpath Transformer for 360\u00b0 Images",
+            "link": "https://arxiv.org/abs/2407.10563v1",
+            "relevance_score": 3,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "B"
+            ],
+            "reason": "It centrally models human eye-tracking scanpaths from panoramic-image datasets, but the viewing condition is passive and the goal is scanpath prediction rather than cognitive assessment.",
+            "date_fetched": "2026-07-24 05:48:33"
+        },
+        {
+            "title": "Transcranial low-level laser stimulation in near infrared-II region for brain safety and protection",
+            "link": "https://arxiv.org/abs/2407.09922v1",
+            "relevance_score": 1,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "Human EEG and executive-function measures are secondary safety outcomes, with no described interactive paradigm or qualifying frequency-domain or connectivity analysis.",
+            "date_fetched": "2026-07-24 05:48:33"
         }
     ]
 }
