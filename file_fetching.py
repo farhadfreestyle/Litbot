@@ -27,11 +27,18 @@ results = requests.get("http://export.arxiv.org/api/query", params=parameters)
 dict_answer = xmltodict.parse(results.text)
 
 history_file = "paper_history.json"
+todays_papers = "todays_papers.json"
+
 
 with open(history_file, "r") as file:
         history_json = json.load(file)
+    
+
+with open(todays_papers, "r") as file:
+        today_json = json.load(file)
 
 previous_titles = {paper["title"] for paper in history_json["papers"]}
+todays_titles = {paper["title"] for paper in today_json["papers"]}
 
 fetched_papers = []
 
@@ -43,10 +50,9 @@ for paper in papers:
     
     paper_data.append(paper["summary"])
 
-    with open("todays_fetched_papers.txt", "a+") as f:
+    with open("todays_fetched_papers.txt", "w") as f:
       
-        f.seek(0)
-        if (paper_data[0] not in f.read()) and (paper_data[0] not in previous_titles):
+        if (paper_data[0] not in todays_titles) and (paper_data[0] not in previous_titles):
             f.write(f"Title: {paper_data[0]}\n")
             f.write(f"Link: {paper_data[1]}\n")
             f.write(f"Summary: {paper_data[2]}\n")
