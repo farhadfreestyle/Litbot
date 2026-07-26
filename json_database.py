@@ -14,6 +14,13 @@ if os.path.exists(history_file):
 else:
   
     history_json = {"papers": []}
+  
+# existing_titles = {paper["title"] for paper in todays_json["papers"]}
+
+# new_papers = [
+#     paper for paper in papers
+#     if paper["title"] not in existing_titles
+# ]
 
 history_json["papers"] = history_json["papers"] + (papers)
 

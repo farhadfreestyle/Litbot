@@ -1,7 +1,7 @@
 import requests
 import xmltodict
 from datetime import datetime
-
+import json
 query = (
     '(abs:"executive function" OR abs:"working memory" OR abs:"cognitive control") '
     'AND ('
@@ -14,11 +14,17 @@ parameters = {
     "search_query": query,
     "sortBy": "submittedDate",
     "sortOrder": "descending",
-    "max_results": 30
+    "max_results": 50
 }
 results = requests.get("http://export.arxiv.org/api/query", params=parameters)
 dict_answer = xmltodict.parse(results.text)
 
+history_file = "paper_history.json"
+
+with open(history_file, "r") as file:
+        history_json = json.load(file)
+
+previous_titles = {paper["title"] for paper in history_json["papers"]}
 
 fetched_papers = []
 
@@ -33,7 +39,7 @@ for paper in papers:
     with open("todays_fetched_papers.txt", "a+") as f:
       
         f.seek(0)
-        if paper_data[0] not in f.read():
+        if (paper_data[0] not in f.read()) and (paper_data[0] not in previous_titles):
             f.write(f"Title: {paper_data[0]}\n")
             f.write(f"Link: {paper_data[1]}\n")
             f.write(f"Summary: {paper_data[2]}\n")
