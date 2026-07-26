@@ -2,11 +2,18 @@ import requests
 import xmltodict
 from datetime import datetime
 import json
+
 query = (
-    '(abs:"executive function" OR abs:"working memory" OR abs:"cognitive control") '
+    '('
+        'abs:"executive function" OR abs:"working memory" OR abs:"cognitive control" '
+        'OR abs:"decision making" OR abs:"decision-making" OR abs:"planning behavior" '
+        'OR abs:"planning behaviour" OR abs:"cognitive modelling" OR abs:"cognitive modeling"'
+    ') '
     'AND ('
         'abs:"digital biomarker" OR abs:"eye tracking" OR abs:"EEG" OR abs:"behavioural assessment" OR abs:"cognitive assessment" '
-        'OR abs:"POMDP" OR abs:"Bayesian inference" OR abs:"generative model" OR abs:"amortised inference" OR abs:"amortized inference" OR abs:"computational psychiatry"'
+        'OR abs:"POMDP" OR abs:"MDP" OR abs:"Markov decision process" OR abs:"Bayesian inference" OR abs:"generative model" '
+        'OR abs:"amortised inference" OR abs:"amortized inference" OR abs:"computational psychiatry" '
+        'OR abs:"active inference" OR abs:"predictive coding" OR abs:"reinforcement learning" OR abs:"cognitive model"'
     ')'
 )
 
@@ -14,7 +21,7 @@ parameters = {
     "search_query": query,
     "sortBy": "submittedDate",
     "sortOrder": "descending",
-    "max_results": 50
+    "max_results": 100
 }
 results = requests.get("http://export.arxiv.org/api/query", params=parameters)
 dict_answer = xmltodict.parse(results.text)
