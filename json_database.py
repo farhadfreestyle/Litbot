@@ -15,14 +15,15 @@ else:
   
     history_json = {"papers": []}
   
-# existing_titles = {paper["title"] for paper in todays_json["papers"]}
+existing_titles = {paper["title"] for paper in history_json["papers"]}
 
-# new_papers = [
-#     paper for paper in papers
-#     if paper["title"] not in existing_titles
-# ]
+new_papers = [
+    paper for paper in papers
+    if paper["title"] not in existing_titles
+]
 
-history_json["papers"] = history_json["papers"] + (papers)
+if len(new_papers) > 0:
+    history_json["papers"] = history_json["papers"] + (papers)
 
 with open(history_file, "w") as file:
     json.dump(history_json, file, indent=4)

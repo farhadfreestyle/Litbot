@@ -98,9 +98,8 @@ else:
 #     paper for paper in new_data["papers"]
 #     if( paper["title"] not in existing_titles) and ( paper["title"] not in previous_titles)
 # ]
-
-      
-data["papers"].extend(new_data)
+if len(new_data["papers"]) > 0:
+    data["papers"].extend(new_data)
 
 
 with open(todays_papers, "w") as file:
