@@ -7,14 +7,17 @@ import os
 query = (
     '('
         'abs:"executive function" OR abs:"working memory" OR abs:"cognitive control" '
-        'OR abs:"cognitive modelling" OR abs:"cognitive modeling" OR abs:"human cognition" '
+        'OR abs:"cognitive modelling" OR abs:"cognitive modeling" '
         'OR abs:"cognitive decline" OR abs:"cognitive impairment"'
     ') '
     'AND ('
-        'abs:"digital biomarker" OR abs:"eye tracking" OR abs:"EEG" OR abs:"behavioural assessment" OR abs:"cognitive assessment" '
-        'OR abs:"POMDP" OR abs:"MDP" OR abs:"Markov decision process" OR abs:"Bayesian inference" '
+        'abs:"POMDP" OR abs:"MDP" OR abs:"Markov decision process" OR abs:"Bayesian inference" '
         'OR abs:"amortised inference" OR abs:"amortized inference" OR abs:"computational psychiatry" '
-        'OR abs:"active inference" OR abs:"predictive coding"'
+        'OR abs:"active inference" OR abs:"predictive coding" '
+        'OR abs:"parameter estimation" OR abs:"parameter identification" OR abs:"model fitting" OR abs:"model validation" '
+        'OR abs:"virtual environment" OR abs:"virtual reality task" '
+        'OR abs:"digital biomarker" OR abs:"eye tracking" OR abs:"EEG" '
+        'OR abs:"behavioural assessment" OR abs:"cognitive assessment"'
     ')'
 )
 
