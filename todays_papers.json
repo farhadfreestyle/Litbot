@@ -9,6 +9,16 @@
             "elements_present": [],
             "reason": "The study uses industrial equipment datasets rather than human participants and models predictive maintenance rather than human cognition.",
             "date_fetched": "2026-07-27 07:52:46"
+        },
+        {
+            "title": "Comprehensive Methodology for Sample Augmentation in EEG Biomarker Studies for Alzheimers Risk Classification",
+            "link": "https://arxiv.org/abs/2411.17717v1",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The study uses human EEG for Alzheimer's risk classification, but the summary does not establish an interactive task, eye tracking, frequency-domain or connectivity EEG analysis, or a cognitive process model.",
+            "date_fetched": "2026-07-27 08:24:19"
         }
     ]
 }
