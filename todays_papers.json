@@ -851,6 +851,222 @@
             "elements_present": [],
             "reason": "The paper evaluates semantic complexity in images for vision-model and image-mining applications without a human-participant study population.",
             "date_fetched": "2026-07-27 08:32:12"
+        },
+        {
+            "title": "When Cognitive Graphs Meet LLMs: BDEI Cognitive Pathways for Panic Emotional Arousal Prediction",
+            "link": "https://arxiv.org/abs/2606.15121v2",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "The framework models artificial agents and LLM-assisted state transitions on Hurricane Sandy data rather than cognition measured in human participants.",
+            "date_fetched": "2026-07-27 14:53:09"
+        },
+        {
+            "title": "Think-Aloud Reshapes Automated Cognitive Model Discovery Beyond Behavior",
+            "link": "https://arxiv.org/abs/2605.05091v1",
+            "relevance_score": 8,
+            "matched_arc": "Arc 2",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "D"
+            ],
+            "reason": "Human risky-decision trajectories and think-aloud reports constrain computational cognitive process models discovered and validated against held-out participant behavior.",
+            "date_fetched": "2026-07-27 14:53:09"
+        },
+        {
+            "title": "Do Large Language Models Mentalize When They Teach?",
+            "link": "https://arxiv.org/abs/2604.01594v1",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "The study evaluates the teaching and mentalizing behavior of LLMs rather than measuring cognition in human participants.",
+            "date_fetched": "2026-07-27 14:53:09"
+        },
+        {
+            "title": "Tree Estimation and Saddlepoint-Based Diagnostics for the Nested Dirichlet Distribution: Application to Compositional Behavioral Data",
+            "link": "https://arxiv.org/abs/2601.09941v1",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "The behavioral application studies cognitively impaired and unimpaired mice, so the study population is nonhuman.",
+            "date_fetched": "2026-07-27 14:53:09"
+        },
+        {
+            "title": "Robust Estimation under Outcome Dependent Right Censoring in Huntington Disease: Estimators for Low and High Censoring Rates",
+            "link": "https://arxiv.org/abs/2511.15929v1",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The paper supports human clinical monitoring of progression to mild cognitive impairment but uses censoring-adjusted regression rather than eligible tasks, sensing modalities, EEG analyses, or cognitive process models.",
+            "date_fetched": "2026-07-27 14:53:09"
+        },
+        {
+            "title": "Emotion Detection in Older Adults Using Physiological Signals from Wearable Sensors",
+            "link": "https://arxiv.org/abs/2507.08167v1",
+            "relevance_score": 1,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The study classifies emotion in older adults from passive wearable physiology and facial expressions without an interactive task, eye tracking, qualifying EEG analysis, or a cognitive process model.",
+            "date_fetched": "2026-07-27 14:53:09"
+        },
+        {
+            "title": "The Impact of Social Isolation on Subjective Cognitive Decline in Older Adults: A Study Based on Network Analysis and Longitudinal Model",
+            "link": "https://arxiv.org/abs/2506.13914v2",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The longitudinal human study concerns subjective cognitive decline but relies on questionnaire-based network and cross-lagged analyses rather than any of the four target methodological elements.",
+            "date_fetched": "2026-07-27 14:53:09"
+        },
+        {
+            "title": "Data-Driven Modeling of Amyloid-beta Targeted Antibodies for Alzheimer's Disease",
+            "link": "https://arxiv.org/abs/2503.08938v1",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "The work models biochemical aggregation and drug dosing using experimental data without a human-participant cognitive study population.",
+            "date_fetched": "2026-07-27 14:53:09"
+        },
+        {
+            "title": "Generating Computational Cognitive Models using Large Language Models",
+            "link": "https://arxiv.org/abs/2502.00879v3",
+            "relevance_score": 8,
+            "matched_arc": "Arc 2",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "D"
+            ],
+            "reason": "The method generates and fits cognitive process models to human behavioral datasets from interactive decision-making, learning, planning, and memory tasks.",
+            "date_fetched": "2026-07-27 14:53:09"
+        },
+        {
+            "title": "Modelling Alzheimer's Protein Dynamics: A Data-Driven Integration of Stochastic Methods, Machine Learning and Connectome Insights",
+            "link": "https://arxiv.org/abs/2411.02644v1",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The paper uses a human-derived connectome and Bayesian parameter inference to model protein propagation, not human cognitive decisions or a generative model of cognition.",
+            "date_fetched": "2026-07-27 14:53:09"
+        },
+        {
+            "title": "A Novel Multimodal System to Predict Agitation in People with Dementia Within Clinical Settings: A Proof of Concept",
+            "link": "https://arxiv.org/abs/2411.08882v1",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The clinical proof of concept passively predicts agitation from wristband and video data in people with dementia but contains none of the qualifying task, eye-tracking, EEG, or cognitive-modeling methods.",
+            "date_fetched": "2026-07-27 14:53:09"
+        },
+        {
+            "title": "Toward Robust Early Detection of Alzheimer's Disease via an Integrated Multimodal Learning Approach",
+            "link": "https://arxiv.org/abs/2408.16343v2",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The study performs clinically relevant multimodal AD classification, but its EEG method is temporal deep learning rather than specified frequency-domain or connectivity analysis.",
+            "date_fetched": "2026-07-27 14:53:09"
+        },
+        {
+            "title": "Passenger hazard perception based on EEG signals for highly automated driving vehicles",
+            "link": "https://arxiv.org/abs/2408.16315v2",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The study decodes human passenger hazard perception from pre-event EEG using a neural classifier but does not report qualifying frequency-domain or connectivity analysis or an interactive decision task.",
+            "date_fetched": "2026-07-27 14:53:09"
+        },
+        {
+            "title": "Understanding Epistemic Language with a Language-augmented Bayesian Theory of Mind",
+            "link": "https://arxiv.org/abs/2408.12022v2",
+            "relevance_score": 5,
+            "matched_arc": "Arc 2",
+            "filtered": false,
+            "elements_present": [
+                "D"
+            ],
+            "reason": "A Bayesian generative theory-of-mind model is validated against human judgments, although participants passively watch navigation and rate statements rather than make sequential decisions.",
+            "date_fetched": "2026-07-27 14:53:09"
+        },
+        {
+            "title": "Deep Learning-based Classification of Dementia using Image Representation of Subcortical Signals",
+            "link": "https://arxiv.org/abs/2408.10816v1",
+            "relevance_score": 5,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "C"
+            ],
+            "reason": "The study performs core time-frequency EEG analysis with continuous wavelet transforms on human AD, FTD, MCI, and control datasets for clinical classification.",
+            "date_fetched": "2026-07-27 14:53:09"
+        },
+        {
+            "title": "Recording First-person Experiences to Build a New Type of Foundation Model",
+            "link": "https://arxiv.org/abs/2408.02680v1",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The paper describes a first-person multimodal recording rig for foundation-model training, with EEG only co-recorded as a generic brain-state signal and no qualifying cognitive assessment methodology.",
+            "date_fetched": "2026-07-27 14:53:09"
+        },
+        {
+            "title": "A Cost-Effective Eye-Tracker for Early Detection of Mild Cognitive Impairment",
+            "link": "https://arxiv.org/abs/2408.05369v1",
+            "relevance_score": 5,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "B"
+            ],
+            "reason": "Human eye tracking is central to a Visual Paired Comparison protocol for early MCI detection, while the paradigm is primarily gaze-based rather than an interactive sequential-decision task.",
+            "date_fetched": "2026-07-27 14:53:09"
+        },
+        {
+            "title": "Latent Variable Sequence Identification for Cognitive Models with Neural Network Estimators",
+            "link": "https://arxiv.org/abs/2406.14742v2",
+            "relevance_score": 5,
+            "matched_arc": "Arc 2",
+            "filtered": false,
+            "elements_present": [
+                "D"
+            ],
+            "reason": "The paper uses simulation-based neural Bayesian estimation to amortize inference of latent trajectories in cognitive models and demonstrates the method on real-world datasets.",
+            "date_fetched": "2026-07-27 14:53:09"
+        },
+        {
+            "title": "Connected Speech-Based Cognitive Assessment in Chinese and English",
+            "link": "https://arxiv.org/abs/2406.10272v2",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The paper addresses human cognitive-impairment assessment from connected speech but uses predictive baselines without any qualifying task, eye tracking, EEG analysis, or cognitive process model.",
+            "date_fetched": "2026-07-27 14:53:09"
+        },
+        {
+            "title": "Bayesian Functional Connectivity and Graph Convolutional Network for Working Memory Load Classification",
+            "link": "https://arxiv.org/abs/2404.19467v1",
+            "relevance_score": 5,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "C"
+            ],
+            "reason": "Frequency-specific EEG functional connectivity in alpha, theta, and beta bands is a central analysis for classifying working-memory load in 154 human participants.",
+            "date_fetched": "2026-07-27 14:53:09"
         }
     ]
 }
