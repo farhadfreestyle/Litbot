@@ -1,0 +1,14 @@
+{
+    "papers": [
+        {
+            "title": "Quantum Annealing Enhanced Reinforcement Learning for Accurate Remaining Useful Lifetime Prediction",
+            "link": "https://arxiv.org/abs/2606.18503v1",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "The study uses industrial equipment datasets rather than human participants and models predictive maintenance rather than human cognition.",
+            "date_fetched": "2026-07-27 07:52:46"
+        }
+    ]
+}

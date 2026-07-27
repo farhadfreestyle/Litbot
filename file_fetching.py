@@ -2,6 +2,7 @@ import requests
 import xmltodict
 from datetime import datetime
 import json
+import os
 
 query = (
     '('
@@ -33,12 +34,15 @@ todays_papers = "todays_papers.json"
 with open(history_file, "r") as file:
         history_json = json.load(file)
     
+if not os.path.exists(todays_papers) or os.path.getsize(todays_papers) == 0:
+    todays_json = {"papers": []}
+else:
+    with open(todays_papers, "r") as file:
+        todays_json = json.load(file)
 
-with open(todays_papers, "r") as file:
-        today_json = json.load(file)
 
 previous_titles = {paper["title"] for paper in history_json["papers"]}
-todays_titles = {paper["title"] for paper in today_json["papers"]}
+todays_titles = {paper["title"] for paper in todays_json["papers"]}
 
 fetched_papers = []
 
@@ -50,9 +54,10 @@ for paper in papers:
     
     paper_data.append(paper["summary"])
 
-    with open("todays_fetched_papers.txt", "w") as f:
+    with open("todays_fetched_papers.txt", "w", encoding="utf-8") as f:
       
         if (paper_data[0] not in todays_titles) and (paper_data[0] not in previous_titles):
+            
             f.write(f"Title: {paper_data[0]}\n")
             f.write(f"Link: {paper_data[1]}\n")
             f.write(f"Summary: {paper_data[2]}\n")

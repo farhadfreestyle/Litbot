@@ -45,7 +45,7 @@ One element present, or two present but only as secondary or passively co-record
 No elements present in a way that meets the above bar, but the paper is about human cognitive assessment or clinical cognitive monitoring generally, score 1 to 2.
 
 A physiological signal recorded passively alongside a task, with no behavioural interaction, eye tracking, or frequency domain EEG analysis, such as ECG or HRV used as a standalone or co-recorded proxy signal, does not on its own satisfy any of the four elements and should not push a paper above 5.
-if file is empty, return empty json with papers key.
+if file is empty, return empty json with papers key and empty list value.
 Return valid JSON only, no preamble, no markdown fences, in this exact structure:
 
 {{
@@ -63,6 +63,11 @@ Return valid JSON only, no preamble, no markdown fences, in this exact structure
   ]
 }}
 
+if file was empty then:
+{{
+  "papers": []
+}}
+
 Papers to evaluate:
 
 {text_file}
@@ -74,10 +79,10 @@ response = client.responses.create(
 )
 
 todays_papers = "todays_papers.json"
-
 new_data = json.loads(response.output_text)
 
-# print(new_data)
+
+
 
 
 if not os.path.exists(todays_papers) or os.path.getsize(todays_papers) == 0:
@@ -86,20 +91,9 @@ else:
     with open(todays_papers, "r") as file:
         data = json.load(file)
 
-# history_file = "paper_history.json"
 
-# with open(history_file, "r") as file:
-#         history_json = json.load(file)
-
-# previous_titles = {paper["title"] for paper in history_json["papers"]}
-# existing_titles = {paper["title"] for paper in data["papers"]}
-
-# new_papers = [
-#     paper for paper in new_data["papers"]
-#     if( paper["title"] not in existing_titles) and ( paper["title"] not in previous_titles)
-# ]
 if len(new_data["papers"]) > 0:
-    data["papers"].extend(new_data)
+    data["papers"].extend(new_data["papers"])
 
 
 with open(todays_papers, "w") as file:
