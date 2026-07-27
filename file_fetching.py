@@ -53,7 +53,8 @@ fetched_papers = []
 
 papers = dict_answer["feed"]["entry"]
 
-
+with open("todays_fetched_papers.txt", "w"):
+    pass
 
 for paper in papers:
     paper_data = []
@@ -62,7 +63,7 @@ for paper in papers:
     
     paper_data.append(paper["summary"])
 
-    with open("todays_fetched_papers.txt", "w", encoding="utf-8") as f:
+    with open("todays_fetched_papers.txt", "a+", encoding="utf-8") as f:
       
         if (paper_data[0] not in todays_titles) and (paper_data[0] not in previous_titles):
             
@@ -71,9 +72,6 @@ for paper in papers:
             f.write(f"Summary: {paper_data[2]}\n")
             f.write(f"DateAdded: {datetime.today().strftime('%Y-%m-%d %H:%M:%S')}\n")
             f.write("---------------------------------------------------------------------------\n") 
-
-
-
 
 
 
