@@ -2283,6 +2283,16 @@
             ],
             "reason": "Frequency-specific EEG functional connectivity in alpha, theta, and beta bands is a central analysis for classifying working-memory load in 154 human participants.",
             "date_fetched": "2026-07-27 14:53:09"
+        },
+        {
+            "title": "Beyond the Post Hoc User Study: Modeling Visual Decision-Making with Active Inference",
+            "link": "https://arxiv.org/abs/2607.25131v1",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "The paper simulates active-inference agents without studying human participants, so it fails the population hard filter.",
+            "date_fetched": "2026-07-29 05:49:45"
         }
     ]
 }
