@@ -6,12 +6,12 @@ import os
 
 query = (
     '('
-        'abs:"executive function" OR abs:"working memory" OR abs:"cognitive control" '
+        'abs:"executive function" OR abs:"working memory" OR abs:"cognitive function" OR abs:"cognitive control" '
         'OR abs:"cognitive modelling" OR abs:"cognitive modeling" '
         'OR abs:"cognitive decline" OR abs:"cognitive impairment"'
     ') '
     'AND ('
-        'abs:"POMDP" OR abs:"MDP" OR abs:"Markov decision process" OR abs:"Bayesian inference" '
+        'abs:"POMDP" OR abs:"MDP" OR abs:"Markov decision process" OR abs:"Bayesian inference" OR abs:"ecologically valid"'
         'OR abs:"amortised inference" OR abs:"amortized inference" OR abs:"computational psychiatry" '
         'OR abs:"active inference" OR abs:"predictive coding" '
         'OR abs:"parameter estimation" OR abs:"parameter identification" OR abs:"model fitting" OR abs:"model validation" '
@@ -55,6 +55,7 @@ todays_titles = {paper["title"] for paper in todays_json["papers"]}
 fetched_papers = []
 
 papers = dict_answer["feed"]["entry"]
+print(len(papers))
 
 with open("todays_fetched_papers.txt", "w"):
     pass
@@ -69,13 +70,11 @@ for paper in papers:
     with open("todays_fetched_papers.txt", "a+", encoding="utf-8") as f:
       
         if (paper_data[0] not in todays_titles) and (paper_data[0] not in previous_titles):
+          
             
             f.write(f"Title: {paper_data[0]}\n")
             f.write(f"Link: {paper_data[1]}\n")
             f.write(f"Summary: {paper_data[2]}\n")
             f.write(f"DateAdded: {datetime.today().strftime('%Y-%m-%d %H:%M:%S')}\n")
             f.write("---------------------------------------------------------------------------\n") 
-
-
-
 

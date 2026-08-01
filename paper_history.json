@@ -2293,6 +2293,176 @@
             "elements_present": [],
             "reason": "The paper simulates active-inference agents without studying human participants, so it fails the population hard filter.",
             "date_fetched": "2026-07-29 05:49:45"
+        },
+        {
+            "title": "Using hierarchical statistical learning models to model individual statistical learning",
+            "link": "https://arxiv.org/abs/2607.05822v1",
+            "relevance_score": 5,
+            "matched_arc": "Arc 2",
+            "filtered": false,
+            "elements_present": [
+                "D"
+            ],
+            "reason": "The study centrally uses a hierarchical Bayesian generative model to reproduce individual learning trajectories from human EEG, but the listening paradigm is passive and no frequency-domain or connectivity analysis is described.",
+            "date_fetched": "2026-08-01 12:52:16"
+        },
+        {
+            "title": "TinyCNNDeep: Lightweight Attention-Based CNN for EEG Classification of Eye States and Sleep Deprivation",
+            "link": "https://arxiv.org/abs/2606.26506v1",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The paper classifies sleep condition and eye state from human EEG using a CNN, but its central method is raw-segment image classification rather than an interactive task, eye tracking, or detailed frequency-domain or connectivity analysis.",
+            "date_fetched": "2026-08-01 12:52:16"
+        },
+        {
+            "title": "EyeBrain: Left and Right Brain Lateralization Activity Classification Through Pupil Diameter and Fixation Duration",
+            "link": "https://arxiv.org/abs/2604.23562v1",
+            "relevance_score": 4,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "B"
+            ],
+            "reason": "Human eye tracking through pupil diameter and fixation duration is central to classifying cognitive activity, but no timed decision paradigm, EEG analysis, or cognitive process model is specified.",
+            "date_fetched": "2026-08-01 12:52:16"
+        },
+        {
+            "title": "Human Cognition in Machines: A Unified Perspective of World Models",
+            "link": "https://arxiv.org/abs/2604.16592v2",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "The paper concerns cognitive capabilities and memory in machine world models rather than cognition measured in human participants.",
+            "date_fetched": "2026-08-01 12:52:16"
+        },
+        {
+            "title": "SABER: Spatial Attention, Brain, Extended Reality",
+            "link": "https://arxiv.org/abs/2603.24830v1",
+            "relevance_score": 8,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "C"
+            ],
+            "reason": "Participants perform an interactive sequential VR object-striking task while oscillatory EEG activity is analyzed to reconstruct moment-by-moment spatial attention.",
+            "date_fetched": "2026-08-01 12:52:16"
+        },
+        {
+            "title": "Brian Intensify: An Adaptive Machine Learning Framework for Auditory EEG Stimulation and Cognitive Enhancement in FXS",
+            "link": "https://arxiv.org/abs/2511.09765v1",
+            "relevance_score": 5,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "C"
+            ],
+            "reason": "The human FXS study centrally analyzes EEG spectral power and cross-frequency coupling under auditory entrainment, although the condition is passive and lacks eye tracking or cognitive process modelling.",
+            "date_fetched": "2026-08-01 12:52:16"
+        },
+        {
+            "title": "Towards Human-AI-Robot Collaboration and AI-Agent based Digital Twins for Parkinson's Disease Management: Review and Outlook",
+            "link": "https://arxiv.org/abs/2511.06036v1",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The review addresses multimodal human Parkinson's monitoring and cognitive care but does not itself implement an eligible behavioural task, eye-tracking analysis, frequency-domain EEG method, or generative cognitive model.",
+            "date_fetched": "2026-08-01 12:52:16"
+        },
+        {
+            "title": "Cross-Enhanced Multimodal Fusion of Eye-Tracking and Facial Features for Alzheimer's Disease Diagnosis",
+            "link": "https://arxiv.org/abs/2510.24777v1",
+            "relevance_score": 7,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "B"
+            ],
+            "reason": "The study records and analyzes eye movements from patients with Alzheimer's disease and controls during an interactive visual memory-search task for multimodal clinical classification.",
+            "date_fetched": "2026-08-01 12:52:16"
+        },
+        {
+            "title": "IoT-Enabled Sleep Monitoring and Cognitive Assessment for Evaluating Teacher Well-Being",
+            "link": "https://arxiv.org/abs/2510.19269v1",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The human study combines passive smartwatch sleep measures with a self-report cognitive questionnaire but includes none of the specified interactive, eye-tracking, EEG, or cognitive-modelling methods.",
+            "date_fetched": "2026-08-01 12:52:16"
+        },
+        {
+            "title": "Meta-learning ecological priors from large language models explains human learning and decision making",
+            "link": "https://arxiv.org/abs/2509.00116v3",
+            "relevance_score": 8,
+            "matched_arc": "Arc 2",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "D"
+            ],
+            "reason": "The paper develops a meta-learned inference model of human cognition and validates its trial-level predictions across interactive learning and decision-making experiments.",
+            "date_fetched": "2026-08-01 12:52:16"
+        },
+        {
+            "title": "Benchmarking of EEG Analysis Techniques for Parkinson's Disease Diagnosis: A Comparison between Traditional ML Methods and Foundation DL Methods",
+            "link": "https://arxiv.org/abs/2507.13716v1",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The paper benchmarks classifiers on human oddball EEG for Parkinson's diagnosis but provides no qualifying frequency-domain or connectivity methodology and does not establish that participant decisions are central to the analysis.",
+            "date_fetched": "2026-08-01 12:52:16"
+        },
+        {
+            "title": "Perceptual multistability: a window for a multi-facet understanding of psychiatric disorders",
+            "link": "https://arxiv.org/abs/2506.18176v1",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "The synthesis explicitly covers both human and non-human animal studies, so its study populations are not restricted to human participants.",
+            "date_fetched": "2026-08-01 12:52:16"
+        },
+        {
+            "title": "EPFL-Smart-Kitchen-30: Densely annotated cooking dataset with 3D kinematics to challenge video and language models",
+            "link": "https://arxiv.org/abs/2506.01608v2",
+            "relevance_score": 6,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "B"
+            ],
+            "reason": "Human participants complete extended sequential cooking activities while synchronized eye gaze and action data are captured, although the paper primarily develops machine-learning benchmarks rather than cognitive assessment.",
+            "date_fetched": "2026-08-01 12:52:16"
+        },
+        {
+            "title": "Dementia classification from spontaneous speech using wrapper-based feature selection",
+            "link": "https://arxiv.org/abs/2502.03484v3",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The paper develops a human speech biomarker for dementia from a picture-description condition but contains no qualifying interactive decision task, eye tracking, EEG analysis, or cognitive process model.",
+            "date_fetched": "2026-08-01 12:52:16"
+        },
+        {
+            "title": "Human fields and their impact on brain waves A pilot study",
+            "link": "https://arxiv.org/abs/2502.01939v1",
+            "relevance_score": 4,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "C"
+            ],
+            "reason": "The human pilot study centrally compares EEG power spectral density before and during an intervention, but it lacks an interactive cognitive task, eye tracking, connectivity analysis, or computational cognitive model.",
+            "date_fetched": "2026-08-01 12:52:16"
         }
     ]
 }
