@@ -2506,6 +2506,18 @@
             "elements_present": [],
             "reason": "The paper evaluates cognitive processes in text-based AI systems rather than studying cognition in human participants.",
             "date_fetched": "2026-08-04 05:44:42"
+        },
+        {
+            "title": "From population norms to personalized trajectories: interpretable Bayesian forecasting for cognitive decline",
+            "link": "https://arxiv.org/abs/2608.03877v1",
+            "relevance_score": 4,
+            "matched_arc": "Arc 2",
+            "filtered": false,
+            "elements_present": [
+                "D"
+            ],
+            "reason": "The study uses sequential Bayesian inference to model and forecast individualized cognitive-decline trajectories in human cohorts, but includes no interactive task, eye tracking, EEG, or generative model of executive decision processes.",
+            "date_fetched": "2026-08-05 05:43:23"
         }
     ]
 }
