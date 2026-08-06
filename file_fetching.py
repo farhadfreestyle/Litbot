@@ -11,7 +11,7 @@ query = (
         'OR abs:"cognitive decline" OR abs:"cognitive impairment"'
     ') '
     'AND ('
-        'abs:"POMDP" OR abs:"MDP" OR abs:"Markov decision process" OR abs:"Bayesian inference" OR abs:"ecologically valid"'
+        'abs:"Reinfocement Learning" OR abs:"POMDP" OR abs:"MDP" OR abs:"Markov decision process" OR abs:"Bayesian inference" OR abs:"ecologically valid"'
         'OR abs:"amortised inference" OR abs:"amortized inference" OR abs:"computational psychiatry" '
         'OR abs:"active inference" OR abs:"predictive coding" '
         'OR abs:"parameter estimation" OR abs:"parameter identification" OR abs:"model fitting" OR abs:"model validation" '
