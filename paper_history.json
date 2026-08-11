@@ -2528,6 +2528,16 @@
             "elements_present": [],
             "reason": "The study analyzes continuous human EEG as distributions of windowed activity for aging, MCI, and Alzheimer's biomarkers, but does not describe an interactive task, eye tracking, frequency-domain or connectivity EEG analysis, or a cognitive process model.",
             "date_fetched": "2026-08-07 04:52:17"
+        },
+        {
+            "title": "CEAA: A Cognitive Embodied Agents Architecture for Interactive Computing Systems",
+            "link": "https://arxiv.org/abs/2608.09848v1",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because it develops cognitive architecture for artificial embodied agents rather than studying cognition in human participants.",
+            "date_fetched": "2026-08-11 04:17:01"
         }
     ]
 }
