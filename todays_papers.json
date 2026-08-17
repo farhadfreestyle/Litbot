@@ -9,6 +9,1301 @@
             "elements_present": [],
             "reason": "The paper benchmarks classifiers on human clinical EEG, including normal, mild cognitive impairment, and dementia labels, but does not describe interactive tasks, eye tracking, frequency-domain or connectivity EEG analysis, or cognitive process modelling.",
             "date_fetched": "2026-08-17 03:46:56"
+        },
+        {
+            "title": "LoongReflect: Boosting Long-Horizon Reflection in Search Agents via Global Perspective Distillation",
+            "link": "https://arxiv.org/abs/2608.11967v1",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because working memory and planning refer to an LLM search agent's internal context and control policy rather than human cognition.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "DHRCL:Training Code LLMs with Dense Hierarchical Rewards and Curriculum Learning",
+            "link": "https://arxiv.org/abs/2607.26457v2",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because it trains and benchmarks code LLMs without human participants.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "DocAtlas: Long-Document Understanding as Mutable-State Interaction",
+            "link": "https://arxiv.org/abs/2608.07527v1",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because working memory denotes a VLM agent's mutable document state rather than human cognition.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Using Cognitive Models to Improve Language Model Simulation of Human Persuasion Games",
+            "link": "https://arxiv.org/abs/2606.17657v1",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because the experiments evaluate LLM simulations of human behavior rather than human participants.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Organize then Retrieve: Hierarchical Memory Navigation for Efficient Agents",
+            "link": "https://arxiv.org/abs/2606.11680v1",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because memory is an LLM agent context-retrieval mechanism and the benchmarks contain no human participants.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "SaliMory: Orchestrating Cognitive Memory for Conversational Agents",
+            "link": "https://arxiv.org/abs/2606.04120v1",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because it concerns persistent memory operations inside conversational agents rather than human memory.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses",
+            "link": "https://arxiv.org/abs/2606.02373v1",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because working memory is environment-side state for an AI search agent and no humans are studied.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Escaping the Context Bottleneck: Active Context Curation for LLM Agents via Reinforcement Learning",
+            "link": "https://arxiv.org/abs/2604.11462v1",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because it optimizes LLM context management and machine working memory without human participants.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Box Maze: A Process-Control Architecture for Reliable LLM Reasoning",
+            "link": "https://arxiv.org/abs/2603.19182v1",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because it evaluates reasoning-control architecture in LLM systems using simulations rather than human participants.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Dynamic Long Context Reasoning over Compressed Memory via End-to-End Reinforcement Learning",
+            "link": "https://arxiv.org/abs/2602.08382v1",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because compressed and working memory refer to internal LLM representations and context processing.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Meta-Cognitive Reinforcement Learning with Self-Doubt and Recovery",
+            "link": "https://arxiv.org/abs/2601.20193v2",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because metacognition is implemented and benchmarked in artificial reinforcement-learning agents without humans.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "A New Strategy for Artificial Intelligence: Training Foundation Models Directly on Human Brain Data",
+            "link": "https://arxiv.org/abs/2601.12053v1",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because it is a conceptual proposal for training foundation models rather than a human-participant cognitive study.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Time-Scaling Is What Agents Need Now",
+            "link": "https://arxiv.org/abs/2601.02714v1",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because it concerns temporal reasoning in AI agents and contains no human-participant methodology.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "NL2CA: Auto-formalizing Cognitive Decision-Making from Natural Language Using an Unsupervised CriticNL2LTL Framework",
+            "link": "https://arxiv.org/abs/2512.18189v1",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because the principal experiments construct and optimize artificial cognitive agents rather than directly studying human participants.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Memory in the Age of AI Agents",
+            "link": "https://arxiv.org/abs/2512.13564v2",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because it surveys memory mechanisms for foundation-model agents rather than human memory.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Estimating cognitive biases with attention-aware inverse planning",
+            "link": "https://arxiv.org/abs/2510.25951v1",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because the demonstrated subjects are reinforcement-learning agents in Waymo scenarios rather than human participants.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Memory as Action: Autonomous Context Curation for Long-Horizon Agentic Tasks",
+            "link": "https://arxiv.org/abs/2510.12635v3",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because working memory is an LLM context-editing policy and no human cognition is measured.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Emergence of Spatial Representation in an Actor-Critic Agent with Hippocampus-Inspired Sequence Generator",
+            "link": "https://arxiv.org/abs/2510.09951v3",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because the study population consists of artificial navigation agents rather than humans.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Mental Accounts for Actions: EWA-Inspired Attention in Decision Transformers",
+            "link": "https://arxiv.org/abs/2509.15498v1",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because attention and memory are mechanisms inside decision-transformer agents evaluated on control benchmarks.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Reward function compression facilitates goal-dependent reinforcement learning",
+            "link": "https://arxiv.org/abs/2509.06810v3",
+            "relevance_score": 8,
+            "matched_arc": "Arc 2",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "D"
+            ],
+            "reason": "Six human experiments use interactive goal-dependent learning tasks and computational models to explain working-memory-limited reward learning.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Consciousness as a Functor",
+            "link": "https://arxiv.org/abs/2508.17561v1",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because it is a theoretical formalism without a human-participant study population.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Sculptor: Empowering LLMs with Cognitive Agency via Active Context Management",
+            "link": "https://arxiv.org/abs/2508.04664v2",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because working memory and attention refer to context management within LLMs.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "State Space Models Naturally Produce Time Cell and Oscillatory Behaviors and Scale to Abstract Cognitive Functions",
+            "link": "https://arxiv.org/abs/2507.13638v3",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because it studies an artificial state-space network and has no human participants.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Automated detection of Alzheimer\u2019s disease and mild cognitive impairment from EEG signals using astrophysics-inspired features and hybrid feature selection",
+            "link": "https://www.semanticscholar.org/paper/e8455ce4efde3a8ea3ce09671841358550719a6a",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The title indicates EEG-based clinical classification, but the available record does not establish frequency-domain or connectivity analysis meeting Element C.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Feasibility and exploratory cognitive outcomes of three exercise modalities in oldest-old adults in assisted living facilities: A 24-week pilot randomized controlled trial.",
+            "link": "https://www.semanticscholar.org/paper/eca58134475fd4a3e302a6eb015a1ded65621952",
+            "relevance_score": 3,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A"
+            ],
+            "reason": "The trial uses timed Trail Making and other behavioral cognitive tests, but its central methodology is an exercise intervention without eye tracking, EEG, or cognitive process modelling.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Beyond seizures: eye tracking evidence of cognitive dysfunction in epilepsy - A systematic review.",
+            "link": "https://www.semanticscholar.org/paper/e76b1f9b30b8153dbc24ba117b1f96ff20c150fd",
+            "relevance_score": 5,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "B"
+            ],
+            "reason": "This review centrally synthesizes human eye-tracking markers of attention, memory, inhibition, and socioemotional dysfunction in epilepsy.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "NeuroNest: Community based Cognitive Health Monitoring & Early Dementia Detection System",
+            "link": "https://www.semanticscholar.org/paper/f67304e6b412f9c3b093f2b7d8bc5dfa05dbf2ed",
+            "relevance_score": 5,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A"
+            ],
+            "reason": "The platform uses interactive cognitive games to collect behavioral measures of memory, attention, decisions, and reaction speed for dementia monitoring.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "[Characteristics and individual mortality burden of functional dependency, cognitive impairment, and depressive symptoms among older adults in China].",
+            "link": "https://www.semanticscholar.org/paper/46ae174415a9e5334e7bbe0ae346ee3947a61d1a",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The title concerns cognitive impairment in older adults, but the available record provides no qualifying task, eye tracking, EEG analysis, or cognitive model.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Cognitive and psychiatric outcomes of methamphetamine (Shabu Drug) abstinence: a 6-months longitudinal study in Tanta, Egypt",
+            "link": "https://www.semanticscholar.org/paper/8c44ae671a8b742b5e819e16bc49912c226d7a5c",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The paper concerns longitudinal human cognitive outcomes, but no qualifying behavioral paradigm or multimodal methodology is described.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Effectiveness of the Tailored Activity Program on Basic Activities of Daily Living Among People living with Dementia and Its Impact on Caregiver Burden",
+            "link": "https://www.semanticscholar.org/paper/e7bf585071b1c92565a80204bc9c18d810708e86",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This dementia intervention measures global cognition and daily function but lacks a qualifying interactive task, eye tracking, EEG, or process model.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Impact of cognitive impairment on postoperative delirium and discharge disposition following knee arthroplasty: a Japanese nationwide propensity score\u2013matched study",
+            "link": "https://www.semanticscholar.org/paper/d9914acf12c2ed0b479dfa919f7d2eb0042486b2",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This database study uses diagnostic codes to examine clinical outcomes and contains none of the four methodological elements.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Dual-task, single challenge: functionality as an early marker of cognitive decline",
+            "link": "https://www.semanticscholar.org/paper/b502ff5b28d45ee2ce5e903ee346a9f1dddfd92f",
+            "relevance_score": 5,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A"
+            ],
+            "reason": "Older adults perform timed dual-task walking with verbal fluency or serial subtraction to assess early cognitive decline behaviorally.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Restoring anticipatory control through cognitive\u2013motor dual-task training improves emotional and executive function in frail older adults",
+            "link": "https://www.semanticscholar.org/paper/a89290407697e937b8f2cd4a78cfeb1ac6b0e210",
+            "relevance_score": 4,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A"
+            ],
+            "reason": "The study uses cognitive\u2013motor dual tasks and reaction-time executive measures, while its EEG analysis is limited to event-related potentials rather than frequency or connectivity methods.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Brain alterations detected by multiplex magnetic resonance imaging in nasopharyngeal carcinoma patients after induction chemotherapy: a longitudinal study",
+            "link": "https://www.semanticscholar.org/paper/341e285eea3904958baad129a4ad5420b7da6bd8",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The study relates MRI changes to MoCA decline but does not use an interactive task, eye tracking, EEG, or generative cognitive modelling.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Thai Mental State Examination Performance in Patients with Parkinson\u2019s Disease according to Montreal Cognitive Assessment Score in Detecting Mild Cognitive Impairment",
+            "link": "https://www.semanticscholar.org/paper/f9271b820acabd33e9f6904fbe077298576cf93c",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This clinical screening comparison evaluates TMSE against MoCA but includes none of the four target methodological elements.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Load-Dependent Modulation of Cognitive Control Following OM Meditation: Time-Resolved EEG Evidence from the N2 Component.",
+            "link": "https://www.semanticscholar.org/paper/d8738d60458d1f7e8cab1fe029949e1a81bd1a1e",
+            "relevance_score": 3,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A"
+            ],
+            "reason": "The title indicates a load-dependent cognitive-control task, but the EEG outcome is an N2 ERP rather than qualifying frequency-domain or connectivity analysis.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Effects of a Dual Task of Exercise and Inhibitory Training on Cognitive Control Toward Food Cues and Frontal EEG Activity",
+            "link": "https://www.semanticscholar.org/paper/d7586c3075a09c3adb316a2f20fd7a3af5096e6a",
+            "relevance_score": 4,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A"
+            ],
+            "reason": "Participants perform food Go/No-Go and Stroop tasks, but EEG is reported only as alpha and theta band-power summaries and therefore does not meet Element C.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Robot-assisted integrated cognitive-motor rehabilitation in patients with chronic stroke: a randomized controlled trial",
+            "link": "https://www.semanticscholar.org/paper/666c42f9cf3fb29b28808eee37d1805bb3e54c88",
+            "relevance_score": 4,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A"
+            ],
+            "reason": "Stroke patients complete interactive goal-directed reaching tasks incorporating attention, memory, and executive demands, without eye tracking, EEG, or cognitive modelling.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "The effect of theta-gamma coupling on response to cognitive remediation combined with transcranial direct current stimulation in older adults at high risk for dementia: a PACt-MD secondary analysis.",
+            "link": "https://www.semanticscholar.org/paper/58a80594413cee04de55b81adb24a87f2264654a",
+            "relevance_score": 8,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "C"
+            ],
+            "reason": "At-risk older adults perform an N-back task while EEG theta\u2013gamma phase-amplitude coupling is analyzed as a moderator of long-term cognitive response.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "A task-aligned multimodal machine learning framework for studying working memory dysfunction in Parkinson\u2019s disease",
+            "link": "https://www.semanticscholar.org/paper/450ccd39c2e3732b961e46a6c2ab98e5fc4bb584",
+            "relevance_score": 7,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "B"
+            ],
+            "reason": "PD and control participants complete a visual change-detection working-memory task with EEG and pupillometry, although qualifying EEG spectral or connectivity methods are not specified.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Cognitive Impairment Across Kidney Replacement Therapies: A Montreal Cognitive Assessment-Based Comparative Study",
+            "link": "https://www.semanticscholar.org/paper/2064cafa190877b9b722c352e65e2c0a308018b7",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This MoCA-based clinical comparison does not establish any qualifying behavioral, eye-tracking, EEG, or computational modelling method.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Comparing therapeutic effects of Qur\u2019anic recitation and classical music in vascular cognitive impairment: a case series",
+            "link": "https://www.semanticscholar.org/paper/f9401773a44f34e124de0d907b55e80b69048f8b",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The case series assesses cognition after passive auditory interventions without any of the four target elements.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Assessing Patients' ability to learn medication protocols during a hemodialysis session.",
+            "link": "https://www.semanticscholar.org/paper/e971cb7e2f3eac4ec015cf6bafa9c25454b3abab",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The title concerns human learning during hemodialysis, but the available record does not document a qualifying methodology.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Interpretable radiomics signature of the basal ganglia-thalamic circuitry for predicting PD-MCI: a multi-center study with external validation",
+            "link": "https://www.semanticscholar.org/paper/d3ea1fbf92c4f564b4469532309f7f540c4455d3",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This clinically relevant PD-MCI classifier uses structural MRI radiomics and clinical variables but none of the four target elements.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Free-Text Smartphone Keystroke Dynamics for Cognitive Impairment Pre-Screening with LLM-Assisted Text Analysis.",
+            "link": "https://www.semanticscholar.org/paper/cda713a8889568d474c1419a7204922b65b60f6d",
+            "relevance_score": 4,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A"
+            ],
+            "reason": "Human participants repeatedly produce free-text smartphone behavior for MCI screening, providing an active digital task without eye tracking, EEG, or cognitive process modelling.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Rs-fMRI reveals that taVNS improves cognitive and emotional function in mild cognitive impairment by reconfiguration of \u201csensory relay-salience-default\u201d cross-network effective connectivity: a randomized, double-blind, sham-controlled trial",
+            "link": "https://www.semanticscholar.org/paper/ca3c48f6f90fdbfd987b2427428fc95d21082904",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The MCI trial analyzes resting-state fMRI effective connectivity and cognitive scales rather than any of the four specified methods.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Dynamic Cognitive Prior Generation for Robust EEG-to-Image Decoding",
+            "link": "https://www.semanticscholar.org/paper/c2cd230f12375cb5a8fa4877148127a975f71827",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because it decodes and retrieves images from EEG for a machine-learning benchmark rather than assessing human cognition.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Neuropsychological aspects of digital distraction: a randomized controlled experimental study",
+            "link": "https://www.semanticscholar.org/paper/b4ddbbc9c7e53bc172ca365972d3b55fd4cd7de1",
+            "relevance_score": 8,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "C"
+            ],
+            "reason": "Adults perform Dual N-back, Stroop, and selective-attention tasks during continuous EEG, with frontal-midline theta and other spectral parameters analyzed.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Post-Stroke Psychosis and Neuropsychiatric Disturbances in an Older Adult: A Diagnostic Challenge and Case Report",
+            "link": "https://www.semanticscholar.org/paper/a8821b60bd719fd9caef6b37dad44e3e1127a231",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This single clinical case uses video EEG for seizure exclusion rather than executive-task or frequency/connectivity analysis.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Negative symptom dimensions link cognitive impairment to global and social functioning in 22q11.2 deletion syndrome.",
+            "link": "https://www.semanticscholar.org/paper/a4e44507a82a80bccb53ce3102c908ae7d1baa1a",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The study relates clinical symptom dimensions to cognitive assessments and functioning but lacks the four target methodological elements.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Attentionally directed oculomotor training produces disease-stage-dependent effects on plasma tau, cognition, and oculomotor signatures in patients with mild cognitive impairment.",
+            "link": "https://www.semanticscholar.org/paper/98f04764df2c8a6d4c2f3b432c18bd951fa891e5",
+            "relevance_score": 8,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "B"
+            ],
+            "reason": "Participants with MCI complete a gamified attentionally directed eye-tracking task with reaction-time, accuracy, and oculomotor signatures analyzed across risk strata.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Efficacy of different computerized cognitive training modalities in improving global cognitive function in patients with mild cognitive impairment: a network meta-analysis",
+            "link": "https://www.semanticscholar.org/paper/70c8afeb105696b6e9e685b44e8cb13019cc2368",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This meta-analysis compares cognitive training interventions using global test scores but does not centrally analyze the four specified elements.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Transcranial ultrasound stimulation of the aMCC transiently improves performance, modulates N2 and conflict monitoring dynamics",
+            "link": "https://www.semanticscholar.org/paper/6a6d4139b12e24fcb1a4bdcc1c9217fa8d23075c",
+            "relevance_score": 8,
+            "matched_arc": "Both",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "D"
+            ],
+            "reason": "Participants perform a Flanker conflict task and exploratory drift-diffusion modelling estimates how aMCC stimulation changes distractor suppression, while EEG is ERP-based rather than spectral.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Resting-state and task-evoked phase-amplitude coupling between cardiac and neural rhythms is sensitive to anxiety severity",
+            "link": "https://www.semanticscholar.org/paper/5700c057995ae03cfaef0d29c663747a4fe4d235",
+            "relevance_score": 7,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "C"
+            ],
+            "reason": "Adults perform mental arithmetic during concurrent EEG and ECG, with frontocentral theta phase-amplitude coupling analyzed at rest and during task engagement.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Relationship between insomnia and cognitive function in elderly Chinese cerebral small vessel disease patients: mediating effect of neutrophil-to-lymphocyte ratio",
+            "link": "https://www.semanticscholar.org/paper/4b77110c59b019ed53d807de81e3d36294e55176",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This clinical association study uses polysomnography, inflammation measures, and MoCA but no qualifying task, eye tracking, EEG analysis, or cognitive process model.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Predictive value of 18F-FDG PET/CT PyRadiomics features using a tabular deep learning model for cancer-related cognitive impairment in patients with DLBCL without CNS involvement",
+            "link": "https://www.semanticscholar.org/paper/3c8757f7c52fd73753e8db97e5a1d3156450653a",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The paper predicts cancer-related cognitive impairment from PET/CT radiomics and clinical data without the four target elements.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Cerebellar Topological Alterations Across the Alzheimer\u2019s Disease Continuum",
+            "link": "https://www.semanticscholar.org/paper/327f57c0275d2c7740ab92d4b2816866f8b7185e",
+            "relevance_score": 5,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "C"
+            ],
+            "reason": "Resting whole-brain EEG is analyzed using frequency-specific phase-locking connectivity and graph topology across healthy, MCI, and Alzheimer groups.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Salience network hub dysfunction is associated with cognitive impairment in self\u2010limited epilepsy with centrotemporal spikes: An OPM\u2010MEG study",
+            "link": "https://www.semanticscholar.org/paper/31e81fd4387410272815012c07f3a10668a948fd",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The study provides frequency-resolved MEG connectivity biomarkers of cognition, but it does not use EEG or another qualifying element.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Dissociable neural mechanisms of cognitive enhancement through transcranial stimulation and behavioral training.",
+            "link": "https://www.semanticscholar.org/paper/1cc23071f325936c0bedf3a6382d154a71aaa24f",
+            "relevance_score": 8,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "C"
+            ],
+            "reason": "Healthy adults perform adaptive N-back tasks while high-density EEG power and theta\u2013gamma phase-amplitude coupling are analyzed longitudinally.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Eye movement characteristics and their correlation with cognitive function in cerebral small vessel disease",
+            "link": "https://www.semanticscholar.org/paper/f9a69c51e2ab11f0e8ee5bcdf24e6b31cb6780d7",
+            "relevance_score": 5,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "B"
+            ],
+            "reason": "Videonystagmography-derived saccade accuracy, latency, and velocity are analyzed as markers of cognitive impairment and CSVD burden.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Early Diagnosis and Classification of Alzheimer\u2019s Disease Based on EEG Time\u2013Frequency Images",
+            "link": "https://www.semanticscholar.org/paper/e68f9ea9063fa3d3382554edb3c5fd91509c6bbb",
+            "relevance_score": 5,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "C"
+            ],
+            "reason": "Resting EEG is transformed into time\u2013frequency representations for three-way classification of Alzheimer disease, MCI, and healthy controls.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Physical activity promotes clinical benefits beyond dopaminergic preservation in Parkinson\u2019s disease: a longitudinal analysis of the PPMI cohort",
+            "link": "https://www.semanticscholar.org/paper/a3ceb8d95ea955cfd8580d428628e5ab4f47c6d6",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The longitudinal PD study examines physical activity, DAT imaging, and cognitive scores without any of the four specified methods.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Insight and executive functions in acquired brain injury: empirical evidence and theoretical frameworks",
+            "link": "https://www.semanticscholar.org/paper/9b2f38903cb843f21212e29e67bc9dd0f702243e",
+            "relevance_score": 2,
+            "matched_arc": "Arc 2",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The review discusses predictive coding and executive dysfunction conceptually but does not implement a qualifying generative model or collect target multimodal data.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Voice Disorders as Early Biomarkers of Cognitive Decline.",
+            "link": "https://www.semanticscholar.org/paper/457be5109f111105cf8f2d28f8a00296798cf3f8",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This large retrospective study evaluates diagnosed voice disorders as risk markers for cognitive decline without the four target elements.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Beyond Static Screening: Depression Symptom Indicators Using Gaze Behavior and Gameplay Performance",
+            "link": "https://www.semanticscholar.org/paper/3fd0d85136476581b2e367fec0a63d668c8288a4",
+            "relevance_score": 8,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "B"
+            ],
+            "reason": "Human participants play six cognitive mini-games while Tobii eye tracking captures gaze markers jointly associated with depressive symptom severity.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Socially Assistive Robots for Cognitive Assessment and Training in Older Adults: A Systematic Review",
+            "link": "https://www.semanticscholar.org/paper/0fbeb43fcc3d9409356e841f15f98df3605a409d",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The review concerns interactive cognitive assessment in older adults but does not establish any one target element as a consistently central analyzed method.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "A Conceptual Framework to Integrate Research Programs on Self-Regulation in Education",
+            "link": "https://www.semanticscholar.org/paper/ec0664a31270238d2c41b067ec9fa027bd461193",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This conceptual educational framework discusses executive function and future computational methods but contains no qualifying empirical methodology.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Identification of cognitive impairment in patients with hypertension: a systematic review and critical appraisal of existing models",
+            "link": "https://www.semanticscholar.org/paper/ea911871a24d245d6612227953b38bb6892a09a4",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The review appraises statistical and machine-learning prediction models for cognitive impairment but not generative cognitive process models.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Triglyceride-glucose index is associated with cerebral small vessel disease-related motor impairment in Parkinson\u2019s disease: a mediation analysis",
+            "link": "https://www.semanticscholar.org/paper/ea57f8b4a7d7ef97e7175bd599e032c3c909d37b",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This retrospective clinical mediation analysis contains none of the four target methodological elements.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "36. Reliability of Objective Screening Tools for Concussions in Collegiate Athletes",
+            "link": "https://www.semanticscholar.org/paper/a9f823f4b1f364f71301875ed379546ccb4f3f76",
+            "relevance_score": 3,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A"
+            ],
+            "reason": "Athletes repeatedly complete timed visual-cognitive MULES and SUN screening tasks, but no instrumented eye tracking, EEG, or modelling is described.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "An Open-Label Trial Protocol to Test Menstrual Cycle Effects and Tolerance to Low-Dose Psilocybin in Healthy Menstruating Persons.",
+            "link": "https://www.semanticscholar.org/paper/a00b8c0f4b9f16bb84263c113e4e1b78d63c7e18",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The available title does not indicate cognitive assessment or any of the four target methods.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Automatic value learning results in counterproductive human behavior",
+            "link": "https://www.semanticscholar.org/paper/932714cda19a651d3316a781809f92fabcebf656",
+            "relevance_score": 5,
+            "matched_arc": "Arc 2",
+            "filtered": false,
+            "elements_present": [
+                "A"
+            ],
+            "reason": "Across multiple human experiments, participants make repeated reward-based choices revealing automatic credit assignment and its relationship to working-memory capacity.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "The application of cerebellar repetitive transcranial magnetic stimulation on aphasia after stroke: A randomized controlled trial protocol",
+            "link": "https://www.semanticscholar.org/paper/924337e650826165a71082506937972614f2118f",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The protocol evaluates language, cognition, and neuroimaging after rTMS but does not specify a target interactive task, eye tracking, EEG, or cognitive process model.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "57. Concussion in Older Adults: Patient Characteristics and Key Clinical Considerations for Neuropsychologists",
+            "link": "https://www.semanticscholar.org/paper/7e9966667ca5673cccb94708649adb8070f44ddd",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This retrospective clinical description includes cognitive and vestibular/ocular screening but no instrumented target methodology.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "9. Speed and Stability: Oculomotor Function, Balance, and Cognitive Performance in Elite Short-Track Speed Skaters",
+            "link": "https://www.semanticscholar.org/paper/7aedfd67913bd29930e96b03c53a4973dcb469ef",
+            "relevance_score": 7,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "B"
+            ],
+            "reason": "Elite athletes complete instrumented eye-tracking tests and computerized attention, inhibition, working-memory, and planning tasks.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Pupil\u2013galvanic Skin Response Synchrony during Family-centered Visual Reminiscence in Older Adults with Cognitive Impairment: A Proof-of-concept Study",
+            "link": "https://www.semanticscholar.org/paper/71f196fea05745d85bfc0fa236dc612e84e8a267",
+            "relevance_score": 4,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "B"
+            ],
+            "reason": "Eye-tracked pupil responses are centrally analyzed with GSR during passive personal-photo viewing across cognitive-impairment stages.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Exploring Cognitive Functions Through Virtual Reality: a Systematic Review of Ecologically Valid Assessments.",
+            "link": "https://www.semanticscholar.org/paper/3eca96bfdaaf55d268c6dcc41f9783d32364f257",
+            "relevance_score": 4,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A"
+            ],
+            "reason": "The review centrally examines immersive interactive VR assessments of attention, inhibition, memory, and executive function.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Beyond completion time: predicting individual differences in executive functions using cursor trajectory features in an online Trail Making Test",
+            "link": "https://www.semanticscholar.org/paper/32f6fea58bb5a0ecd396f787b92449bfaf290f53",
+            "relevance_score": 5,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A"
+            ],
+            "reason": "The title indicates an interactive online Trail Making Test using detailed cursor trajectories to quantify individual executive-function differences.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Navigation performance in virtual reality\u2013based cognitive assessment games as a candidate digital cognitive marker of hippocampal vulnerability: a scoping review",
+            "link": "https://www.semanticscholar.org/paper/2d8ea2825bbc5e037332e41267c97b9ac6004af3",
+            "relevance_score": 5,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A"
+            ],
+            "reason": "The review focuses on interactive VR navigation-game performance as a digital marker of dementia-related spatial and executive decline.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Subclinical seizure burden and cognitive impairment: The value of ambulatory EEG monitoring in underserved populations.",
+            "link": "https://www.semanticscholar.org/paper/290947c659c4990bbd966cb7896f817d9f28af13",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "Ambulatory EEG is used clinically to detect seizures rather than for frequency-domain or connectivity analysis of executive cognition.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Effects of individualized Theta frequency high-definition transcranial alternating current stimulation on cognitive function in patients with post-stroke cognitive impairment: a randomized, single-blinded, controlled trial.",
+            "link": "https://www.semanticscholar.org/paper/ae6fcd8fbe14daafd4cb2caf7b5e0610e4cf262e",
+            "relevance_score": 5,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "C"
+            ],
+            "reason": "The trial analyzes resting-state frontal theta and gamma EEG power spectral density in relation to cognitive response after individualized theta stimulation.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "The Relevance of Sleep Quality for Clinical Care in Parkinson\u2019s Disease: Clinical and Cognitive Differences Between Good and Poor Sleepers: A Cross-Sectional Study",
+            "link": "https://www.semanticscholar.org/paper/adcd63a70f273fe95566759eb2285bcff71cca90",
+            "relevance_score": 3,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A"
+            ],
+            "reason": "PD participants complete timed Stroop testing alongside global cognitive measures, although the study is primarily a clinical sleep-quality comparison.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Evaluating the Neuroprotective Effects of Personalized Ayurvedic Integrative Therapy on Cognitive Function, Brain Connectivity, and Neuroinflammatory Biomarkers in Early Neurodegenerative Disorders: A Prospective Clinical Study",
+            "link": "https://www.semanticscholar.org/paper/01f34a2cd50c1eabcd447fa1ca5951c304339ef5",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This intervention study uses cognitive scales, resting fMRI connectivity, and biomarkers but none of the four specified elements.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Bridging strategy gaps in programming: the role of visual scaffolding for learners with low cognitive ability",
+            "link": "https://www.semanticscholar.org/paper/f8d0b3cedd37679c24cc993e7e173a7c7dd59cc8",
+            "relevance_score": 7,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "B"
+            ],
+            "reason": "Adults perform programming and executive-function tasks while eye tracking is used to identify strategy differences associated with executive-function level.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Development and validation of a self-report questionnaire to assess executive functions in healthy adults: the executive functions in healthy adults questionnaire (EFHAQ)",
+            "link": "https://www.semanticscholar.org/paper/b47628712652668dbfeb6af476d6eb140b0b2ec9",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The study validates a self-report executive-function questionnaire rather than using an interactive task, eye tracking, EEG, or cognitive process model.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Working memory adaptively recomputes plans amid distraction",
+            "link": "https://www.semanticscholar.org/paper/972fc704e25d5183ffd212d77137d6f70da4aa55",
+            "relevance_score": 8,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "B"
+            ],
+            "reason": "Participants navigate a Snake-inspired multistep planning task under distraction while eye movements and EEG representations are jointly analyzed, though EEG analysis is representational rather than spectral.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Inside and outside the body space: a study on environmental knowledge, interoceptive and functional body representations in the prodromal stage of dementia",
+            "link": "https://www.semanticscholar.org/paper/3b120e036cbe177a96401b405439c13bedd90d19",
+            "relevance_score": 4,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A"
+            ],
+            "reason": "MCI and control participants complete virtual-environment landmark and route-knowledge tasks relevant to early spatial cognitive decline.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Generative artificial intelligence\u2013assisted visual art therapy improves cognition, anxiety, and depression in community-dwelling older adults",
+            "link": "https://www.semanticscholar.org/paper/d0ec3af1fafd5b03d04849146d5a743c3832d5e2",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "Human participants receive an AI-assisted art intervention, but outcomes are clinical scales without a qualifying behavioral, eye-tracking, EEG, or computational method.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "[A case of anti-N-methyl-D-aspartate (NMDA) receptor encephalitis presenting with characteristic symptoms such as altered sense of time, visual distortion and hallucinations].",
+            "link": "https://www.semanticscholar.org/paper/c0ba62ecbc982d0b6ef51f840ab4a1271c7dd94f",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This clinical case uses EEG for epileptiform diagnosis and contains no target executive-function methodology.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Executive Function Assessment Through Wireless EEG and Gait Monitoring During Cognitive-Motor Dual Tasks.",
+            "link": "https://www.semanticscholar.org/paper/aebe4abd8126b58163f30515389dfb9a5a666632",
+            "relevance_score": 7,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "C"
+            ],
+            "reason": "Healthy participants perform N-back and Go/No-Go tasks during walking while wireless EEG frequency features and detailed gait measures are analyzed.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "The effectiveness and safety of high-intensity interval training, yoga and intermittent hypoxia-hyperoxia exposure on cognitive performance and health in individuals with mild cognitive impairment (KAYH): a study protocol for a randomized, sham-controlled trial",
+            "link": "https://www.semanticscholar.org/paper/aac58738266faf65797e2274a20d519d2a8efcd7",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The protocol assesses MCI intervention effects mainly with MoCA and health measures, without the four target methods.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Effects of Rhodiola rosea Combined With Auricular Vagus Nerve Electrical Stimulation on Gut Microbiota and Cognitive Function in Patients With Cognitive Impairment of Qi Deficiency and Blood Stasis Type",
+            "link": "https://www.semanticscholar.org/paper/a132f50c9ce9a058e3a94ae68bfcbb076187298a",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This retrospective treatment comparison uses cognitive scales and biological markers but none of the target elements.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Cognitive risk during underwater exposure: from environmental stressors to assessment and context-aware monitoring",
+            "link": "https://www.semanticscholar.org/paper/90cdfd767ad69221e44acc67de52122c9eedd26e",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The review discusses behavioral tasks and EEG as possible monitoring tools but does not centrally implement or analyze a qualifying method in a participant study.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Cerebral Microbleeds and Superficial Siderosis: Vascular Correlates and Cognition in a Memory Clinic.",
+            "link": "https://www.semanticscholar.org/paper/28be832554eeb91782089995dee2638c2b97dfa4",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This retrospective memory-clinic MRI study relates vascular findings to global cognitive scores without the four target elements.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Sensitivity and specificity of the CANTAB Paired Associates Learning test for identifying mild cognitive impairment.",
+            "link": "https://www.semanticscholar.org/paper/1f495e7b9fa80fa65af720bc59fa0c4faa7b435b",
+            "relevance_score": 5,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A"
+            ],
+            "reason": "Participants complete the computerized interactive Paired Associates Learning task, whose error measure is evaluated for MCI discrimination.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Lasting effects of redlining: The association of historical redlining and cognitive function in older Black adults.",
+            "link": "https://www.semanticscholar.org/paper/1dc7bbf12a3a70c7ec40e4fbf428dd0568db8fa6",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The longitudinal study measures several cognitive domains but does not use any of the four target methodologies.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Advances in the Treatment of Cognitive Impairment in Major Depressive Disorder: Innovations and Research Challenges",
+            "link": "https://www.semanticscholar.org/paper/1ab70be91829164a2f67eca891c74db4639dc9f0",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The title concerns treatment of cognitive impairment, but the available record provides no qualifying methodology.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Repeated within-session rule switching in the marmoset: a paradigm for tracking the dynamics of cognitive flexibility",
+            "link": "https://www.semanticscholar.org/paper/edfe80364992d95c3c4b48324d0ca94b39e344cb",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": true,
+            "elements_present": [],
+            "reason": "Excluded because the participants are marmosets rather than humans.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Practices and barriers in screening for Cognitive Impairment in Heart Failure: a Clinician Survey.",
+            "link": "https://www.semanticscholar.org/paper/d3b7e946418fdd5c57faee497414641f972ab6d0",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This clinician survey examines cognitive-screening practice rather than measuring human cognition with any target method.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Sleep EEG-Derived Brain Health and Long-Term Cognitive Decline in Community-Dwelling Adults",
+            "link": "https://www.semanticscholar.org/paper/cf716a173b7e2b31b18abebb24fb370d25995d4f",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "Sleep EEG-derived aggregate scores predict longitudinal cognitive decline, but the summary does not describe qualifying frequency-domain or connectivity analysis.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Long-Term Blood Pressure Variability, Hippocampal Subfield Volume and Cognitive Decline: A Population-Based Prospective MRI Study.",
+            "link": "https://www.semanticscholar.org/paper/bc7bf76796f8914aed524019819c2b2c9ef2e6aa",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This prospective MRI and mediation study contains none of the four target elements.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Applications of Continuous Glucose Monitoring in Cognitive Research in Diabetes: a Scoping Review",
+            "link": "https://www.semanticscholar.org/paper/b21bed339634ff84226b254c6b90d574b0d5d9d4",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The review maps cognitive assessments used alongside glucose monitoring but does not establish a target task or multimodal method as central.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Utility of Tablet-Based Eye Tracking for Early Screening of Poststroke Cognitive Impairment: Diagnostic Cohort Study",
+            "link": "https://www.semanticscholar.org/paper/ac7ace7af970a3a7611dd1db4ee5f7c8d7ce6411",
+            "relevance_score": 7,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "B"
+            ],
+            "reason": "Stroke patients complete visual paired-comparison and antisaccade tasks using tablet eye tracking, yielding latency and error markers predictive of later impairment.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Enhancing early detection of mild cognitive impairment: Development and validation of a culturally adapted scale for Chinese older adults.",
+            "link": "https://www.semanticscholar.org/paper/8b125b81d6df56d0c14a27d97845cb27797b6ad4",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The study validates a culturally adapted MCI questionnaire but does not include any of the four target methods.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Cognitive screening for MCI in low-educated and illiterate older adults: comparative diagnostic accuracy of four instruments.",
+            "link": "https://www.semanticscholar.org/paper/8595b488ede7affe3dd097fb764536c8484bc0f0",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The title indicates clinical comparison of screening instruments without evidence of a qualifying task or multimodal method.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Predicting Cognitive Function Using Transformer-Derived Speech Representations and Longitudinal Coherence Features",
+            "link": "https://www.semanticscholar.org/paper/611bd65e4e06a3de11b64733db6ff741eaec2106",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The framework forecasts MMSE from longitudinal human speech and clinical history but uses a predictive classifier rather than a cognitive process model.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Association between physical exercise and cognitive frailty among community-dwelling older adults: the mediating role of self-efficacy",
+            "link": "https://www.semanticscholar.org/paper/01a6afbbc65231dd308ffdbdb28ad297fbbbd7dc",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This questionnaire-based mediation study contains none of the four target methodological elements.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "The Therapeutic Efficacy of Gold Needle \u201cRegulating Spirit\u201d Acupuncture for Amnestic Mild Cognitive Impairment: Protocol for a Randomized Controlled Trial",
+            "link": "https://www.semanticscholar.org/paper/ec5ce06e6741e2f7fce5c95a88e271b63da144a9",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The trial protocol uses cognitive scales, biomarkers, and fMRI but does not specify any target interactive, eye-tracking, EEG, or computational method.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Eye movements and ocular biomarkers in mild traumatic brain injury: from oculomotor pathophysiology to diagnosis and prognosis",
+            "link": "https://www.semanticscholar.org/paper/c5fafe1d2f106fae63867d5a2f18d2f5721ddca0",
+            "relevance_score": 5,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "B"
+            ],
+            "reason": "This review centrally evaluates quantitative eye-movement and pupillary biomarkers of distributed cognitive-control dysfunction after mild traumatic brain injury.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Gender differences in post-stroke cognitive outcomes in rehabilitation: insights from MoCA domain index scores",
+            "link": "https://www.semanticscholar.org/paper/95d613f9d4ec33f55c1acfb711e4e4aa5241740e",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The post-hoc study analyzes MoCA domain scores after rehabilitation but includes none of the four target elements.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "From Local Inhibition to Distributed Motor Control in Aging",
+            "link": "https://www.semanticscholar.org/paper/6fb08ad3fa900f05f3117a9b2654a56c29a42c93",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The title is broadly relevant to inhibition and aging, but no qualifying methodology is available in the record.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Performance of the participant self-rating version of the Quick Dementia Rating System in a racially diverse cohort of non-demented older adults.",
+            "link": "https://www.semanticscholar.org/paper/551202858dba2ee01c972807c23c41dccda133e5",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The study validates a self-rating dementia prescreen against clinical ratings and MoCA without any target modality or process model.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Bone Turnover Markers Associated with Cognitive Dysfunction in Patients Undergoing Hemodialysis: A Cross-Sectional Study",
+            "link": "https://www.semanticscholar.org/paper/52e5b10ab0a27908b667776c1e6bb1372df53c11",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This biomarker association study uses MoCA and MMSE but contains none of the four target elements.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Standardized Comparison of Clinical, Cognitive, Genetic, Neuroimaging, and Fluid Biomarkers for Predicting 24-Month Progression from Mild Cognitive Impairment to Alzheimer's Disease",
+            "link": "https://www.semanticscholar.org/paper/430f8df8b62289091870f3b9aeb6e28c779eb62b",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This multimodal prognosis study compares standard cognitive, genetic, imaging, and fluid predictors but includes none of the specified target elements.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Effects of qigong exercise on post-stroke cognitive impairment: a systematic review and meta-analysis of randomized controlled trials",
+            "link": "https://www.semanticscholar.org/paper/430448ac822712e67b23a435811538a611df59ef",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The meta-analysis evaluates post-stroke cognitive scale changes after qigong but not the four target methodologies.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Choroid Plexus MRI Features and Cognitive Outcomes in Multiple Sclerosis: A Scoping Review",
+            "link": "https://www.semanticscholar.org/paper/e9571e747c64664782479773ba56ecd2f67268c4",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This MRI scoping review concerns cognition in multiple sclerosis but contains none of the four target elements.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Combining EEG-guided HD-tACS and Immersive Virtual Reality for Social Prediction Training in Congenital and Acquired Cerebellar Damage: A randomized sham-controlled trial protocol",
+            "link": "https://www.semanticscholar.org/paper/b63634cc74c043869dd33ac7c8334aea7d53a34c",
+            "relevance_score": 7,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "C"
+            ],
+            "reason": "The protocol combines interactive immersive social-prediction training with EEG-derived individual gamma frequency and electrophysiological outcomes in clinical groups.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Preoperative assessment of cerebral blood flow as a predictor of cerebral desaturation during shoulder arthroscopy",
+            "link": "https://www.semanticscholar.org/paper/acd538904791b92373bcc4e7651667c055f69d37",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The perioperative study uses blood-flow, NIRS, and MoCA measures without any of the four target elements.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Graphomotor performance as a quantitative marker of Alzheimer\u2019s disease: a tablet-based case\u2013control ROC study",
+            "link": "https://www.semanticscholar.org/paper/9f15dd50399a6aa710e4e4079dd3f28e3cfaf1c1",
+            "relevance_score": 5,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A"
+            ],
+            "reason": "Participants perform signature, drawing, and Trail Making tasks on a digitizing tablet, yielding detailed temporal and kinematic digital markers of Alzheimer disease.",
+            "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "Sleep homeostasis impairment across obstructive sleep apnea severity: findings from a population-based cohort study",
+            "link": "https://www.semanticscholar.org/paper/458dad55d031d7717766ee9a6063c2531b1b06fd",
+            "relevance_score": 5,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "C"
+            ],
+            "reason": "Population polysomnography is analyzed in the EEG frequency domain using slow-wave activity dynamics across sleep episodes and apnea severity.",
+            "date_fetched": "2026-08-17 15:50:20"
         }
     ]
 }
