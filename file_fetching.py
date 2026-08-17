@@ -120,11 +120,6 @@ def fetch_semantic_scholar(query, max_results=100):
     return papers[:max_results]
 
 
-new_papers = fetch_semantic_scholar()
-
-
-
-
 def main():
     with open(HISTORY_FILE, "r") as file:
         history_json = json.load(file)
