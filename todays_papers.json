@@ -1,0 +1,14 @@
+{
+    "papers": [
+        {
+            "title": "A Negative-Control Protocol for Clinical EEG Foundation-Model Benchmarks: Dataset Identity and External-Cohort Stress Testing",
+            "link": "https://arxiv.org/abs/2607.24519v3",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The paper benchmarks classifiers on human clinical EEG, including normal, mild cognitive impairment, and dementia labels, but does not describe interactive tasks, eye tracking, frequency-domain or connectivity EEG analysis, or cognitive process modelling.",
+            "date_fetched": "2026-08-17 03:46:56"
+        }
+    ]
+}
