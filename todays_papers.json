@@ -1,0 +1,26 @@
+{
+    "papers": [
+        {
+            "title": "M-LINKX: Multiview Graph Learning for Brain Cognitive Disease Detection",
+            "link": "https://arxiv.org/abs/2608.14847v1",
+            "relevance_score": 5,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "C"
+            ],
+            "reason": "The study centrally analyses frequency-band-specific EEG functional connectivity graphs for classifying human participants with MCI and dementia, but includes no interactive task, eye tracking, or cognitive process model.",
+            "date_fetched": "2026-08-18 03:41:20"
+        },
+        {
+            "title": "Effects of Rhodiola rosea Combined With Auricular Vagus Nerve Electrical Stimulation on Gut Microbiota and Cognitive Function in Patients With Cognitive Impairment of Qi Deficiency and Blood Stasis Type",
+            "link": "https://www.semanticscholar.org/paper/a132f50c9ce9a058e3a94ae68bfcbb076187298a",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This human clinical treatment study monitors cognition with MoCA and MMSE but contains no interactive decision task, eye tracking, qualifying EEG analysis, or computational model of cognition.",
+            "date_fetched": "2026-08-18 03:41:20"
+        }
+    ]
+}

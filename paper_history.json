@@ -3843,6 +3843,18 @@
             ],
             "reason": "Population polysomnography is analyzed in the EEG frequency domain using slow-wave activity dynamics across sleep episodes and apnea severity.",
             "date_fetched": "2026-08-17 15:50:20"
+        },
+        {
+            "title": "M-LINKX: Multiview Graph Learning for Brain Cognitive Disease Detection",
+            "link": "https://arxiv.org/abs/2608.14847v1",
+            "relevance_score": 5,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "C"
+            ],
+            "reason": "The study centrally analyses frequency-band-specific EEG functional connectivity graphs for classifying human participants with MCI and dementia, but includes no interactive task, eye tracking, or cognitive process model.",
+            "date_fetched": "2026-08-18 03:41:20"
         }
     ]
 }
