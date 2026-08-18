@@ -3855,6 +3855,28 @@
             ],
             "reason": "The study centrally analyses frequency-band-specific EEG functional connectivity graphs for classifying human participants with MCI and dementia, but includes no interactive task, eye tracking, or cognitive process model.",
             "date_fetched": "2026-08-18 03:41:20"
+        },
+        {
+            "title": "Reinforcement Learning in Eating Disorders: Clinical, Cognitive, and Metabolic Correlates.",
+            "link": "https://www.semanticscholar.org/paper/c03705026a7a9bce6d373bfecff9c38dea57fd8a",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The title suggests human clinical cognition research, but no summary is provided to establish an interactive task or cognitive-process reinforcement-learning model.",
+            "date_fetched": "2026-08-18 11:14:34"
+        },
+        {
+            "title": "Resting-State EEG Functional Connectivity and Independent Correlates of Cognitive Impairment in Patients with Atrial Fibrillation",
+            "link": "https://www.semanticscholar.org/paper/d87a7c9fe6cf1989eefb2dd09e82c61b85736536",
+            "relevance_score": 5,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "C"
+            ],
+            "reason": "The study centrally analyzes resting-state EEG power spectra, alpha-band functional connectivity, phase-amplitude coupling, and entropy as biomarkers of cognitive impairment in human clinical groups.",
+            "date_fetched": "2026-08-18 11:14:34"
         }
     ]
 }
