@@ -3877,6 +3877,76 @@
             ],
             "reason": "The study centrally analyzes resting-state EEG power spectra, alpha-band functional connectivity, phase-amplitude coupling, and entropy as biomarkers of cognitive impairment in human clinical groups.",
             "date_fetched": "2026-08-18 11:14:34"
+        },
+        {
+            "title": "Enhancing resilience, flexibility, and well-being through cognitive-emotional training: behavioral and neural evidence",
+            "link": "https://www.semanticscholar.org/paper/b3cc8cd2696bc2f4ab708fc7d2bfc91d68299fce",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The title suggests human cognitive-emotional training, but no methodology is provided to establish an interactive task, eye tracking, qualifying EEG analysis, or computational cognitive model.",
+            "date_fetched": "2026-08-19 03:43:15"
+        },
+        {
+            "title": "Biomarker-based assessment of cerebral small vessel disease progression after ischemic stroke \u2013 a prospective cohort study (MA-BIO)",
+            "link": "https://www.semanticscholar.org/paper/dab246b0b6c912eb855226fca26241e95df7f2c3",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The title describes clinical biomarkers of small-vessel disease progression, with no evidence of executive-function tasks, eye tracking, qualifying EEG analysis, or cognitive process modelling.",
+            "date_fetched": "2026-08-19 03:43:15"
+        },
+        {
+            "title": "Clinical Characteristics and Influencing Factors of Cognitive Impairment in Patients With End-Stage Renal Disease Undergoing Maintenance Haemodialysis",
+            "link": "https://www.semanticscholar.org/paper/861bad78c5a3e787c94769b94eff1f0c809ecb6c",
+            "relevance_score": 2,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The study assesses cognitive impairment using MoCA and clinical regression in haemodialysis patients but includes none of the specified behavioural, eye-tracking, EEG, or computational modelling methods.",
+            "date_fetched": "2026-08-19 03:43:15"
+        },
+        {
+            "title": "Effects of Comprehensive Bundled Nursing Care on Psychological Disorders in Mechanically Ventilated Intensive Care Unit Patients",
+            "link": "https://www.semanticscholar.org/paper/82ff018a6372799ec882837183cd3e8b4260f286",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "Cognition is measured only as a MoCA outcome of a nursing intervention, without an interactive task, eye tracking, qualifying EEG analysis, or cognitive process model.",
+            "date_fetched": "2026-08-19 03:43:15"
+        },
+        {
+            "title": "The Potential Role of Amyloid Precursor Protein Fragments as a Screening Tool for Mild Cognitive Impairment",
+            "link": "https://www.semanticscholar.org/paper/4966ad45685f9f4199db814fdf668dd96a2b5bed",
+            "relevance_score": 2,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The paper evaluates a urinary biomarker and MoCA for MCI screening but does not use behavioural decision tasks, eye tracking, EEG, or generative cognitive modelling.",
+            "date_fetched": "2026-08-19 03:43:15"
+        },
+        {
+            "title": "Study on the Mechanism of Music Therapy in Improving Sleep Quality of Patients with Chronic Insomnia Based on EEG Signal Analysis",
+            "link": "https://www.semanticscholar.org/paper/72e28af48afe7313e777dc845164d83f0beeaa79",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The study passively records sleep EEG and reports brain-wave morphology and sleep structure without a cognitive task or explicit frequency-domain or connectivity methodology meeting Element C.",
+            "date_fetched": "2026-08-19 03:43:15"
+        },
+        {
+            "title": "Research on the Recognition of Mild Cognitive Impairment Based on Deep Learning",
+            "link": "https://www.semanticscholar.org/paper/476dee62daf7e76022bfeb85c1e3aeb679a2e824",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The paper targets MCI classification from human medical data and mentions EEG preprocessing, but provides no frequency-domain or connectivity analysis and uses classifiers rather than a cognitive process model.",
+            "date_fetched": "2026-08-19 03:43:15"
         }
     ]
 }
