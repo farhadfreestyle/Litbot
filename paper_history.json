@@ -3947,6 +3947,177 @@
             "elements_present": [],
             "reason": "The paper targets MCI classification from human medical data and mentions EEG preprocessing, but provides no frequency-domain or connectivity analysis and uses classifiers rather than a cognitive process model.",
             "date_fetched": "2026-08-19 03:43:15"
+        },
+        {
+            "title": "Global Prevalence of Cognitive Frailty in Community-Dwelling Older Adults: A Systematic Review and Meta-Analysis.",
+            "link": "https://www.semanticscholar.org/paper/c5b0075166773a40e7cfc025182b25e44875ada7",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The review concerns cognitive frailty in human aging but provides no qualifying interactive task, eye tracking, EEG analysis, or cognitive process model.",
+            "date_fetched": "2026-08-20 03:43:27"
+        },
+        {
+            "title": "Cognitive Vulnerability and Multimodal Communicative-Pragmatic Difficulty in Subclinical Aging: A MoCA-Guided Exploration.",
+            "link": "https://www.semanticscholar.org/paper/f514bbb4f3753743c3e46a66bf477f58b3195318",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The study evaluates pragmatic performance as a marker of cognitive vulnerability in older adults but uses no qualifying task, eye tracking, EEG, or generative cognitive model.",
+            "date_fetched": "2026-08-20 03:43:27"
+        },
+        {
+            "title": "Association of Clonal Hematopoiesis With Silent Brain Lesions and Cognitive Decline in Patients With Atrial Fibrillation.",
+            "link": "https://www.semanticscholar.org/paper/63d6134e2b3dcefc65cbe2235d55f4ba9467ea0d",
+            "relevance_score": 1,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The title indicates human clinical monitoring of cognitive decline and brain lesions, but no qualifying behavioural, eye-tracking, EEG, or computational method is described.",
+            "date_fetched": "2026-08-20 03:43:27"
+        },
+        {
+            "title": "Frailty in Adults With Down Syndrome: Cognitive, Functional and Biomarker Associations.",
+            "link": "https://www.semanticscholar.org/paper/60355e0420e30f92b39c3bc2e3e10f4b7c9c0bab",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The study links clinical cognitive measures and biological markers to frailty in adults with Down syndrome but contains none of the four qualifying methodological elements.",
+            "date_fetched": "2026-08-20 03:43:27"
+        },
+        {
+            "title": "Effects of immersive training on sports perceptual-cognitive skills: A systematic literature review.",
+            "link": "https://www.semanticscholar.org/paper/2e5f8361ca741b94fdb0b3ac0a4a22a27d5db901",
+            "relevance_score": 4,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A"
+            ],
+            "reason": "The review centrally examines interactive immersive paradigms involving human decision-making and anticipation, but it does not centrally analyze eye tracking, EEG frequency features, or cognitive process models.",
+            "date_fetched": "2026-08-20 03:43:27"
+        },
+        {
+            "title": "Effect of Pranayama Practice on Cognitive Functions in Adolescents",
+            "link": "https://www.semanticscholar.org/paper/c3187e7705f6e66820217b855136016a6e6f6463",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This proposed intervention uses standardized cognitive assessments but specifies no qualifying interactive paradigm, eye tracking, EEG analysis, or computational cognitive model.",
+            "date_fetched": "2026-08-20 03:43:27"
+        },
+        {
+            "title": "Running Participation in People With Multiple Sclerosis: A Prospective Observational Cohort Study.",
+            "link": "https://www.semanticscholar.org/paper/865e5599bee78571658c464ee0114131d00a01c6",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "Cognition is only a correlational outcome in an observational study of running participation, with no qualifying task, eye tracking, EEG, or cognitive process model.",
+            "date_fetched": "2026-08-20 03:43:27"
+        },
+        {
+            "title": "A Game-Based Eye-Tracking Task for Inclusive Educational Assessment in Children with Autism Spectrum Disorder and Dyslexia: An Exploratory Study",
+            "link": "https://www.semanticscholar.org/paper/446ba5d65a989655122a21c910f40c4f367c1ddb",
+            "relevance_score": 8,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "B"
+            ],
+            "reason": "The study centrally combines a gaze-contingent interactive game with eye-tracking metrics to distinguish autistic, dyslexic, and neurotypical children on attention and inhibitory-control processes.",
+            "date_fetched": "2026-08-20 03:43:27"
+        },
+        {
+            "title": "Living in the United States Stroke Belt and cognitive change in the Women\u2019s Health Study: a cohort study",
+            "link": "https://www.semanticscholar.org/paper/045dc5a505d9c056c7e731519e2affb76dc4bdf0",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The study longitudinally monitors cognitive decline in older women but relies on cognitive composites and regression rather than any qualifying behavioural or multimodal methodology.",
+            "date_fetched": "2026-08-20 03:43:27"
+        },
+        {
+            "title": "The Improvement Effects of Virtual Reality-Assisted Exercise Training on Motor and Psychiatric Symptoms in Patients With Parkinson\u2019s Disease: A Meta-Analysis of Randomized Controlled Trials",
+            "link": "https://www.semanticscholar.org/paper/d52533a7044784e913e41512f49022f18d5c689f",
+            "relevance_score": 2,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The meta-analysis evaluates VR-assisted exercise effects on clinical cognitive scales in Parkinson\u2019s disease but does not establish a qualifying decision task or analyze eye tracking, EEG, or cognitive models.",
+            "date_fetched": "2026-08-20 03:43:27"
+        },
+        {
+            "title": "Impact of Hatha Yoga on Cognitive Performance, Fatigue and Psychological Well-Being in Patients with Multiple Sclerosis",
+            "link": "https://www.semanticscholar.org/paper/786ecf701903b00139b0f5854619d50d03d0db7a",
+            "relevance_score": 2,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The intervention assesses cognition mainly through MoCA scores and includes no qualifying interactive task, eye tracking, EEG analysis, or generative cognitive model.",
+            "date_fetched": "2026-08-20 03:43:27"
+        },
+        {
+            "title": "Feasibility of Gamified EEG Neurofeedback Combined with Adaptive Working-Memory Training in Older Adults: A Pilot Study",
+            "link": "https://www.semanticscholar.org/paper/3bfb83f1607ff41e7567808da8e815f0d6f6ef43",
+            "relevance_score": 8,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "C"
+            ],
+            "reason": "The study combines an adaptive N-back task with longitudinal analysis of frontal alpha and theta EEG rhythms and EEG\u2013behaviour associations in older adults.",
+            "date_fetched": "2026-08-20 03:43:27"
+        },
+        {
+            "title": "Transcranial ultrasound stimulation of the medial frontal cortex transiently improves performance by modulating conflict monitoring dynamics",
+            "link": "https://www.semanticscholar.org/paper/7ba477d7a6314e3e6b8d713f44173026e84eba51",
+            "relevance_score": 8,
+            "matched_arc": "Both",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "D"
+            ],
+            "reason": "Human participants performed an interactive flanker conflict task, and drift-diffusion modelling was used to infer changes in latent distractor-suppression dynamics, while the EEG analysis was ERP-based rather than frequency-domain.",
+            "date_fetched": "2026-08-20 03:43:27"
+        },
+        {
+            "title": "Brain alterations detected by multiplex magnetic resonance imaging in nasopharyngeal carcinoma patients after induction chemotherapy: a longitudinal study.",
+            "link": "https://www.semanticscholar.org/paper/341e285eea3904958baad129a4ad5420b7da6bd8",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The study investigates MRI biomarkers associated with chemotherapy-related cognitive change but includes no qualifying interactive task, eye tracking, EEG, or generative decision model.",
+            "date_fetched": "2026-08-20 03:43:27"
+        },
+        {
+            "title": "Assessment of balance function in older adults with and without subjective cognitive decline",
+            "link": "https://www.semanticscholar.org/paper/3aedb9f5b6b955ca0e5bb2b8e09f22d96549ccdc",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The study evaluates balance as a potential early marker of subjective cognitive decline but does not use a qualifying decision task, eye tracking, EEG analysis, or cognitive process model.",
+            "date_fetched": "2026-08-20 03:43:27"
+        },
+        {
+            "title": "Relationship Between Cognitive Impairment and Postural Stability in Elderly Population",
+            "link": "https://www.semanticscholar.org/paper/6856058312b08214a33291908e5cf1ed18ea5855",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The study uses cognitive and dual-task balance assessments to characterize impairment, but the serial-subtraction walking condition is not a sequential decision paradigm and no other qualifying element is present.",
+            "date_fetched": "2026-08-20 03:43:27"
         }
     ]
 }
