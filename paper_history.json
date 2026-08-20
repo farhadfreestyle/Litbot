@@ -4118,6 +4118,16 @@
             "elements_present": [],
             "reason": "The study uses cognitive and dual-task balance assessments to characterize impairment, but the serial-subtraction walking condition is not a sequential decision paradigm and no other qualifying element is present.",
             "date_fetched": "2026-08-20 03:43:27"
+        },
+        {
+            "title": "\u201cLike Taking Part in Star Wars\u201d: Qualitative Study Using Thematic Analysis to Explore the Acceptability and Experiences of Older Adults Participating in Remote Longitudinal Sleep and Dementia Research",
+            "link": "https://www.semanticscholar.org/paper/e4982adbc45a5e89d82737866709272cd999e865",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The study concerns remote multimodal cognitive monitoring in older adults, but its core analysis is qualitative acceptability research rather than behavioural-task performance or frequency-domain EEG.",
+            "date_fetched": "2026-08-20 11:16:47"
         }
     ]
 }
