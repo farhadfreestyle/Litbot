@@ -4257,6 +4257,28 @@
             "elements_present": [],
             "reason": "The review is relevant to early cognitive screening and diagnosis but does not present an interactive task, eye tracking, qualifying EEG analysis, or computational cognitive model.",
             "date_fetched": "2026-08-21 03:48:08"
+        },
+        {
+            "title": "Biopsychosocial profile in individuals with chronic low back pain and high central sensitization symptoms: a cross-sectional comparative study.",
+            "link": "https://www.semanticscholar.org/paper/f2cb58330d4c4688da61bfc75b4e1f63f8646d10",
+            "relevance_score": 0,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The cross-sectional biopsychosocial comparison does not indicate an interactive cognitive task, eye tracking, qualifying EEG analysis, or a generative cognitive model.",
+            "date_fetched": "2026-08-22 03:38:40"
+        },
+        {
+            "title": "Brain network biomarkers for diagnosis and clinical stratification in multiple sclerosis: a longitudinal study integrating individualised structural covariance MRI with high-density EEG.",
+            "link": "https://www.semanticscholar.org/paper/3e91b87ad6303966e7c8d541d13b536ba9debdf9",
+            "relevance_score": 5,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "C"
+            ],
+            "reason": "High-density EEG is central to longitudinal brain-network biomarker analysis in human multiple-sclerosis cohorts, although no behavioural task, eye tracking, or cognitive process model is specified.",
+            "date_fetched": "2026-08-22 03:38:40"
         }
     ]
 }
