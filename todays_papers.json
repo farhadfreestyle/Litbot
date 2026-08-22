@@ -33,6 +33,61 @@
             ],
             "reason": "Human participants complete interactive web-based motor and working-memory tasks that yield task-level behavioural data for Parkinson\u2019s digital biomarker development.",
             "date_fetched": "2026-08-22 03:38:40"
+        },
+        {
+            "title": "Neurocognitive Recovery After Liver Transplantation Is Driven by Metabolite-mediated Reactivation of Cortical Networks.",
+            "link": "https://www.semanticscholar.org/paper/ad0b406d89364d8bdfc312e3d933af2170ec3c44",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "The title indicates human clinical neurocognitive monitoring and cortical-network analysis, but the available record does not establish an interactive task, eye tracking, qualifying EEG analysis, or cognitive process modelling.",
+            "date_fetched": "2026-08-22 11:10:56"
+        },
+        {
+            "title": "Cognitive signs and symptoms in people with a psychiatric diagnosis on semaglutide: a retrospective cohort study of 13\u2009007\u2009patients in the USA.",
+            "link": "https://www.semanticscholar.org/paper/a1e46ede8030136017d41e43e1729f456cb7af3a",
+            "relevance_score": 1,
+            "matched_arc": "None",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This human retrospective cohort concerns cognitive symptoms but provides no evidence of behavioural tasks, eye tracking, frequency-domain or connectivity EEG, or generative cognitive modelling.",
+            "date_fetched": "2026-08-22 11:10:56"
+        },
+        {
+            "title": "Engineering a Timing-Accurate VR-EEG-Oculomotor Fusion System for Objective Assessment of Executive Function in ADHD.",
+            "link": "https://www.semanticscholar.org/paper/02b24576cd4ad62615d8d987415d7ff2b4601a6b",
+            "relevance_score": 7,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A",
+                "B"
+            ],
+            "reason": "The system centrally combines an interactive VR executive-function assessment with oculomotor measurement, while the available record does not confirm that its EEG analysis uses frequency-domain or connectivity methods.",
+            "date_fetched": "2026-08-22 11:10:56"
+        },
+        {
+            "title": "Large language models for MoCA-defined cognitive risk screening in obstructive sleep apnea using polysomnography and brain MRI reports: A retrospective single-center pilot study.",
+            "link": "https://www.semanticscholar.org/paper/f0fc4ebb5602b4b630276702e555a03b9139cbec",
+            "relevance_score": 2,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [],
+            "reason": "This is human cognitive-risk screening with clinical records and classifiers, but it contains no interactive task, eye tracking, qualifying EEG analysis, or generative model of human decision processes.",
+            "date_fetched": "2026-08-22 11:10:56"
+        },
+        {
+            "title": "RobustPDx: A Structured Web-Based Parkinson\u2019s Assessment Dataset and Benchmark for AI Robustness to Device Type and Handedness",
+            "link": "https://www.semanticscholar.org/paper/111d6481d4092185d6cfcb53ed520a0e47c9395a",
+            "relevance_score": 5,
+            "matched_arc": "Arc 1",
+            "filtered": false,
+            "elements_present": [
+                "A"
+            ],
+            "reason": "Human participants complete structured web-based motor and working-memory tasks yielding interaction-level digital biomarkers for Parkinson\u2019s detection, but no eye tracking, EEG, or cognitive process model is included.",
+            "date_fetched": "2026-08-22 11:10:56"
         }
     ]
 }
