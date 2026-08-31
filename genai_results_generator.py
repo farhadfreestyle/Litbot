@@ -9,13 +9,15 @@ text_file = open("todays_fetched_papers.txt", "r").read()
 
 
 input = f"""
-You are screening arXiv papers for a PhD researcher working on quantitative modelling of human executive function (planning, working memory, attention) using behavioural and multimodal data, for cognitive assessment and early detection of cognitive impairment in people.
+You are screening arXiv papers for a PhD researcher working on quantitative modelling of human executive function (planning, working memory, attention), for cognitive assessment and early detection of cognitive impairment.
 
-His work has two arcs.
+His work spans three areas of interest, in descending but not exclusive priority:
 
-Arc 1, digital biomarker development: behavioural task and eye tracking based classification of cognitive style in human participants, combined with EEG, aimed at distinguishing neurotypical and clinical groups. Frequency domain EEG analysis, frontal midline theta, frontoparietal connectivity, continuous non trial locked signals.
+Area 1, computational modelling of executive function: generative or inferential models of human planning, working memory, or attention. POMDP/MDP formulations, Bayesian inference (amortised or otherwise), active inference, reinforcement learning models of decision making, or other process models of cognition. This includes modelling work from the CS/ML community even when not validated on neural or eye tracking data, and even when not framed around clinical populations, as long as the object being modelled is human cognitive/executive function.
 
-Arc 2, computational modelling: POMDP and MDP generative frameworks of human executive function, amortised Bayesian inference trained on synthetic trajectories and validated on real human behavioural and neural data.
+Area 2, neuroscience findings on executive function: empirical findings, human or animal, about the neural or behavioural basis of planning, working memory, attention, or cognitive control, that could plausibly inform a computational model of these functions, even if the paper itself does no modelling. EEG findings (frontal midline theta, frontoparietal connectivity), fMRI, or behavioural/neuropsychological findings all count here.
+
+Area 3, digital biomarkers and multimodal assessment: behavioural task or eye tracking based classification of cognitive style or clinical status, combined with EEG, distinguishing neurotypical and clinical groups. This is his applied/current project, not his broader research identity, so treat it as one valuable category among three rather than the only thing worth a high score.
 
 Step 1, hard filter, apply before scoring anything.
 
@@ -23,28 +25,20 @@ A paper fails the filter and must receive a relevance score of 0 if it is about 
 
 Evaluating or benchmarking the cognitive abilities of AI models, LLMs, or generative systems.
 Video generation, video diffusion, image generation, or reasoning inside generative video or image models.
-KV cache, model memory, context window, or any use of the term memory referring to a machine learning system's internal state rather than a human participant's cognition.
-Any paper where the study population is not human participants.
+KV cache, model memory, context window, or any use of the term memory referring to a machine learning system's internal state rather than a human or animal participant's cognition.
+Any paper where the study population is not human or animal (e.g. pure simulation with no grounding in biological cognition), UNLESS it is a computational modelling paper under Area 1 whose object of study is explicitly human cognitive/executive function.
 
-Papers that fail the filter must still appear in the output with score 0 and matched_arc None, do not omit them, so the researcher can see what was excluded and why.
+Papers that fail the filter must still appear in the output with score 0 and matched_area None, do not omit them, so the researcher can see what was excluded and why.
 
-Step 2, score the papers that pass the filter.
+Step 2, score the papers that pass the filter, from 0 to 10, based on centrality to Areas 1 to 3 above, not on a fixed element count.
 
-Assign a relevance score from 0 to 10 based on how many of the following four elements the paper actually contains in its methodology. Do not credit an element for being mentioned in passing or as a co-recorded signal, only credit it if it is a core part of what the study measures and analyses.
+9 to 10: paper's core contribution is a computational/generative model of human executive function (Area 1), or it directly reports EEG/behavioural/neural findings on executive function that are clearly usable in a computational model (Area 2), or it is a close methodological match to Area 3 (task/eye tracking/EEG combined for clinical classification).
+6 to 8: paper is substantially about executive function, planning, working memory, or attention in humans, with clear relevance to modelling or assessing it, but is narrower in scope, preliminary, or only partially overlaps with Areas 1 to 3.
+3 to 5: paper touches executive function or related cognitive constructs but the connection to modelling or assessment is incidental, tangential, or the core contribution is elsewhere (e.g. a general neuroimaging method paper that happens to include an EF task).
+1 to 2: paper is about human cognitive assessment or clinical cognitive monitoring generally, with no meaningful connection to executive function modelling specifically.
 
-Element A, an interactive behavioural task or game paradigm where human participants make timed or sequential decisions, not a static or purely passive recording condition.
-Element B, eye tracking of human participants.
-Element C, EEG of human participants, specifically frequency domain or connectivity analysis rather than only band power summary or classification accuracy reported without method detail.
-Element D, computational modelling of human cognition using POMDP, MDP, Bayesian inference, or a generative model of decision processes, rather than a purely statistical or deep learning classifier with no cognitive process model behind it.
+Do not require multiple elements (task, eye tracking, EEG, modelling) to co-occur for a high score. A pure modelling paper with no neural or eye tracking data, or a pure neuroscience findings paper with no modelling, can each independently score 9 to 10 if central to Area 1 or Area 2 respectively.
 
-Score based on element count and centrality, using this rubric as a guide rather than a rigid formula.
-
-Four elements present, or three including Element A or D as central to the method, score 9 to 10.
-Two elements present, at least one being A, C, or D, score 6 to 8.
-One element present, or two present but only as secondary or passively co-recorded signals, score 3 to 5.
-No elements present in a way that meets the above bar, but the paper is about human cognitive assessment or clinical cognitive monitoring generally, score 1 to 2.
-
-A physiological signal recorded passively alongside a task, with no behavioural interaction, eye tracking, or frequency domain EEG analysis, such as ECG or HRV used as a standalone or co-recorded proxy signal, does not on its own satisfy any of the four elements and should not push a paper above 5.
 if file is empty, return empty json with papers key and empty list value.
 Return valid JSON only, no preamble, no markdown fences, in this exact structure:
 
@@ -54,11 +48,10 @@ Return valid JSON only, no preamble, no markdown fences, in this exact structure
       "title": "...",
       "link": "...",
       "relevance_score": 0,
-      "matched_arc": "Arc 1" or "Arc 2" or "Both" or "None",
+      "matched_area": "Area 1" or "Area 2" or "Area 3" or "None",
       "filtered": true or false,
-      "elements_present": ["A", "B", "C", "D"],
-      "reason": "one sentence, specific, no filler", 
-      "date_fetched":the date you see in the txt file as DateAdded
+      "reason": "one sentence, specific, no filler",
+      "date_fetched": the date you see in the txt file as DateAdded
     }}
   ]
 }}
