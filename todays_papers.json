@@ -1,0 +1,58 @@
+{
+    "papers": [
+        {
+            "title": "PhoenixNest-Video: Evidence-Grounded Multimodal Agent Framework for Automated Video Interview Assessment",
+            "link": "https://arxiv.org/abs/2609.02231v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The paper's structured working memory is an AI agent's internal state rather than human or animal cognition.",
+            "date_fetched": "2026-09-03 07:45:55"
+        },
+        {
+            "title": "NS-Copilot: An LLM-Driven Agent System for Autonomous Neuroscience Analysis",
+            "link": "https://arxiv.org/abs/2609.01971v1",
+            "relevance_score": 3,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The system supports EEG and working-memory spike decoding, but its central contribution is an automated neuroscience-analysis platform rather than findings or models of executive function.",
+            "date_fetched": "2026-09-03 07:45:55"
+        },
+        {
+            "title": "Thinking effort aligns between humans and reasoning models in abductive reasoning",
+            "link": "https://arxiv.org/abs/2609.01867v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The paper explicitly benchmarks and compares the reasoning behavior of large reasoning models with human cognitive performance.",
+            "date_fetched": "2026-09-03 07:45:55"
+        },
+        {
+            "title": "Using eye tracking to explore the relationship between autism traits, joint attention, cognition and adaptive functioning in preschool children",
+            "link": "https://www.semanticscholar.org/paper/645c0acc9f2a4878a26af84a72acaa74884e9f80",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study relates eye-tracked joint-attention measures to autism traits, cognition, adaptive functioning, and intervention outcomes in a clinical population.",
+            "date_fetched": "2026-09-03 07:45:55"
+        },
+        {
+            "title": "Cognitive impairment and associated factors among adults with type 2 diabetes mellitus in eastern Sudan: a cross-sectional study.",
+            "link": "https://www.semanticscholar.org/paper/99d0588076b4f7ffef7e53592224b361864572f1",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The study uses MoCA to estimate general cognitive-impairment prevalence and correlates without specifically examining executive function or digital biomarkers.",
+            "date_fetched": "2026-09-03 07:45:55"
+        },
+        {
+            "title": "Combined hyperbaric oxygen and repetitive transcranial magnetic stimulation for vascular cognitive impairment: a randomized controlled trail.",
+            "link": "https://www.semanticscholar.org/paper/85dd0183a3a1d2a1d6f39aa804e521509dcdfb6b",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The trial combines cognitive outcomes with fNIRS evidence in vascular cognitive impairment, but it addresses broad rehabilitation effects rather than executive-function mechanisms.",
+            "date_fetched": "2026-09-03 07:45:55"
+        }
+    ]
+}
