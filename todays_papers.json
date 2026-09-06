@@ -1,3 +1,85 @@
 {
-    "papers": []
+    "papers": [
+        {
+            "title": "Decline in dementia patients during the COVID-19 pandemic: A cohort study in Taiwan.",
+            "link": "https://www.semanticscholar.org/paper/b415f4f766506f7c6065b7537cea93aee91dfa46",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The study monitors global cognitive decline in dementia using MMSE, CDR-SB, and CASI but does not specifically assess or model executive function.",
+            "date_fetched": "2026-09-06 13:50:38"
+        },
+        {
+            "title": "Rationale and study design for the Social Environment and Cognitive Health in Urban and Rural Areas Study.",
+            "link": "https://www.semanticscholar.org/paper/4ddc4fbc801dc8c581756df80ee4fc26d8f20806",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "This is a general cognitive-health cohort using MoCA and smartphone ecological assessments, without a specific executive-function construct or computational model.",
+            "date_fetched": "2026-09-06 13:50:38"
+        },
+        {
+            "title": "Gastrodia elata Blume and Acorus tatarinowii Schott mixtures alleviate pentylenetetrazol-induced seizures in mice: association with NLRP3 inflammasome signaling changes.",
+            "link": "https://www.semanticscholar.org/paper/cc0ad45afa801ddd337a8a508dba1443c94e3400",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper concerns seizure treatment and inflammasome signaling in mice rather than executive function, cognitive modelling, or cognitive assessment.",
+            "date_fetched": "2026-09-06 13:50:38"
+        },
+        {
+            "title": "Epigenetic Aging Clocks Associate with Cognitive Status More Strongly Than Short-Term Cognitive Change: Evidence from the Parkinson's Progression Markers Initiative.",
+            "link": "https://www.semanticscholar.org/paper/ab714c05a10c6ca180042fbc4f24361c60cb72a7",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The study relates epigenetic biomarkers to cognitive status in Parkinson's disease but does not clearly target executive processes or digital cognitive assessment.",
+            "date_fetched": "2026-09-06 13:50:38"
+        },
+        {
+            "title": "Reactive agility and motor-cognitive assessments for distinguishing community-dwelling older adults with and without a history of falls: a dual-centre cross-sectional study.",
+            "link": "https://www.semanticscholar.org/paper/5c5db063bd87ab859cc302db576b319ecf219a8c",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study uses task-switching, 2-back, Stroop, and reaction tasks in older adults, but its principal outcome is fall-history discrimination and the strongest findings concern agility and simple reaction time.",
+            "date_fetched": "2026-09-06 13:50:38"
+        },
+        {
+            "title": "Efficacy and Safety of Jiannao Tongluo Granules in the Treatment of Convalescent Cerebral Infarction: A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group Clinical Trial.",
+            "link": "https://www.semanticscholar.org/paper/48db79c9fa25fdc899cb4fd62b63d04581cf39ed",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The title describes a treatment trial for cerebral-infarction recovery without indicating executive-function outcomes, cognitive modelling, or relevant biomarker methodology.",
+            "date_fetched": "2026-09-06 13:50:38"
+        },
+        {
+            "title": "NMDA receptor ablation in medial prefrontal cortex disrupts value updating and reward history integration.",
+            "link": "https://www.semanticscholar.org/paper/3e6d07f2eb3b9a86112420f339b49b2d16465d9d",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This study combines prefrontal manipulations, a restless-bandit task, and reinforcement-learning models to identify mechanisms of value updating, feedback use, and reward-history integration relevant to cognitive control.",
+            "date_fetched": "2026-09-06 13:50:38"
+        },
+        {
+            "title": "Prioritization in working memory reduces interference via beta band-linked stimulus transformations.",
+            "link": "https://www.semanticscholar.org/paper/144849741605b3d3127e3f918d070b8aec6cdd95",
+            "relevance_score": 10,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Human behavioural and EEG experiments directly characterize a low-beta oscillatory mechanism that prioritizes working-memory contents and protects them from interference.",
+            "date_fetched": "2026-09-06 13:50:38"
+        },
+        {
+            "title": "Association between Kidney Tubular Secretory Clearance with Cognitive Function among Adults with CKD in the Systolic Blood Pressure Intervention Trial.",
+            "link": "https://www.semanticscholar.org/paper/00da8cdf681c6b402de5b891681291dfd024645d",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper examines a medical correlate of general cognitive function in chronic kidney disease without a clear focus on executive-function mechanisms or digital assessment.",
+            "date_fetched": "2026-09-06 13:50:38"
+        }
+    ]
 }
