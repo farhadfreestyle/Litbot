@@ -4015,6 +4015,114 @@
             "filtered": false,
             "reason": "The paper examines a medical correlate of general cognitive function in chronic kidney disease without a clear focus on executive-function mechanisms or digital assessment.",
             "date_fetched": "2026-09-06 13:50:38"
+        },
+        {
+            "title": "BioSync: Transformer-Based Cross-Modal Fusion for a Multimodal Physiological Digital Biomarker",
+            "link": "https://arxiv.org/abs/2609.04504v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The evaluation uses only synthetic cohorts and does not model human executive-function processes, so it fails the biological-population hard filter.",
+            "date_fetched": "2026-09-07 07:54:33"
+        },
+        {
+            "title": "Automated detection of Alzheimer's disease and mild cognitive impairment from EEG signals using astrophysics-inspired features and hybrid feature selection",
+            "link": "https://www.semanticscholar.org/paper/e8455ce4efde3a8ea3ce09671841358550719a6a",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper directly applies EEG-derived features to distinguish Alzheimer's disease and mild cognitive impairment, making it a strong clinical digital-biomarker match.",
+            "date_fetched": "2026-09-07 07:54:33"
+        },
+        {
+            "title": "Assessment of visual and cognitive function among patients with Stargardt Disease",
+            "link": "https://www.semanticscholar.org/paper/f8a521bb0eb270ce3490a639409edca64f94d0e2",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study uses MoCA and verbal-learning assessments in a clinical population but does not specifically investigate executive function or computational biomarkers.",
+            "date_fetched": "2026-09-07 07:54:33"
+        },
+        {
+            "title": "Factors associated with sleep state misperception in patients with obstructive sleep apnea: a cross-sectional study",
+            "link": "https://www.semanticscholar.org/paper/d3870a4dab8d186583f0c5987ada5ded3a079e",
+            "relevance_score": 2,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study relates sleep misperception to general cognitive screening and subjective cognitive decline, but executive-function mechanisms are not a central outcome.",
+            "date_fetched": "2026-09-07 07:54:33"
+        },
+        {
+            "title": "Altered alpha-band regulation during naturalistic theory of mind processing in autistic children.",
+            "link": "https://www.semanticscholar.org/paper/764202f2c5486d818ccf4bebe43d80de23da1643",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The EEG findings link alpha-band modulation to internal attentional regulation in autistic and typically developing children, although the principal construct is social cognition rather than executive function.",
+            "date_fetched": "2026-09-07 07:54:33"
+        },
+        {
+            "title": "Intermittent Theta Burst Stimulation Combined with Cognitive Training in Mild Cognitive Impairment: Protocol for an 18-Week Randomised, Double-Blind, Sham-Controlled Feasibility Pilot Study (The iCog.X Boost Trial)",
+            "link": "https://www.semanticscholar.org/paper/30cb1534b5ebe4f4bb275e8ed8193aa81c306456",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The protocol targets left-DLPFC plasticity in mild cognitive impairment using cognitive training, iTBS, EEG, and TMS measures, but it does not yet report mechanistic findings.",
+            "date_fetched": "2026-09-07 07:54:33"
+        },
+        {
+            "title": "Neurocognitive Changes and Cerebral Blood Flow in Patients with Symptomatic Carotid Artery Stenosis before and after Carotid Endarterectomy",
+            "link": "https://www.semanticscholar.org/paper/0452792a5c1aa6f395a715fdc1ff1ea21c0200f7",
+            "relevance_score": 3,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper associates postoperative cerebral blood-flow changes with broad MoCA improvement, but it does not isolate executive-function processes or develop a cognitive model.",
+            "date_fetched": "2026-09-07 07:54:33"
+        },
+        {
+            "title": "Association of vitamin E intake and malondialdehyde (MDA) levels with cognitive function in elderly residing at the Budi Mulia Tresna Werdha nursing home, East DKI Jakarta",
+            "link": "https://www.semanticscholar.org/paper/fb54c895fb82511276d1c5da47e47b4d2e919e4a",
+            "relevance_score": 1,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "This is a general MoCA-based study of nutritional and oxidative-stress correlates with no specific analysis of executive function or digital assessment.",
+            "date_fetched": "2026-09-07 07:54:33"
+        },
+        {
+            "title": "Upstream Tablet-Based Screening for Possible Dementia or Cognitive Impairment in Unhoused Older Adults",
+            "link": "https://www.semanticscholar.org/paper/eee8c1053dee7df0e7576f68f1fb2c9a3933ce11",
+            "relevance_score": 3,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study evaluates implementation of tablet-based cognitive-impairment screening in a vulnerable population, but it uses a conventional MoCA rather than task-derived executive-function biomarkers.",
+            "date_fetched": "2026-09-07 07:54:33"
+        },
+        {
+            "title": "Understanding never events: developing an ecologically valid behavioral test for left-right confusion during surgery",
+            "link": "https://www.semanticscholar.org/paper/b0ca87ccbccada4ec10f75c55f56465542de308e",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The novel behavioral paradigm measures context-sensitive errors and processing speed under realistic surgical demands, but left-right discrimination is only indirectly related to executive control.",
+            "date_fetched": "2026-09-07 07:54:33"
+        },
+        {
+            "title": "Maturational trajectories of neurophysiological indices of inhibitory control in typically developing children",
+            "link": "https://www.semanticscholar.org/paper/4bfdbc581545d2ea3796d49fe03af8d17750f6f9",
+            "relevance_score": 10,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study directly characterizes developmental behavioral, ERP, and time-frequency EEG signatures of attention and inhibitory control during a Go/NoGo task.",
+            "date_fetched": "2026-09-07 07:54:33"
+        },
+        {
+            "title": "Validity of The Brief Virtual Reality Satisfaction Questionnaire in Elderly: Correlation of Cognitive Function with Virtual Reality Satisfaction",
+            "link": "https://www.semanticscholar.org/paper/e3e29171d92c6639f0d6873e9c90e65d8fe846ed",
+            "relevance_score": 1,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper examines whether general MoCA scores correlate with satisfaction with a VR exergame rather than assessing or modelling executive function.",
+            "date_fetched": "2026-09-07 07:54:33"
         }
     ]
 }
