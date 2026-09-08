@@ -1,0 +1,85 @@
+{
+    "papers": [
+        {
+            "title": "Acute hyperglycemia after intracerebral hemorrhage is associated with 90-day cognitive impairment.",
+            "link": "https://www.semanticscholar.org/paper/f00ee5d333bc5ce67933ab8a05a82ac41773408c",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper concerns clinical cognitive impairment after hemorrhage but provides no stated focus on executive-function mechanisms, computational modelling, or digital biomarkers.",
+            "date_fetched": "2026-09-08 07:48:41"
+        },
+        {
+            "title": "A novel approach to dyslexia detection: combining EEG data and cognitive tasks with advanced machine learning.",
+            "link": "https://www.semanticscholar.org/paper/c617ca4466bacbff011646ce7bbff476af28908f",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "This is a close multimodal assessment match combining paired EEG and cognitive screening data for clinical classification, with spectral findings linked to working-memory deficits.",
+            "date_fetched": "2026-09-08 07:48:41"
+        },
+        {
+            "title": "Spinal cord injury is associated with reduced cognitive capacity to self-regulate, organise and adapt to new situations.",
+            "link": "https://www.semanticscholar.org/paper/c5d530dc0c2098992c97ee77101515a004a8d65e",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study directly identifies selective executive-function deficits under higher cognitive demand using fluency, abstraction, and reverse digit-span tasks in a clinical population.",
+            "date_fetched": "2026-09-08 07:48:41"
+        },
+        {
+            "title": "Cognitive and motor profiles in biologically defined Parkinson's and Alzheimer's disease",
+            "link": "https://www.semanticscholar.org/paper/bd059202fe44c463012239b4080e46eb08ac6285",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study uses biological markers to predict broad longitudinal cognitive decline in Parkinson's disease but does not specifically analyze executive-function processes or digital assessment.",
+            "date_fetched": "2026-09-08 07:48:41"
+        },
+        {
+            "title": "Neurophysiological Evidence of Enhanced Cognitive Control Following Auditory Control Enhancement (ACE) Therapy: A Pilot RCT in Schizophrenia-Spectrum Disorders with Persistent Auditory Hallucinations.",
+            "link": "https://www.semanticscholar.org/paper/b5e972af5f6759f553f012b5fcb8bc34daf23c94",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The pilot trial directly measures proactive cognitive control and selective attention with AX-CPT and EEG, reporting intervention-related changes in ASSR modulation and beta desynchronization.",
+            "date_fetched": "2026-09-08 07:48:41"
+        },
+        {
+            "title": "Modified shuffle Net-DCNN architecture with cepstral and spectral feature for epileptic seizure detection using EEG signal.",
+            "link": "https://www.semanticscholar.org/paper/9f0524dd592647af9db376440898f1e4337ce188",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "This EEG classification paper focuses on detecting epileptic seizures and does not investigate executive function, cognitive mechanisms, or cognitive-status assessment.",
+            "date_fetched": "2026-09-08 07:48:41"
+        },
+        {
+            "title": "The impact of test announcements on subtitle reliance and video comprehension: The role of vocabulary size and working memory",
+            "link": "https://www.semanticscholar.org/paper/97cb3a8d4ac25e9630013746e139da762b83c5a6",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The eye-tracking experiment provides behavioral evidence about how working-memory capacity and anticipatory task demands influence visual attention and subtitle reliance.",
+            "date_fetched": "2026-09-08 07:48:41"
+        },
+        {
+            "title": "Mild Cognitive Impairment Diagnosis and Care Algorithms and the Role of Digital Interventions: Expert Consensus",
+            "link": "https://www.semanticscholar.org/paper/1679dfa291ff42fd9fb3ca0e59614d42a8d3f6e9",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The consensus discusses digital cognitive assessment and early MCI identification broadly but offers no specific executive-function model or validated multimodal biomarker method.",
+            "date_fetched": "2026-09-08 07:48:41"
+        },
+        {
+            "title": "Dual Transcranial Direct Current Stimulation Modulates Hierarchical Functional Network Organization in Post\u2010Stroke Cognitive Impairment: A Randomized Controlled Trial",
+            "link": "https://www.semanticscholar.org/paper/05e1faeb580f28e32f7921f90241f96f92e7aa58",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The trial links DLPFC stimulation and improvements in attention, Stroop, and trail-making performance to changes in regional activity, connectivity, and global functional-network topology.",
+            "date_fetched": "2026-09-08 07:48:41"
+        }
+    ]
+}
