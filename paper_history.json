@@ -4204,6 +4204,15 @@
             "filtered": false,
             "reason": "The trial links DLPFC stimulation and improvements in attention, Stroop, and trail-making performance to changes in regional activity, connectivity, and global functional-network topology.",
             "date_fetched": "2026-09-08 07:48:41"
+        },
+        {
+            "title": "Episodic memory rescues working memory via pattern separation, pattern completion, and predictive recall",
+            "link": "https://www.semanticscholar.org/paper/4fd2f296c55728c829d2fe0a93092bde98a24e1f",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Human N-back and eye-tracking results identify item-specific episodic computations and gaze signatures that support working-memory performance and could directly constrain computational models of memory interaction.",
+            "date_fetched": "2026-09-08 14:49:06"
         }
     ]
 }
