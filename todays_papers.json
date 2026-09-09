@@ -8,6 +8,69 @@
             "filtered": false,
             "reason": "The paper decodes human EEG responses during hazard perception, providing attention- and decision-related neural findings relevant to executive-function assessment, although its primary focus is vehicle safety rather than cognitive process modelling.",
             "date_fetched": "2026-09-09 07:51:42"
+        },
+        {
+            "title": "Non-convulsive status epilepticus revealing acute deterioration in AARS2 mutation\u2013associated progressive leukoencephalopathy",
+            "link": "https://www.semanticscholar.org/paper/a36b32582fd44f3aaca2f58810993bc05b6e2e79",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The title describes an acute neurological case without evidence of executive-function modelling, relevant cognitive findings, or cognitive assessment methodology.",
+            "date_fetched": "2026-09-09 14:53:14"
+        },
+        {
+            "title": "Concurrent Multidomain Cognitive Assessment and Serum BDNF Level in Aged Dogs: Comparison Between Normal Cognition and Mild Cognitive Impairment",
+            "link": "https://www.semanticscholar.org/paper/fd0dffbc06cac569a1ac8a0f3fc5488653338134",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study identifies delayed match-to-sample and object-recognition measures that distinguish cognitively normal from mildly impaired aged dogs, directly informing behavioural screening for early impairment.",
+            "date_fetched": "2026-09-09 14:53:14"
+        },
+        {
+            "title": "Motor Imagery Acquisition and Classification Using a Low-Cost 8-Channel EEG System in a VR ADHD Serious Game Environment: A Case Study",
+            "link": "https://www.semanticscholar.org/paper/790d67305d290aa309e7926f9dafe37781d51326",
+            "relevance_score": 4,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper demonstrates low-cost EEG classification in an ADHD-oriented cognitive-training environment, but focuses on technical motor-imagery feasibility rather than executive-function assessment or clinical-group discrimination.",
+            "date_fetched": "2026-09-09 14:53:14"
+        },
+        {
+            "title": "Reconceptualising complex needs in later life: a multidimensional framework for integrated person-centred care",
+            "link": "https://www.semanticscholar.org/paper/447100aba41be321c3adafe045dea65b7e1491fd",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "Cognitive decline is only contextual background for a proposed integrated-care framework that does not model, measure, or classify executive function.",
+            "date_fetched": "2026-09-09 14:53:14"
+        },
+        {
+            "title": "Neurocognitive Changes and Cerebral Blood Flow in Patients with Symptomatic Carotid Artery Stenosis before and after Carotid Endarterectomy.",
+            "link": "https://www.semanticscholar.org/paper/0452792a5c1aa6f395a715fdc1ff1ea21c0200f7",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The longitudinal association between cerebral blood-flow recovery and MoCA improvement provides relevant neurovascular evidence, although executive-function domains are not analysed specifically.",
+            "date_fetched": "2026-09-09 14:53:14"
+        },
+        {
+            "title": "Impact of Metabolic Dysregulation on Cognitive Performance in Women with Gestational Diabetes Mellitus",
+            "link": "https://www.semanticscholar.org/paper/52c44af8f3b0adb8fac40057ee2ca57324d41ac5",
+            "relevance_score": 2,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study relates metabolic dysregulation to MoCA performance, but its only domain-specific result concerns delayed recall rather than executive function or working memory.",
+            "date_fetched": "2026-09-09 14:53:14"
+        },
+        {
+            "title": "ADAS-Cog performance in urban Indian Alzheimer's patients: Implications for culturally appropriate assessment",
+            "link": "https://www.semanticscholar.org/paper/09cf6ec69b55964403c1a3218deac7376c2f9b92",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper addresses culturally appropriate Alzheimer's assessment, but its small cross-sectional analysis emphasizes memory and language rather than executive-function or multimodal digital biomarkers.",
+            "date_fetched": "2026-09-09 14:53:14"
         }
     ]
 }
