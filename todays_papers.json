@@ -1,0 +1,13 @@
+{
+    "papers": [
+        {
+            "title": "EEG-Driven Decoding Framework for Passenger Hazard Perception in Highly Automated Vehicles",
+            "link": "https://arxiv.org/abs/2609.07128v1",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper decodes human EEG responses during hazard perception, providing attention- and decision-related neural findings relevant to executive-function assessment, although its primary focus is vehicle safety rather than cognitive process modelling.",
+            "date_fetched": "2026-09-09 07:51:42"
+        }
+    ]
+}
