@@ -1,0 +1,22 @@
+{
+    "papers": [
+        {
+            "title": "Mapping and modulating brain dynamics in aging and neurodegeneration with electroencephalography and integrated neurotechnologies in primates.",
+            "link": "https://www.semanticscholar.org/paper/e646df101f67efb306b1fc581f26ecc794a9eaab",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This review summarizes primate EEG and multimodal signatures of aging and neurodegeneration that may inform cognitive biomarkers, but it does not focus specifically on executive functions such as planning, working memory, or attention.",
+            "date_fetched": "2026-09-10 07:51:36"
+        },
+        {
+            "title": "Advanced imaging-integrated rTMS therapy for frontal network recovery after traumatic brain injury.",
+            "link": "https://www.semanticscholar.org/paper/a69eee6e994cc298381101bf40819d104adb38fe",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study directly links executive-function recovery after traumatic brain injury to TMS-EEG responses, DLPFC hemodynamics, and frontoparietal connectivity, providing multimodal findings suitable for modelling or assessment.",
+            "date_fetched": "2026-09-10 07:51:36"
+        }
+    ]
+}
