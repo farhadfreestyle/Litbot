@@ -1,0 +1,265 @@
+{
+    "papers": [
+        {
+            "title": "Processing Speed Accounts for the Discriminative Power of a Smartphone Go/No-Go Task in Multiple Sclerosis",
+            "link": "https://www.semanticscholar.org/paper/f6ce68eb0d5ac92bac1dfbab2e8129d8b7fba569",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "This study evaluates a smartphone inhibitory-control task as a digital cognitive marker in multiple sclerosis and identifies processing speed as the source of its discrimination.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "What Static Connectivity Misses: Dynamic Alpha-Band Brain Network States in First-Episode Psychosis",
+            "link": "https://www.semanticscholar.org/paper/ebac9eccdadb4719b8eae751873361d21259586d",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Dynamic alpha-band connectivity in psychosis could inform neural models of attention, but the title does not establish a direct executive-function analysis.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "Air pollution and cognitive outcomes in older adults: a systematic review",
+            "link": "https://www.semanticscholar.org/paper/eb2e87186c4ee259ce1c72f94eba6c79876948f1",
+            "relevance_score": 2,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The review concerns cognition in older adults but is primarily about environmental exposure rather than executive mechanisms or computational assessment.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "Data-driven subtypes of Alzheimer's Disease: A multicohort study",
+            "link": "https://www.semanticscholar.org/paper/2956f1c7efadcc3624a1fc89a4867771b8be3862",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Data-driven Alzheimer\u2019s subtyping is relevant to clinical stratification, but no executive-function or task-based biomarker focus is evident from the available information.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "Predictive Value of Abnormal Expression of miR-378a-3p in Elderly Stroke Patients for Cognitive Impairment After Stroke.",
+            "link": "https://www.semanticscholar.org/paper/eb94ca1c7a85055eb89dc2a23f6141c3571d8761",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "This is a molecular predictor of general post-stroke cognitive impairment without a meaningful executive-function or digital-assessment component.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "Distinct oscillatory neural rhythms support representational precision and confidence in working memory.",
+            "link": "https://www.semanticscholar.org/paper/c167a062f5a33eace3f0d6d72e22d88473249a5c",
+            "relevance_score": 10,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper directly identifies oscillatory mechanisms supporting working-memory precision and confidence, providing findings well suited to computational process models.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "Altered Intertemporal Decision-Making in Individuals with High Autistic Traits.",
+            "link": "https://www.semanticscholar.org/paper/34e4eba9b4c23ea431abfbcc47450d3e008bc9ba",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Intertemporal choice is a model-relevant decision process, and its alteration with autistic traits may inform computational accounts of valuation and cognitive control.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "Knowledge-Guided Deep Learning with Clinical EEG Biomarkers for Automated Dementia Detection and Staging",
+            "link": "https://www.semanticscholar.org/paper/d7c28cf074051521885d217c93cca36a51652934",
+            "relevance_score": 9,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study closely matches clinical biomarker work by integrating raw multichannel EEG and established neurophysiological features to detect MCI and stage dementia.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "Plasma Cluster of Differentiation 147 and Cognitive Impairment After Acute Ischemic Stroke.",
+            "link": "https://www.semanticscholar.org/paper/c456072de8facd33e401c0af2355d5a349ac5e27",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The study predicts general post-stroke impairment from a plasma biomarker rather than modelling executive function or using task-based or neurophysiological digital markers.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "Visual impairment and its association with cognitive impairment: the Handan Eye Follow-up Study.",
+            "link": "https://www.semanticscholar.org/paper/a10c48dc6db63b4e6cf8a9e5a97181a588cae233",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper addresses an epidemiological association with general cognitive impairment rather than executive processes, eye-tracking behaviour, or computational assessment.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "Synergistic effects of repetitive transcranial magnetic stimulation and a dance movement intervention on mild cognitive impairment: study protocol for a four-arm factorial randomized controlled trial",
+            "link": "https://www.semanticscholar.org/paper/64410be12724ab9c0412e4961e99e803d7ab7dea",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The protocol targets the dorsolateral prefrontal cortex and includes executive-function and P300 outcomes, but it does not yet report empirical findings.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "Cognition and Heart Failure Subtypes: A Large Health Care System Real-World Cohort.",
+            "link": "https://www.semanticscholar.org/paper/2a29de5fedb11d7b1bba4409e374b322c021e7ae",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "This cohort links heart-failure subtypes to global MoCA impairment without isolating executive mechanisms or developing a relevant digital biomarker.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "Educational bias in the Montreal Cognitive Assessment among hemodialysis patients: A domain-level analysis.",
+            "link": "https://www.semanticscholar.org/paper/1b719852f15c0f9fad3a4f60f85f53fa2fa39389",
+            "relevance_score": 5,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The domain-level analysis demonstrates education-related bias in MoCA attention and executive items, directly informing the validity of cognitive assessment.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "Latent profile classification of cognitive function and its influencing factors in elderly patients with chronic pain after stroke",
+            "link": "https://www.semanticscholar.org/paper/01a331df7c85f0623bcf9ddb0178aea9b669cc6b",
+            "relevance_score": 4,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Latent profile analysis identifies clinically distinct MoCA patterns after stroke, but the profiles emphasize global cognition rather than executive-function mechanisms.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "Cognitive functioning as an underutilized determinant of treatment planning: a review in alcohol use disorder",
+            "link": "https://www.semanticscholar.org/paper/ca144ec8cf67906e228252c7061cda0fbd6decbb",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The review substantially covers executive function, attention, and memory in alcohol use disorder, although its main concern is treatment planning rather than cognitive mechanisms.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "Cenobamate Improves Emotional Dysregulation, Impulsivity, and Apathy in Drug-Resistant Focal Epilepsy: A Longitudinal Neuropsychological Study.",
+            "link": "https://www.semanticscholar.org/paper/97c2bbbaf7335b302c51f11d2a5a7a018b405cd9",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The longitudinal battery measures impulsivity, working memory, Stroop performance, and related control functions, but the primary contribution concerns medication effects in epilepsy.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "Dynamic, differentiated clinical trajectories and prediction in clinical high risk for psychosis.",
+            "link": "https://www.semanticscholar.org/paper/90c6082fa06848be46a1b8bcf5f42988e45fff34",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The available title concerns clinical trajectory prediction in psychosis without an identifiable cognitive, executive-function, or neurophysiological assessment component.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "What bilingualism demands",
+            "link": "https://www.semanticscholar.org/paper/4959c8d49e25e0dd1b7f774e9866b4cd06eb419a",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The review discusses cognitive control and EEG dynamics in bilingual language processing, but language and interdisciplinary theory remain its central focus.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "Entropy-Based Analysis of Olfactory EEG as a Candidate Biomarker for Early Mild Cognitive Impairment Detection: A Proof-of-Concept Study",
+            "link": "https://www.semanticscholar.org/paper/1f1814cc5d46c86a9375cfd973e070063bf146b2",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study combines an olfactory oddball task, EEG entropy features, and subject-level classification to distinguish MCI from healthy controls.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "Investigating the DTI-ALPS index and its association with cognitive impairment in Alzheimer\u2019s disease: a diffusion tensor imaging study",
+            "link": "https://www.semanticscholar.org/paper/17f9ba3f186c1e1281665b90008244b9b21552d9",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study relates glymphatic and white-matter imaging measures to cognition in Alzheimer\u2019s disease, but it does not specifically examine executive-function circuitry.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "Cognitive Trajectories and Associated Factors in Prostate Cancer Survivors Over a 3-Year Prospective Study.",
+            "link": "https://www.semanticscholar.org/paper/f529d02e1616d1384e657b5f4400f9a27ea158cc",
+            "relevance_score": 2,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Longitudinal cognitive trajectories have general assessment relevance, but no specific executive-function or computational focus is evident from the title.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "529. **Rafaelsen Award Presentation** Cognitive function and the risk of later onset of depression in healthy individuals: a 10-year longitudinal study",
+            "link": "https://www.semanticscholar.org/paper/f4ed7eb7d918d6eb430060d86992c39e8390b7cb",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The longitudinal study tests working memory and processing speed as predictors of depression onset, finding predictive value for processing speed but not working memory.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "420. Neurophysiological and cognitive markers for panic disorder: a multimodal predictive modeling study",
+            "link": "https://www.semanticscholar.org/paper/e3c8846263ffd5ac3946820961f97ad5aedbb7ce",
+            "relevance_score": 9,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "This close methodological match integrates EEG, autonomic measures, memory, and inhibitory-control performance to classify panic disorder against healthy controls.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "674. Cognitive and neurobiological indicators of risk and prognosis in mood disorders",
+            "link": "https://www.semanticscholar.org/paper/bf27a26c8f7e476522b0f79166364e46ad0f6f78",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The reported cohorts connect cognitive impairment and cognitive-control circuitry with mood-disorder risk and prognosis, although executive mechanisms are not isolated in detail.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "519. Baseline EEG connectivity predicts differential clinical response to donepezil and memantine in Alzheimer\u2019s disease",
+            "link": "https://www.semanticscholar.org/paper/b47e3e87693c6da340cc40fda519a0f8b38f7e7e",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Baseline frequency-specific EEG connectivity is evaluated as a biomarker of differential Alzheimer\u2019s treatment response, with attention-relevant gamma-network findings.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "68. Predicting executive dysfunction in mood disorders using a multimodal machine learning approach",
+            "link": "https://www.semanticscholar.org/paper/afbb720d4dde6f0d323d64c662e4db9c884c7f41",
+            "relevance_score": 9,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study develops multimodal speech-based machine-learning biomarkers that predict WCST-defined executive dysfunction in mood disorders and healthy controls.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "Investigating the Impact of Computer\u2010Based Cognitive Rehabilitation on Cognitive Function of Elderly People With Diabetes and Mild Cognitive Impairment: Protocol for a Randomized Controlled Trial",
+            "link": "https://www.semanticscholar.org/paper/a26c1e2b5097fa09cbcb057e2bec78c21d0b4ae6",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The trial directly targets working memory, selective attention, and inhibitory control using N-back, Stroop, and Go/No-Go outcomes, although it is only a protocol.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "203. Sharpening focus: EEG evidence of attention network plasticity following adaptive working memory training in adult ADHD",
+            "link": "https://www.semanticscholar.org/paper/97347906e91fe40a832d642c0d3cc940a3269feb",
+            "relevance_score": 10,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study directly links working-memory training to behavioural and N100/P300 changes in alerting, orienting, and executive-control networks in adult ADHD.",
+            "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "Ebetsu Active Future Study (EAFS): cognitive function and physical and mental health in elderly residents of Ebetsu City, Japan - cohort profile.",
+            "link": "https://www.semanticscholar.org/paper/94b0921c84954ad9efc4e68e411ef0164630d76d",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The cohort supports longitudinal MCI detection and biomarker research but currently reports only broad cognitive, health, and biospecimen characterization.",
+            "date_fetched": "2026-09-12 07:41:20"
+        }
+    ]
+}
