@@ -260,6 +260,24 @@
             "filtered": false,
             "reason": "The cohort supports longitudinal MCI detection and biomarker research but currently reports only broad cognitive, health, and biospecimen characterization.",
             "date_fetched": "2026-09-12 07:41:20"
+        },
+        {
+            "title": "A Systematic Review of fNIRS-Based Neurovascular Coupling Research: Methodological Landscape and Translational Considerations for Spaceflight.",
+            "link": "https://www.semanticscholar.org/paper/fb5843bb9e76c10a2b8fdbfa0bd084fa659b3f6b",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The review covers prefrontal fNIRS, working-memory paradigms, and EEG-fNIRS designs, but its central focus is neurovascular monitoring methodology and spaceflight translation rather than executive function.",
+            "date_fetched": "2026-09-12 13:48:00"
+        },
+        {
+            "title": "Parkinson's disease cognitive rehabilitation of executive functioning (PD-CoRE): A community-based intervention study.",
+            "link": "https://www.semanticscholar.org/paper/c283bf475e3570e9ac74b511e9d5313831cb5e8b",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This clinical intervention directly targets executive functioning in Parkinson's disease and reports behavioral cognitive outcomes, although it provides no process model or executive-function-specific neural measurements.",
+            "date_fetched": "2026-09-12 13:48:00"
         }
     ]
 }
