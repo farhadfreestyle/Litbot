@@ -59,18 +59,43 @@ HISTORY_FILE = "paper_history.json"
 TODAYS_PAPERS = "todays_papers.json"
 OUTPUT_FILE = "todays_fetched_papers.txt"
 
+ARXIV_HEADERS = {
+    # arXiv asks that requests identify a contact so blocks can be investigated
+    "User-Agent": "Litbot/1.0 (mailto:your-email@example.com)"
+}
 
 
 def fetch_arxiv(query, max_results=100):
+    """Fetch from arXiv once. On any failure (rate limit, timeout, bad XML),
+    log it and return an empty list rather than retrying, so a block on
+    arXiv's side never turns into a hammering loop against it."""
     parameters = {
         "search_query": query,
         "sortBy": "submittedDate",
         "sortOrder": "descending",
         "max_results": max_results,
     }
-    results = requests.get("http://export.arxiv.org/api/query", params=parameters)
-    dict_answer = xmltodict.parse(results.text)
 
+    try:
+        response = requests.get(
+            "https://export.arxiv.org/api/query",
+            params=parameters,
+            headers=ARXIV_HEADERS,
+            timeout=30,
+        )
+    except requests.exceptions.RequestException as exc:
+        print(f"arXiv request raised {exc!r}, skipping arXiv for this run")
+        return []
+
+    text = response.text.strip()
+
+    # A rate limited or otherwise non-XML response comes back as plain text,
+    # not XML, so check for that before handing it to xmltodict.
+    if response.status_code != 200 or not text.startswith("<?xml"):
+        print(f"arXiv did not return XML, skipping arXiv for this run: {text[:200]!r}")
+        return []
+
+    dict_answer = xmltodict.parse(text)
     entries = dict_answer.get("feed", {}).get("entry", [])
     if isinstance(entries, dict):
         entries = [entries]
@@ -78,8 +103,14 @@ def fetch_arxiv(query, max_results=100):
     papers = []
     for paper in entries:
         title = paper["title"].strip()
-        link = paper["link"][0]["@href"]
-        summary = paper["summary"].strip()
+        link_field = paper.get("link")
+        if isinstance(link_field, list):
+            link = link_field[0]["@href"]
+        elif isinstance(link_field, dict):
+            link = link_field["@href"]
+        else:
+            link = ""
+        summary = (paper.get("summary") or "").strip()
         papers.append([title, link, summary])
     return papers
 
@@ -99,8 +130,9 @@ def fetch_semantic_scholar(query, max_results=100):
         if token:
             params["token"] = token
 
-        response = requests.get(url, params=params)
+        response = requests.get(url, params=params, timeout=30)
         if response.status_code != 200:
+            print(f"Semantic Scholar request failed: {response.status_code} {response.text[:200]!r}")
             break
 
         data = response.json()
@@ -116,7 +148,7 @@ def fetch_semantic_scholar(query, max_results=100):
         if not token:
             break
 
-        time.sleep(1)  
+        time.sleep(1)
     return papers[:max_results]
 
 
