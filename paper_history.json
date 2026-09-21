@@ -5599,6 +5599,96 @@
             "filtered": false,
             "reason": "The study evaluates smartphone-derived turning time as a digital mobility marker associated with MoCA-defined MCI, but discrimination is modest and executive function is not directly measured.",
             "date_fetched": "2026-09-20 14:23:02"
+        },
+        {
+            "title": "Beyond Reactive Assistance: PV-Care Using Low-Density EEG and AI to Provide Proactive, Context-Aware Help for MCI",
+            "link": "https://arxiv.org/abs/2609.22024v1",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study combines low-density EEG cognitive-state classification with visual context and user testing to deliver adaptive assistance for people with MCI.",
+            "date_fetched": "2026-09-21 08:33:28"
+        },
+        {
+            "title": "A longitudinal study of age-related traits and cognitive function: The Collaborative Amish Aging and Memory Project (CAAMP)",
+            "link": "https://www.semanticscholar.org/paper/7b10258a7fa24b732f000388a2f91bbfcc45e1e2",
+            "relevance_score": 2,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The title indicates longitudinal measurement of age-related cognitive function, but the missing summary provides no evidence of an executive-function-specific analysis.",
+            "date_fetched": "2026-09-21 08:33:28"
+        },
+        {
+            "title": "Associations between cognitive reserve, iron deposition in the basal ganglia, and cognitive function in mild cognitive impairment",
+            "link": "https://www.semanticscholar.org/paper/20ea7b00bf7bceeb0fefc15a05ae79717c64d950",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper links basal-ganglia iron deposition and cognitive reserve to cognitive performance in MCI, but its outcomes emphasize global cognition and memory rather than executive processes.",
+            "date_fetched": "2026-09-21 08:33:28"
+        },
+        {
+            "title": "Resting-state frontal theta/beta ratio and psychological symptoms in college students: an EEG study",
+            "link": "https://www.semanticscholar.org/paper/1ca71b84f604a0d69e4bf98ba528824cc61d491c",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Resting frontal theta/beta ratio is relevant to attentional regulation and cognitive control, although the study primarily associates it with psychological symptom severity rather than executive-task performance.",
+            "date_fetched": "2026-09-21 08:33:28"
+        },
+        {
+            "title": "Dysglycemia-related neurological syndromes: Clinical and radiological mimics with complete reversibility",
+            "link": "https://www.semanticscholar.org/paper/d043834d695d99100120cce250e9cb24dbd29449",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "This clinical case series concerns reversible neurological presentations of dysglycemia and does not investigate executive function modelling or assessment.",
+            "date_fetched": "2026-09-21 08:33:28"
+        },
+        {
+            "title": "The impact of virtual reality exercise on motor function, balance and gait function, and cognitive function in stroke patients: an umbrella review of systematic reviews and meta-analyses",
+            "link": "https://www.semanticscholar.org/paper/b04b9551ceaac264b130fa8f34bd9ab74e78ce5d",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The review reports effects of virtual-reality rehabilitation on post-stroke global cognition measured by MoCA but does not isolate or model executive functions.",
+            "date_fetched": "2026-09-21 08:33:28"
+        },
+        {
+            "title": "Hemispheric segregation is evident in early perception, not just higher cognition",
+            "link": "https://www.semanticscholar.org/paper/66f997e16ccd00fd7caed9bf5595ac59ed0471d9",
+            "relevance_score": 2,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The EEG findings concern hemispheric lateralization during early language and face perception rather than planning, working memory, attention, or cognitive control.",
+            "date_fetched": "2026-09-21 08:33:28"
+        },
+        {
+            "title": "Structural Brain Changes Are Linked to Clinical and Cognitive Outcomes in Anti-LGI1 Encephalitis",
+            "link": "https://www.semanticscholar.org/paper/3d5abe28722242bb52c0ff85683f4ccd5b62139c",
+            "relevance_score": 2,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study relates longitudinal structural MRI markers to overall cognition in encephalitis but does not report executive-function-specific neural or behavioural findings.",
+            "date_fetched": "2026-09-21 08:33:28"
+        },
+        {
+            "title": "Mobile technology-based gaming apps to deliver patient-led cognitive gamified training in people receiving haemodialysis",
+            "link": "https://www.semanticscholar.org/paper/238565536c564296b2053292ba8612be2c37ec54",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The pilot evaluates app-based cognitive training with a working-memory measure in a clinical population, but it offers no process model and found limited cognitive benefit.",
+            "date_fetched": "2026-09-21 08:33:28"
+        },
+        {
+            "title": "Associations of Social Support, Loneliness, and Physical Activity with Cognitive Function in Older Adults with Mild Cognitive Impairment",
+            "link": "https://www.semanticscholar.org/paper/21e61a5fe58de9183f1c89b79f69de224aa4838b",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study reports behavioural associations involving executive function, processing speed, and selective attention in older adults with MCI, although its cross-sectional predictors are not components of a cognitive process model.",
+            "date_fetched": "2026-09-21 08:33:28"
         }
     ]
 }
