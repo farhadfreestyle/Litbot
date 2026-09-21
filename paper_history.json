@@ -5689,6 +5689,33 @@
             "filtered": false,
             "reason": "The study reports behavioural associations involving executive function, processing speed, and selective attention in older adults with MCI, although its cross-sectional predictors are not components of a cognitive process model.",
             "date_fetched": "2026-09-21 08:33:28"
+        },
+        {
+            "title": "The uneven landscape of cognitive domains in 22q11.2 deletion syndrome: A large consortium study",
+            "link": "https://www.semanticscholar.org/paper/d8c63e7e21a0b0d613cd5b31c39f7c717d97e1f7",
+            "relevance_score": 3,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study broadly profiles cognition in a clinical population, but the available title does not establish a specific focus on executive function or its computational modelling.",
+            "date_fetched": "2026-09-21 16:41:18"
+        },
+        {
+            "title": "White matter microstructural alterations associated with type-2 diabetes mellitus and mild cognitive impairment",
+            "link": "https://www.semanticscholar.org/paper/0731bd109263fb45e6d16324254ee5a114e89c8f",
+            "relevance_score": 2,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper links white-matter structure to mild cognitive impairment, but no specific connection to planning, working memory, attention, or cognitive control is evident.",
+            "date_fetched": "2026-09-21 16:41:18"
+        },
+        {
+            "title": "Searching across working memory and perception",
+            "link": "https://www.semanticscholar.org/paper/fb13b60d5672b4a2257926784a91935128c15282",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Behavioral experiments, eye tracking, and posterior alpha lateralization directly reveal parallel and temporally distinct mechanisms for searching working memory and perception.",
+            "date_fetched": "2026-09-21 16:41:18"
         }
     ]
 }
