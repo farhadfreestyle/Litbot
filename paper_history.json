@@ -5761,6 +5761,24 @@
             "filtered": false,
             "reason": "The review concerns EEG- and MEG-derived oscillatory targets for personalized brain stimulation, but executive functions such as attention or working memory are not identified as its central focus.",
             "date_fetched": "2026-09-22 08:13:38"
+        },
+        {
+            "title": "Decoding the cognitive profile of fibromyalgia: interactions among psychiatric symptoms, personality traits, and quality of life",
+            "link": "https://www.semanticscholar.org/paper/ca341eefabf9bb2da19336a8f4c8aac916c16af7",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The title indicates clinical cognitive profiling in fibromyalgia, but no specific executive-function construct, computational model, neural measure, or digital biomarker is identified.",
+            "date_fetched": "2026-09-22 15:13:27"
+        },
+        {
+            "title": "The impact of inhibitory control and working memory capacity on verbal-humor processing: an ERP investigation",
+            "link": "https://www.semanticscholar.org/paper/3bec600d9cba069200a9788265f8b09bba8934a9",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper directly investigates inhibitory control and working-memory capacity using ERP measures, although within the narrower context of verbal-humor processing.",
+            "date_fetched": "2026-09-22 15:13:27"
         }
     ]
 }
