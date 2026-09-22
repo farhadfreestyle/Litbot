@@ -1,0 +1,49 @@
+{
+    "papers": [
+        {
+            "title": "Serum BDNF and cognitive risk in maintenance hemodialysis: a machine learning study.",
+            "link": "https://www.semanticscholar.org/paper/220aecd7b3e397a201e56504ea6ce797d0842477",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "It predicts incident MoCA-defined cognitive impairment using serum and clinical variables, but does not specifically assess executive function or use behavioural, eye-tracking, or EEG biomarkers.",
+            "date_fetched": "2026-09-22 08:13:38"
+        },
+        {
+            "title": "Prenatal exposure to aromatic amines and associations with infant cognition in the ECHO.CA.IL cohorts.",
+            "link": "https://www.semanticscholar.org/paper/b4888f614f3a8d1842f0582b2a7498eb479c0e42",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study uses an eye-tracked visual recognition memory task to measure infant attention and working memory, providing behavioural findings relevant to executive-function assessment despite its environmental-health focus.",
+            "date_fetched": "2026-09-22 08:13:38"
+        },
+        {
+            "title": "MOLAR: MRI-based Opportunistic Localization and Recognition of teeth",
+            "link": "https://www.semanticscholar.org/paper/02a91d4799348b40f578696958bab079f45de5f6",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "This is a dental MRI localization and recognition paper with no apparent connection to human executive function, neuroscience, or cognitive assessment.",
+            "date_fetched": "2026-09-22 08:13:38"
+        },
+        {
+            "title": "Clinical Symptomatology, Cognition and Psychosocial Wellbeing in Adolescents With Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: A Cross-Sectional Observational Study.",
+            "link": "https://www.semanticscholar.org/paper/b6ef410f037f014f562f0c794e8b32979db98fb7",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "It examines cognition in a clinical adolescent population, but the available title does not indicate executive-function-specific measures, computational modelling, or multimodal biomarker methods.",
+            "date_fetched": "2026-09-22 08:13:38"
+        },
+        {
+            "title": "Personalized Brain Stimulation based on Brain Oscillations: A Systematic Review of MEG- and EEG-informed Transcranial Alternating Current Stimulation (tACS).",
+            "link": "https://www.semanticscholar.org/paper/09e9de104900c148bf11f4c5824d1d796cb781f4",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The review concerns EEG- and MEG-derived oscillatory targets for personalized brain stimulation, but executive functions such as attention or working memory are not identified as its central focus.",
+            "date_fetched": "2026-09-22 08:13:38"
+        }
+    ]
+}
