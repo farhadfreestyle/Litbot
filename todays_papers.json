@@ -1,0 +1,85 @@
+{
+    "papers": [
+        {
+            "title": "Multimodal prediction of MCI-to-dementia conversion over a two-year window.",
+            "link": "https://www.semanticscholar.org/paper/cf49c3deb0dbf1c446aefc697a8fe09066c2f7f4",
+            "relevance_score": 3,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study predicts clinically important cognitive decline using multimodal data, but the title provides no indication of executive-function tasks, eye tracking, EEG, or process modelling.",
+            "date_fetched": "2026-09-23 08:16:01"
+        },
+        {
+            "title": "Quantitative analysis of intersecting pentagon drawings for interpretable cognitive impairment screening.",
+            "link": "https://www.semanticscholar.org/paper/bbec235f8c10e28dff5f01a9eca3992be5ecc703",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Quantitative and interpretable analysis of a drawing task is directly relevant to behavioral digital screening for cognitive impairment, although no multimodal or executive-process analysis is specified.",
+            "date_fetched": "2026-09-23 08:16:01"
+        },
+        {
+            "title": "Diagnostic accuracy of the ADAS-Cog-13 as a cognitive screening tool in older adults with focal epilepsy: A multicenter cross-sectional study.",
+            "link": "https://www.semanticscholar.org/paper/bb6459acd1af87c7780247a6817fdb5769c0e6eb",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "This evaluates a general cognitive screening instrument in a clinical population without a stated focus on executive-function mechanisms or digital and multimodal biomarkers.",
+            "date_fetched": "2026-09-23 08:16:01"
+        },
+        {
+            "title": "A Harmonized Visual Reading Framework for Tau PET Staging in Alzheimer Disease.",
+            "link": "https://www.semanticscholar.org/paper/b062579a2ae8edb07c25afd0521ccfc23780b9f1",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The framework improves early Alzheimer pathology staging and relates tau burden to global cognition, but it does not specifically investigate executive function or behavioral, eye-tracking, or EEG assessment.",
+            "date_fetched": "2026-09-23 08:16:01"
+        },
+        {
+            "title": "Association of MIR137 rs1625579 polymorphisms with cognitive function in patients with untreated first-episode depression.",
+            "link": "https://www.semanticscholar.org/paper/031a46a6d8c846c0883c907c477bdaeee009eebc",
+            "relevance_score": 2,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper links a genetic polymorphism to cognition in depression, but the available title does not establish a specific finding about planning, working memory, attention, or cognitive control.",
+            "date_fetched": "2026-09-23 08:16:01"
+        },
+        {
+            "title": "Preliminary validation of Cogniclear: a virtual reality cognitive screening tool for older adults against the Montreal Cognitive Assessment",
+            "link": "https://www.semanticscholar.org/paper/ea72855f6b16707af969f96edbc0836b77606ff6",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study validates an immersive cognitive assessment using continuous behavioral interaction measures and domain-level comparisons with MoCA, providing a relevant digital assessment methodology despite its small preliminary sample.",
+            "date_fetched": "2026-09-23 08:16:01"
+        },
+        {
+            "title": "Serum BDNF and cognitive risk in maintenance hemodialysis: a machine learning study",
+            "link": "https://www.semanticscholar.org/paper/220aecd7b3e397a201e56504ea6ce797d0842477",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study predicts MoCA-defined cognitive impairment from serum and clinical variables, but it does not model executive processes or use the behavioral, eye-tracking, and EEG modalities of primary interest.",
+            "date_fetched": "2026-09-23 08:16:01"
+        },
+        {
+            "title": "ARLC-Net: An Adaptive Representation Learning Framework for Electroencephalography-Based Brain Age Clustering",
+            "link": "https://www.semanticscholar.org/paper/163ba47fc56a3b69c877a43172fce2c0ebdb283e",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper analyzes age-related EEG spectral and functional-connectivity patterns in human datasets, but its main contribution is a clustering method rather than findings or models specific to executive function.",
+            "date_fetched": "2026-09-23 08:16:01"
+        },
+        {
+            "title": "Evaluation of Visuospatial Ability in Elderly Adults Using Eye Tracking and Virtual Reality Content",
+            "link": "https://www.semanticscholar.org/paper/03dfb8475270e3b747692700dc3a50a391be4cae",
+            "relevance_score": 9,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "This is a close methodological match using a VR task, eye-tracking-derived quantitative features, and classification of healthy older adults versus participants suspected of MCI for early cognitive screening.",
+            "date_fetched": "2026-09-23 08:16:01"
+        }
+    ]
+}
