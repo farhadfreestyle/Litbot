@@ -1,0 +1,283 @@
+{
+    "papers": [
+        {
+            "title": "Neurobehavioural, Biochemical and Histological Effects of Metformin in a Scopolamine-Induced Cognitive Impairment Model in Male Wistar Rats",
+            "link": "https://www.semanticscholar.org/paper/cc7b1f192adbd773cca17df3edf9df0677be3211",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The rat study links pharmacologically induced spatial working-memory impairment to prefrontal and hippocampal pathology, although its primary focus is metformin efficacy rather than executive-function mechanisms.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Silent brain infarction is associated with executive dysfunction in community-dwelling older adults: the Sefuri-Yoshinogari study.",
+            "link": "https://www.semanticscholar.org/paper/1b9353cba916bdb66ad6fce8fe1702009896303f",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This large human study directly associates MRI-detected silent brain infarction with Stroop-defined executive dysfunction in older adults without dementia.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Seeing and deciding to help: Neural and attentional mechanisms of prosociality in younger and older adults.",
+            "link": "https://www.semanticscholar.org/paper/fbb92a72c3873f270d43acd5b044e44f40ce837f",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study combines eye tracking and fMRI to characterize age-related attention and cognitive-control recruitment, but these mechanisms are examined primarily in prosocial decision-making.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "A novel multi-modal fusion framework based on simultaneous EEG-fNIRS for the classification of working memory loads",
+            "link": "https://www.semanticscholar.org/paper/6fa6e4c7d2d1faecc5c25086574d06dae5a842d6",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper directly addresses multimodal EEG-fNIRS classification of human working-memory load, closely matching neurophysiological cognitive assessment methodology.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Dissociating stimulus and task effects on neural oscillations during n-back tasks",
+            "link": "https://www.semanticscholar.org/paper/e6a2ac85683942d5538a526bc6ebc3b964b6fcb0",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Systematic manipulation of n-back protocols reveals separable frontal-theta and centroparietal-alpha signatures of working-memory encoding and task structure.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Mindful Breath: A Comprehensive Literature Review and Comparative Analysis of Breathwork Techniques",
+            "link": "https://www.semanticscholar.org/paper/cf0c4cc1b7be6a960a05d2f3e806af867f3f14a2",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The review focuses on autonomic, emotional, and general health effects of breathwork, with only incidental references to cognition and EEG rhythms.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Increasing daily step count in mild cognitive impairment: a 12-month randomised controlled trial",
+            "link": "https://www.semanticscholar.org/paper/a883976b5aceb23ddb7fe3fb6138ada5eb20db27",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The trial includes spatial working-memory and global cognition outcomes in MCI, but its main contribution concerns a physical-activity intervention rather than executive-function modelling or measurement.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "A home-finding task in virtual reality to test entorhinal path integration performance in patients with mild cognitive impairment",
+            "link": "https://www.semanticscholar.org/paper/6be5942b32752a810716411057eb65450e998737",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The immersive behavioral task distinguishes MCI from healthy aging through path-integration errors and offers a promising digital marker for early cognitive impairment.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Foster care intervention protects cognitive control skills in young adults exposed to institutional rearing.",
+            "link": "https://www.semanticscholar.org/paper/5d1ee3f1f4596c62f6d0f3c345065d5cc6e51f8c",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Flanker behavior, ERPs, and time-frequency EEG provide direct evidence about lasting environmental effects on performance monitoring and cognitive control.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Writing is thinking: toward a neuropsychological model of scientific writing as knowledge construction",
+            "link": "https://www.semanticscholar.org/paper/5a9b4dc705b1293272f7d255a4db999fc3caeb44",
+            "relevance_score": 7,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The paper proposes a testable human cognitive architecture integrating executive control, working memory, metacognitive monitoring, and predictive coding, although it is conceptual rather than quantitative.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Post-Stroke Cognitive Impairment in Georgia: Diagnostic Utility of Georgian NINDS-CSN Neuropsychological Battery",
+            "link": "https://www.semanticscholar.org/paper/553fca49b39e6b57e0c1eec209067b205c86e432",
+            "relevance_score": 5,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study validates a multidomain clinical battery that includes executive measures for post-stroke impairment, but emphasizes conventional screening accuracy rather than process modelling or digital biomarkers.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "REM sleep suppression after penetrating traumatic brain injury is associated with alterations in the supramammillary-hippocampal circuit.",
+            "link": "https://www.semanticscholar.org/paper/4fb6c95012b4a2c6212c8452e197a06a0f7233a1",
+            "relevance_score": 3,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The rat study characterizes REM-related theta and hippocampal circuit disruption after injury, but it does not directly assess planning, working memory, attention, or cognitive control.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Adaptation and Validation of Brief Tablet-Based Cognitive Assessment Tool in Uganda",
+            "link": "https://www.semanticscholar.org/paper/37041d099284813ba1e855f571ca9faf183fbb61",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "This large validation study evaluates a scalable tablet battery covering memory and executive function for detecting objective cognitive impairment in an underserved population.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Neural signatures of auditory distraction and cognitive demand during working memory performance",
+            "link": "https://www.semanticscholar.org/paper/3393c82d76e62a51d23754fd783b910cee478cd7",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study directly identifies EEG power, asymmetry, and connectivity signatures of distraction and time pressure during human working-memory performance.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Kinestesia: the prefrontal EEG response to a cognitive-motor intervention is graded by baseline cognitive status",
+            "link": "https://www.semanticscholar.org/paper/f9f1093c1bec7e3962d9add7e7261da9b00e7992",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Resting-state prefrontal EEG changes distinguish intervention responses along the healthy-to-MCI spectrum, although the uncontrolled sample is very small.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Multimodal neuromonitoring-guided cerebral protection and early neurocognitive outcomes after aortic arch surgery",
+            "link": "https://www.semanticscholar.org/paper/948c215924e3e2391268219caf8138decb4e2384",
+            "relevance_score": 4,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study combines EEG and vascular monitoring to predict broad postoperative cognitive outcomes, but does not specifically characterize executive-function processes or task-based biomarkers.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "P300 latency prolongation and executive dysfunction in systemic sclerosis: A multimodal cognitive assessment",
+            "link": "https://www.semanticscholar.org/paper/3076ca93af1092c38ed5d70dfdf1cba06ae3938e",
+            "relevance_score": 9,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper closely matches multimodal clinical assessment by combining auditory P300 with computerized Stroop performance to detect executive dysfunction in patients versus controls.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Network-targeted neurophysiological biomarkers of dysconnectivity and cognitive decline in Alzheimer\u2019s disease",
+            "link": "https://www.semanticscholar.org/paper/e42ec3671f61c5212e71b1d5085a86997be8b3a9",
+            "relevance_score": 9,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Network-targeted TMS-EEG markers classify MCI, relate selectively to executive function, and predict longitudinal executive decline across the Alzheimer\u2019s continuum.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Magnetic Resonance Imaging-Defined Cerebral Small Vessel Disease Burden and Longitudinal Neuropsychiatric and Functional Recovery After Stroke: A Prospective Cohort Study.",
+            "link": "https://www.semanticscholar.org/paper/c5a074932054d51927010fe397248b5c368120d3",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The study monitors global cognition after stroke but focuses on depression and functional recovery and finds no independent association between small-vessel burden and cognitive impairment.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Distinct brain activation patterns linked to clinical symptoms during hand grasping in Parkinson's disease",
+            "link": "https://www.semanticscholar.org/paper/c0fdda3bd741123dbe781271f9ec82fc9f92e518",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The fNIRS analysis concerns cortical activation during motor grasping, with cognition included only as a clinical covariate that showed no significant association.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Evolution and interrelation of physical frailty and mild cognitive impairment up to two years after kidney transplantation: a multi-center prospective cohort study",
+            "link": "https://www.semanticscholar.org/paper/bf04052fae1c33ea1033a5540c2c68bec1f07813",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The cohort tracks MoCA-defined impairment and frailty after transplantation but does not examine executive-function mechanisms or specialized cognitive biomarkers.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Cognitive function, anxiety, and depression in patients newly diagnosed with thyroid cancer in China",
+            "link": "https://www.semanticscholar.org/paper/7e10f135b4a34f97ee8861d3b1f572d62a00b610",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "This is a broad MoCA-based prevalence and correlates study without specific measures or models of executive function.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Cognitive Physiology in Healthy Young Adults: Links to Ciliary Neurotrophic Factor and Retinal Biomarkers",
+            "link": "https://www.semanticscholar.org/paper/75ff7ef06a73b9337eed138eddedc4daaa6c5806",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study explores retinal and plasma markers for low global cognitive scores, but it neither targets executive function nor validates impairment classification in a clinical sample.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Anticipated distractor processing relies on distinct representational states before and after distractor onset in visual working memory",
+            "link": "https://www.semanticscholar.org/paper/1f08e6a0a0e97f5b264bdfa7874cbae876463fd7",
+            "relevance_score": 10,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Human EEG decoding provides detailed mechanistic evidence that anticipatory coding and post-onset representational reformatting make distinct contributions to distractor control in visual working memory.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Impact of Recording Conditions and Feature Fusion on Dementia Classification Using Spectral, Entropy, and Complexity EEG Features",
+            "link": "https://www.semanticscholar.org/paper/ba08cbaac608aa8b9b628742e11714c5fd4dc149",
+            "relevance_score": 9,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper directly evaluates EEG feature families and recording conditions for differential classification of healthy controls, MCI, and Alzheimer\u2019s disease.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Relationship Between Cognitive Performance and Anthropometric Status, Dietary Diversity, and Diet Quality in Older Turkish Adults: A Cross-Sectional Study",
+            "link": "https://www.semanticscholar.org/paper/915a1bd3db35d49ed9658316174a09a321eb1780",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The study relates diet and body mass index to global MoCA scores without specifically assessing executive function or developing a cognitive biomarker.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Correlation of Serum Malondialdehyde with Motor Severity and Cognitive Function in Parkinson\u2019s Disease",
+            "link": "https://www.semanticscholar.org/paper/8500bb4b23edaab1ffe93d77b88be3f08fe24d35",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The association between oxidative stress and abnormal Trail Making Test B performance is relevant to executive dysfunction, but it is a small correlational biomarker study centered on Parkinsonian pathology.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Dual-Task Performance as a Potential Digital Biomarker of Aging: Age-Stratified Reference Patterns Across the Adult Lifespan",
+            "link": "https://www.semanticscholar.org/paper/bd852ea9f081c527f4f627e6927e54fe7dd8e884",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The standardized digital paradigm quantifies age-related cognitive-motor interference and provides reference values for a potentially scalable attention and control biomarker, but lacks clinical validation.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Resting-State EEG Microstate Dynamics as Neurophysiological Biomarkers Across the Alzheimer\u2019s Disease Continuum: A Systematic Review",
+            "link": "https://www.semanticscholar.org/paper/5595c62819a5e8972236de6750fa5951cd56a34b",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The review synthesizes resting-state EEG microstate alterations across subjective decline, MCI, and Alzheimer\u2019s disease, while emphasizing substantial heterogeneity and limited biomarker confirmation.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Feasibility of remote self-administered cognitive assessment in an Alzheimer\u2019s disease treatment clinic",
+            "link": "https://www.semanticscholar.org/paper/575a3724b9340a9c03724d05870ae6a093b07a66",
+            "relevance_score": 5,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study supports the practical deployment of remote digital cognitive testing across impairment levels, but evaluates completion feasibility rather than executive-function validity or diagnostic performance.",
+            "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Applications of Virtual Reality in Psychiatry. Systematic Review of the Scientific Literature",
+            "link": "https://www.semanticscholar.org/paper/c268afa219eaaadddc0345a988363bc1a1578296",
+            "relevance_score": 3,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The broad psychiatry review mentions VR-based ADHD assessment and cognitive rehabilitation, but executive-function assessment is peripheral to its main focus on therapeutic applications.",
+            "date_fetched": "2026-09-26 08:17:48"
+        }
+    ]
+}
