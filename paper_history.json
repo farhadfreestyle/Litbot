@@ -6148,6 +6148,15 @@
             "filtered": false,
             "reason": "The broad psychiatry review mentions VR-based ADHD assessment and cognitive rehabilitation, but executive-function assessment is peripheral to its main focus on therapeutic applications.",
             "date_fetched": "2026-09-26 08:17:48"
+        },
+        {
+            "title": "Cognitive Function, Mental Health, and Quality of Life in Leprosy: A Narrative Review",
+            "link": "https://www.semanticscholar.org/paper/192972a0530093ce86fa212e1149c0767fd297c6",
+            "relevance_score": 2,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This review concerns cognitive outcomes in a human clinical population but does not specifically indicate findings on executive function, computational modelling, or digital biomarkers.",
+            "date_fetched": "2026-09-26 14:48:10"
         }
     ]
 }
