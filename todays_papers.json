@@ -1,0 +1,58 @@
+{
+    "papers": [
+        {
+            "title": "Revisit to Segment: Working Memory Distillation for Reasoning Segmentation",
+            "link": "https://arxiv.org/abs/2609.34863v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "This paper uses working memory to describe an image-segmentation model's internal context and distillation process rather than human or animal cognition.",
+            "date_fetched": "2026-09-29 09:27:02"
+        },
+        {
+            "title": "MAC-Net: A Multi-Task Deep Learning Framework for Modeling Cognitive Function From Task-Based fMRI",
+            "link": "https://arxiv.org/abs/2609.33440v1",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper predicts individual cognitive function from task-based fMRI and identifies frontal, parietal, and cingulate features associated with N-back working-memory performance.",
+            "date_fetched": "2026-09-29 09:27:02"
+        },
+        {
+            "title": "Recovery-Directed Symbolic Distillation of Neural Likelihoods",
+            "link": "https://arxiv.org/abs/2609.32409v1",
+            "relevance_score": 8,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The method improves interpretable and efficient parameter recovery for the diffusion decision model, a process model of human decision making, and demonstrates hierarchical inference on empirical data.",
+            "date_fetched": "2026-09-29 09:27:02"
+        },
+        {
+            "title": "Subregion-specific temporal lobe EEG signatures in amnestic mild cognitive impairment: Evidence from high-density EEG.",
+            "link": "https://www.semanticscholar.org/paper/48f4547bd49988606fd23b66d3ce22ca599530a0",
+            "relevance_score": 5,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "High-density EEG signatures in amnestic mild cognitive impairment are relevant to early-detection biomarkers, although the available title emphasizes temporal-lobe memory pathology rather than executive function.",
+            "date_fetched": "2026-09-29 09:27:02"
+        },
+        {
+            "title": "Everyday Discrimination Alters Cognitive Benefits of Restorative NREM Sleep in Black Adults",
+            "link": "https://www.semanticscholar.org/paper/35699e2fe178574a3db6215d74d8e1e5a15ee7b4",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The study relates sleep physiology and discrimination to global cognition and visuospatial memory but does not specifically investigate executive function or its computational assessment.",
+            "date_fetched": "2026-09-29 09:27:02"
+        },
+        {
+            "title": "Cortical Ribboning and Periodic EEG Discharges in Probable Sporadic CreutzfeldtJakob Disease",
+            "link": "https://www.semanticscholar.org/paper/6859f62b74a543064ed8f96511b4b043af6efa96",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "This single-case diagnostic report combines MRI and EEG for rapidly progressive cognitive decline but provides no specific findings or modelling of executive function.",
+            "date_fetched": "2026-09-29 09:27:02"
+        }
+    ]
+}
