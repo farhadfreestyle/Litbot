@@ -53,6 +53,33 @@
             "filtered": false,
             "reason": "This single-case diagnostic report combines MRI and EEG for rapidly progressive cognitive decline but provides no specific findings or modelling of executive function.",
             "date_fetched": "2026-09-29 09:27:02"
+        },
+        {
+            "title": "Sex-Based Differences in Cognitive Performance in Patients with Cardiovascular Diseases",
+            "link": "https://www.semanticscholar.org/paper/eda191e15fdc2b3ce385bbd4e875363c04b1ad23",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The study uses MoCA to examine general cognitive performance in cardiovascular patients but does not specifically model or assess executive-function processes.",
+            "date_fetched": "2026-09-29 16:41:04"
+        },
+        {
+            "title": "Differential roles of frontoparietal regions in working memory and decision-making",
+            "link": "https://www.semanticscholar.org/paper/e33b679b1ba4e4e1a847e4bf330c0cd03e4c039b",
+            "relevance_score": 10,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Human intracranial EEG reveals temporally and anatomically distinct frontoparietal dynamics for working-memory maintenance, encoding, updating, and decision-making that can directly constrain computational models.",
+            "date_fetched": "2026-09-29 16:41:04"
+        },
+        {
+            "title": "Navigating Adolescence with Chronic Illness: A Review Study of Emotion Regulation and Psychological Adjustment",
+            "link": "https://www.semanticscholar.org/paper/1bf8a15e7b6f155c991a167b8d4563dab0001912",
+            "relevance_score": 3,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The review links emotion-regulation strategies and chronic illness to executive functioning, but executive function is peripheral to its focus on psychological adjustment and intervention.",
+            "date_fetched": "2026-09-29 16:41:04"
         }
     ]
 }
