@@ -1,0 +1,22 @@
+{
+    "papers": [
+        {
+            "title": "A neural network that maintains and retrieves memories based on context",
+            "link": "https://arxiv.org/abs/2609.37791v1",
+            "relevance_score": 10,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "It presents a Bayesian context-inference and recurrent-memory model of human working and episodic memory that is directly validated against human fMRI representations and retrieval behaviour.",
+            "date_fetched": "2026-09-30 09:17:51"
+        },
+        {
+            "title": "Better Behavioral Prediction, More Faithful Model Ablations? Evidence from Sequential Choice",
+            "link": "https://arxiv.org/abs/2609.36097v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The experiments use synthetic sequential-choice generators without human or animal data, and the central object is predictive-model ablation fidelity rather than an explicit model of human executive function.",
+            "date_fetched": "2026-09-30 09:17:51"
+        }
+    ]
+}
