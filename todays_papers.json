@@ -1,0 +1,13 @@
+{
+    "papers": [
+        {
+            "title": "C-LISTEN: Cognitive Load Impacts of Sensory-Triggered Environmental Navigation in Virtual Reality",
+            "link": "https://arxiv.org/abs/2609.38589v1",
+            "relevance_score": 4,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The human pilot study uses navigation performance, postural balance, and pupil diameter to assess cognitive load, but focuses on VR interface design rather than executive-function modelling or clinical classification.",
+            "date_fetched": "2026-10-01 09:45:11"
+        }
+    ]
+}
