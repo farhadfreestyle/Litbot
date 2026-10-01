@@ -8,6 +8,204 @@
             "filtered": false,
             "reason": "The human pilot study uses navigation performance, postural balance, and pupil diameter to assess cognitive load, but focuses on VR interface design rather than executive-function modelling or clinical classification.",
             "date_fetched": "2026-10-01 09:45:11"
+        },
+        {
+            "title": "Trajectories of Cognitive Functioning in Older Age Bipolar Disorder.",
+            "link": "https://www.semanticscholar.org/paper/0865b4755eab3762ac38a0275695b3a1fbbb0ee1",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study concerns longitudinal cognitive functioning in a clinical population but provides no stated focus on executive-function mechanisms or computational modelling.",
+            "date_fetched": "2026-10-01 17:10:54"
+        },
+        {
+            "title": "Association of Sarcopenia With Global, Motor, Cognitive, and Swallowing Function Prognosis in Stroke Patients: A Systematic Review and Meta-Analysis.",
+            "link": "https://www.semanticscholar.org/paper/e693a8feacd6e306ea2a7fc8a07cf0dcebba25f3",
+            "relevance_score": 1,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "This review addresses broad cognitive and functional prognosis after stroke without a specific executive-function or digital-assessment component.",
+            "date_fetched": "2026-10-01 17:10:54"
+        },
+        {
+            "title": "Digital tools for assessing attention and executive functions in adults: a systematic review of validity and accessibility.",
+            "link": "https://www.semanticscholar.org/paper/d48dbdea0e1ba1b4341fc0f4c5308502d5ee29b4",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The review directly evaluates digital methods for measuring adult attention and executive function, making it highly relevant to scalable cognitive assessment.",
+            "date_fetched": "2026-10-01 17:10:54"
+        },
+        {
+            "title": "Exercise slows biological aging in breast cancer survivors: secondary analysis of a randomized trial.",
+            "link": "https://www.semanticscholar.org/paper/c3ce4e1cb6c44915f168fb1be22a5d4bdaadf16b",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The stated contribution concerns exercise and biological aging rather than executive function, cognitive modelling, neuroscience, or digital cognitive assessment.",
+            "date_fetched": "2026-10-01 17:10:54"
+        },
+        {
+            "title": "Loss of a spouse and risk of cognitive decline: insights from six prospective cohort studies",
+            "link": "https://www.semanticscholar.org/paper/114f41b9f726a1e451e43bc49062a07872fa8f3e",
+            "relevance_score": 1,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper examines a psychosocial risk factor for general cognitive decline without an indicated focus on executive processes or computational assessment.",
+            "date_fetched": "2026-10-01 17:10:54"
+        },
+        {
+            "title": "White matter microstructural integrity in SeLECTS: a diffusion tensor imaging study of cognitive and behavioral correlates.",
+            "link": "https://www.semanticscholar.org/paper/fe2c5e801902a59876da0df983b43d6504d9158c",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study combines DTI, EEG, and executive-function assessments in children with epilepsy, although its tract\u2013behavior associations were exploratory and did not survive correction.",
+            "date_fetched": "2026-10-01 17:10:54"
+        },
+        {
+            "title": "Double-blind, randomized clinical trial targeting theta oscillations with transcranial alternating current stimulation (tACS) for cognitive control in male methamphetamine patients.",
+            "link": "https://www.semanticscholar.org/paper/f998ec3cde776d7c70784e3cbb396f7f7906d1de",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The trial directly tests the causal role of theta oscillations in cognitive control within a clinical population.",
+            "date_fetched": "2026-10-01 17:10:54"
+        },
+        {
+            "title": "Validation of a dual 2-back task as an effective method for inducing acute mental fatigue.",
+            "link": "https://www.semanticscholar.org/paper/f2eb00d328f23d8c9b92adae052f358f38c6c4ae",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study provides detailed behavioral and EEG findings on sustained visuospatial working-memory updating, including P300, frontal theta, and posterior alpha dynamics.",
+            "date_fetched": "2026-10-01 17:10:54"
+        },
+        {
+            "title": "Predictive modeling of a metabolism-linked cognitive neurodynamic system for Alzheimer\u2019s disease using a radial basis scaled conjugate gradient neural network and electroencephalography-based multi-entropy analysis",
+            "link": "https://www.semanticscholar.org/paper/e13ca8400ae4f5be5ba17edd017b7fdaaa9b5fc2",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper combines a disease-progression model with entropy-based EEG classification of Alzheimer\u2019s disease, MCI, and healthy groups, but does not specifically model executive function.",
+            "date_fetched": "2026-10-01 17:10:54"
+        },
+        {
+            "title": "Earlier Postural and Cognitive Milestones in Parkinson's Disease with Comorbid Myasthenia Gravis.",
+            "link": "https://www.semanticscholar.org/paper/dddf5410705200c1309467c0c8aafd7ec62c098d",
+            "relevance_score": 1,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The title indicates broad clinical cognitive outcomes in a specific comorbid group without a clear executive-function, modelling, or digital-biomarker contribution.",
+            "date_fetched": "2026-10-01 17:10:54"
+        },
+        {
+            "title": "Multimodal neuroimaging and electrophysiological signatures in amnestic mild cognitive impairment with different amyloid-\u03b2 deposition status: correlations with cognitive function and diagnostic value",
+            "link": "https://www.semanticscholar.org/paper/d792fb5b6766d15a6e219bbf9a7f31852a045bf9",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study integrates resting EEG, structural MRI, PET, and cognitive scores to classify amyloid status in aMCI, closely matching multimodal early-impairment assessment.",
+            "date_fetched": "2026-10-01 17:10:54"
+        },
+        {
+            "title": "Left dorsomedial prefrontal cortex hyperactivation reflects early compensation for emerging social cognition difficulties in multiple sclerosis",
+            "link": "https://www.semanticscholar.org/paper/c2b622bf95b21a91a866d689f5fa8a141270e22e",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The fMRI finding implicates a prefrontal executive hub in compensating for social-cognitive difficulty, but social cognition rather than executive function is the primary construct.",
+            "date_fetched": "2026-10-01 17:10:54"
+        },
+        {
+            "title": "Inhibition of miR-206 Ameliorates Seizures and Cognitive Deficits via BDNF/TrkB Signaling in Pilocarpine-Induced TLE Mice",
+            "link": "https://www.semanticscholar.org/paper/ac93444030599298b6c11ef61e1ad16878e32566",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The animal study identifies a molecular mechanism affecting spatial learning and memory in epilepsy, but it is not specifically directed at executive-function processes.",
+            "date_fetched": "2026-10-01 17:10:54"
+        },
+        {
+            "title": "Late-Onset Erotomanic Delusions, Cognitive Impairment, and Ventriculomegaly in an Older Adult Without Prior Psychiatric History: A Neuropsychiatric Case Report",
+            "link": "https://www.semanticscholar.org/paper/7e4fb135192021ea7aae0cfd450525c825495f17",
+            "relevance_score": 1,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "This single case documents general cognitive impairment and impaired judgment but offers no systematic executive-function model or assessment methodology.",
+            "date_fetched": "2026-10-01 17:10:54"
+        },
+        {
+            "title": "Apolipoprotein as a Prognosis Factor of Ischemic Stroke Patient in Academic Hospital-Yogyakarta",
+            "link": "https://www.semanticscholar.org/paper/447d8c949ebc72754a8b28df609100cb3b488455",
+            "relevance_score": 1,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study relates blood lipid markers to broad cognitive screening scores after stroke, with no significant executive-specific or digital-biomarker result.",
+            "date_fetched": "2026-10-01 17:10:54"
+        },
+        {
+            "title": "Controlled deep breathing technique intervention effects on resting EEG, subjective psychological distress, and executive function performance in young adults",
+            "link": "https://www.semanticscholar.org/paper/3364077fd48d2cc59193a53a6ba016ccb5a1bbc3",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The randomized study links a breathing intervention to frontoparietal EEG changes and improved executive-function performance, providing relevant cognitive-control findings.",
+            "date_fetched": "2026-10-01 17:10:54"
+        },
+        {
+            "title": "Analysis of the Mediating Role of Cytokines in the Relationship Between Nonalcoholic Fatty Liver Disease and Cognitive Impairment After Ischemic Stroke",
+            "link": "https://www.semanticscholar.org/paper/663182a2124c200024203be4e5a7dfb7dcbbf65e",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper identifies an inflammatory mediator of general post-stroke cognitive impairment but does not isolate executive function or propose a cognitive process model.",
+            "date_fetched": "2026-10-01 17:10:54"
+        },
+        {
+            "title": "Altered Inter\u2010Network Functional Integration Underlies Speech Impairment in Parkinson's Disease: A Resting\u2010State fMRI Analysis",
+            "link": "https://www.semanticscholar.org/paper/34c663c5e28726826b8466a1bb3a26f2f39aeff8",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study reports frontoparietal\u2013auditory connectivity associated with speech dysfunction and global cognition, but executive function is secondary to the speech focus.",
+            "date_fetched": "2026-10-01 17:10:54"
+        },
+        {
+            "title": "Diagnostic accuracy of remote self-administered digital cognitive assessment by clinical diagnosis and Alzheimer\u2019s disease PET imaging biomarkers",
+            "link": "https://www.semanticscholar.org/paper/cea7de50d5553c1d2d9e079c2819bc6a8cdd0c18",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The large prospective study validates a scalable remote digital assessment against MCI, dementia, and PET biomarker groups, although it targets global cognition rather than executive function specifically.",
+            "date_fetched": "2026-10-01 17:10:54"
+        },
+        {
+            "title": "Comparative efficacy of various non-pharmacological therapies on cognitive function in patients with mild cognitive impairment or dementia",
+            "link": "https://www.semanticscholar.org/paper/c0afc7cd89bffed06d4e69ba8deca6a1fdfaa90c",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "This network meta-analysis evaluates interventions using global cognitive scales rather than executive-function mechanisms or specialized assessment biomarkers.",
+            "date_fetched": "2026-10-01 17:10:54"
+        },
+        {
+            "title": "A previously unreported ELOVL4 frameshift variant in a patient with early severe cognitive decline, parkinsonism, and cerebellar ataxia",
+            "link": "https://www.semanticscholar.org/paper/5380d39ffce0d07ce3c21b93fa3b76a566db83ec",
+            "relevance_score": 1,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The report concerns a possible genetic cause of severe global cognitive decline in one patient without executive-specific measurement or modelling.",
+            "date_fetched": "2026-10-01 17:10:54"
+        },
+        {
+            "title": "Decomposing response inhibition: a POMDP model",
+            "link": "https://www.semanticscholar.org/paper/240996a976eeb46da3f79b4e4e9a182168f3b24a",
+            "relevance_score": 10,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The paper directly models human inhibitory control as a POMDP and uses amortized simulation-based inference to recover individual cognitive mechanisms linked to ADHD traits.",
+            "date_fetched": "2026-10-01 17:10:54"
         }
     ]
 }
