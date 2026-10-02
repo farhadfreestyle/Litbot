@@ -1,0 +1,76 @@
+{
+    "papers": [
+        {
+            "title": "Biopsychosocial Factors Facilitating or Compromising Momentary Cognitive Performance in Everyday Environments.",
+            "link": "https://www.semanticscholar.org/paper/6ac025900722ed0a39a56b9d4b7ee0aabfebe174",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper concerns everyday cognitive performance and its contextual determinants but does not clearly focus on executive-function modelling or digital biomarkers.",
+            "date_fetched": "2026-10-02 09:19:43"
+        },
+        {
+            "title": "Reliability, Validity, and Diagnostic Accuracy of the Persian Six-Item Cognitive Impairment Test (6-CIT) in Older Adult Outpatients.",
+            "link": "https://www.semanticscholar.org/paper/52d8c23414c071ce58d734dbb4a032b65cfd7b13",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "This validates a brief clinical cognitive-impairment screening instrument but has no clear emphasis on executive-function processes or multimodal digital assessment.",
+            "date_fetched": "2026-10-02 09:19:43"
+        },
+        {
+            "title": "Modeling decision dynamics disentangles working memory, cognitive control and reinforcement learning and reveals clinical differences.",
+            "link": "https://www.semanticscholar.org/paper/f9cb02104064737385c2018e2f6ce4f6f245f580",
+            "relevance_score": 10,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The core contribution computationally separates working memory, cognitive control, and reinforcement-learning mechanisms in decision dynamics while identifying clinical differences.",
+            "date_fetched": "2026-10-02 09:19:43"
+        },
+        {
+            "title": "Augmented reality-assisted Tai Chi for adults with diabetes-associated cognitive impairment: study protocol for a randomised controlled trial.",
+            "link": "https://www.semanticscholar.org/paper/b59c2e2bc44d611165eec991f0a85c22f33c67ce",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "This is a protocol for a cognitive rehabilitation intervention rather than a study of executive-function mechanisms, computational models, or diagnostic biomarkers.",
+            "date_fetched": "2026-10-02 09:19:43"
+        },
+        {
+            "title": "Shared EEG functional connectivity patterns between time reproduction and working memory.",
+            "link": "https://www.semanticscholar.org/paper/8c252a374f77cfee947172535503b7fa70447467",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper directly characterizes EEG functional-connectivity patterns associated with working memory and their overlap with temporal reproduction processes.",
+            "date_fetched": "2026-10-02 09:19:43"
+        },
+        {
+            "title": "Electroencephalography in Subjective Cognitive Decline and Mild Cognitive Impairment: Systematic Review of Biomarkers, Classification, and Prognostic Evidence.",
+            "link": "https://www.semanticscholar.org/paper/6c442f4153384d82a809378a094cf23bab093f3d",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "This review evaluates EEG biomarkers, classification methods, and prognostic evidence for subjective cognitive decline and mild cognitive impairment, closely supporting early-detection research.",
+            "date_fetched": "2026-10-02 09:19:43"
+        },
+        {
+            "title": "Redundant Perceptual Inputs Modulate Early Neural Activity Patterns in Visual Working Memory: Evidence from EEG Decoding.",
+            "link": "https://www.semanticscholar.org/paper/57d8e56a1c36c5a430ff12adfbe46a7be14f729a",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "EEG decoding directly reveals how redundant perceptual input alters early neural dynamics supporting visual working memory.",
+            "date_fetched": "2026-10-02 09:19:43"
+        },
+        {
+            "title": "Efficacy and Safety of Pioglitazone in Improving Cognitive Function Among Stroke Patients: A Prospective, Double-Blind, Randomized Controlled Trial.",
+            "link": "https://www.semanticscholar.org/paper/81a7000d4cd8f42457582c80489cdd174790c3a7",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The trial assesses a pharmacological treatment's effect on general post-stroke cognition without a clear focus on executive-function mechanisms or digital assessment.",
+            "date_fetched": "2026-10-02 09:19:43"
+        }
+    ]
+}
