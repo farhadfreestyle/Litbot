@@ -6958,6 +6958,96 @@
             "filtered": false,
             "reason": "The trial assesses a pharmacological treatment's effect on general post-stroke cognition without a clear focus on executive-function mechanisms or digital assessment.",
             "date_fetched": "2026-10-02 09:19:43"
+        },
+        {
+            "title": "An Exploratory Multimodal Analysis of Digital Handwriting and Spontaneous Speech Features to Distinguish Early Cognitive Impairment from Normal Aging",
+            "link": "https://www.semanticscholar.org/paper/139fe910a1972306f9e2d47bb88c0a579f3e8410",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study uses two behavioral digital modalities to distinguish early cognitive impairment from normal aging, making it a close match to multimodal digital biomarker development.",
+            "date_fetched": "2026-10-02 16:24:20"
+        },
+        {
+            "title": "Interaction Between COMT Genotype and MIND Diet, Cognitive Decline, and Incident Dementia: A Prospective Cohort Study",
+            "link": "https://www.semanticscholar.org/paper/fd3208ab25a38ab19d8ae258f1287819073c335b",
+            "relevance_score": 2,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The longitudinal findings concern general cognitive decline and dementia risk but do not specifically investigate executive-function mechanisms or computational assessment.",
+            "date_fetched": "2026-10-02 16:24:20"
+        },
+        {
+            "title": "Multicomponent training versus elastic-band training for improving global cognition and executive function in older women: a randomized controlled trial",
+            "link": "https://www.semanticscholar.org/paper/f532b06966533f7bc9aaa03e95ce52a3d4cff3c3",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This randomized trial directly measures executive function and visual attention with Trail Making tests, although its small sample and nonsignificant corrected findings limit its modelling value.",
+            "date_fetched": "2026-10-02 16:24:20"
+        },
+        {
+            "title": "Effects of multicomponent exercise for rehabilitation of stroke patients on muscle physiological changes, physical function, and cognitive function: A randomised controlled trial",
+            "link": "https://www.semanticscholar.org/paper/b2e1961ee414a0a034bde3ea2eca33c11cc33daf",
+            "relevance_score": 2,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study reports only a broad MoCA cognitive outcome within a predominantly physical stroke-rehabilitation trial, without executive-function-specific measures or modelling.",
+            "date_fetched": "2026-10-02 16:24:20"
+        },
+        {
+            "title": "Complement C4b and factor B in astrocyte-derived exosomes as novel biomarkers for amnestic mild cognitive impairment",
+            "link": "https://www.semanticscholar.org/paper/7d99aedf1ceffc8056c56444a125cfc763d8246a",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "This is an early-detection biomarker study for amnestic MCI, but it relies on molecular exosome markers rather than executive-function tasks or digital behavioral and neurophysiological measures.",
+            "date_fetched": "2026-10-02 16:24:20"
+        },
+        {
+            "title": "Effects of individualized phase-amplitude-coupled transcranial alternating current stimulation on tinnitus and cognition",
+            "link": "https://www.semanticscholar.org/paper/775128255b1141f34b0412467e5afeea91a81e05",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study combines EEG oscillatory analyses with behavioral measures of working memory, attention, and executive function, but its tinnitus focus, single-arm design, and null corrected coupling results make the evidence preliminary.",
+            "date_fetched": "2026-10-02 16:24:20"
+        },
+        {
+            "title": "Explainable Multimodal Deep Learning Framework for Longitudinal Prediction of Neurodegenerative Disease Progression with Clinical Validation",
+            "link": "https://www.semanticscholar.org/paper/75cec630ae659afa925f0b968205083270227ab8",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The framework predicts neurodegenerative disease progression from clinical multimodal data but does not specifically model executive function or use task, eye-tracking, or EEG-derived digital biomarkers.",
+            "date_fetched": "2026-10-02 16:24:20"
+        },
+        {
+            "title": "The Impact of Color and Visual Elements in Cosmetic Brochure Design on Impulse Buying Behavior: A Neuromarketing Perspective",
+            "link": "https://www.semanticscholar.org/paper/6e281608ee75af87641a622976c8ba553a6dd66a",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The EEG and eye-tracking results provide human attention and cognitive-control measurements, but the central objective is cosmetic marketing rather than executive-function modelling or clinical assessment.",
+            "date_fetched": "2026-10-02 16:24:20"
+        },
+        {
+            "title": "Do strategically demanding sports shape hand function alike? Distinct profiles of dexterity and grip strength in basketball and badminton athletes",
+            "link": "https://www.semanticscholar.org/paper/52941eac5cfd4088e811a0569b17025240ffd524",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study includes behavioral measures of inhibitory control and cognitive flexibility, but its main focus is sport-related hand function and it found no group differences on those executive outcomes.",
+            "date_fetched": "2026-10-02 16:24:20"
+        },
+        {
+            "title": "Assessment of chemotherapy-induced cognitive impairment in cancer patients",
+            "link": "https://www.semanticscholar.org/paper/6e4722bb715ec1e7cc715d638b8e0e24e81bfccb",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study assesses clinically relevant impairment encompassing attention, memory, and executive function, but uses a broad self-report questionnaire without domain-specific process measures or computational modelling.",
+            "date_fetched": "2026-10-02 16:24:20"
         }
     ]
 }
