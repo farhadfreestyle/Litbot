@@ -7048,6 +7048,132 @@
             "filtered": false,
             "reason": "The study assesses clinically relevant impairment encompassing attention, memory, and executive function, but uses a broad self-report questionnaire without domain-specific process measures or computational modelling.",
             "date_fetched": "2026-10-02 16:24:20"
+        },
+        {
+            "title": "Neurocognitive sequelae following seronegative anti-NMDA receptor encephalitis with ovarian teratoma in a pediatric patient: A six-year follow-up case report.",
+            "link": "https://www.semanticscholar.org/paper/42ceeda73e12e9fa1a9909d41e266681fba1b628",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Long-term neuropsychological testing documents executive-function, attention, processing-speed, and memory deficits after pediatric encephalitis, although the evidence is limited to one case.",
+            "date_fetched": "2026-10-03 08:50:46"
+        },
+        {
+            "title": "Early Catheter Ablation for Patients With Atrial Fibrillation and a Stroke History: A Target Trial Emulation Analysis.",
+            "link": "https://www.semanticscholar.org/paper/a51fb2147bf5b8769b94df45f69e90b9555b5db5",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The study concerns catheter-ablation outcomes in patients with atrial fibrillation and does not indicate any analysis of cognition or executive function.",
+            "date_fetched": "2026-10-03 08:50:46"
+        },
+        {
+            "title": "Beyond neurocentrism: situating cognition within the metabolic demands of the whole organism.",
+            "link": "https://www.semanticscholar.org/paper/b32391938e2810168b3603404edf00c2f823e9d8",
+            "relevance_score": 3,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Its organism-level metabolic account of cognition may provide broad biological context, but the title does not indicate specific findings or models of executive function.",
+            "date_fetched": "2026-10-03 08:50:46"
+        },
+        {
+            "title": "REM sleep EEG slowing signals basal forebrain integrity in older adults with subjective and mild cognitive impairment",
+            "link": "https://www.semanticscholar.org/paper/5a191ad5e947cd9a1087edfe3af91620340c1773",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper evaluates a sleep-EEG signal as a neural biomarker in subjective and mild cognitive impairment, directly supporting early cognitive-impairment assessment despite not targeting executive function specifically.",
+            "date_fetched": "2026-10-03 08:50:46"
+        },
+        {
+            "title": "Consensus-Defined Sarcopenic Obesity and a Related Dynapenic Obesity Phenotype in Relation to Early Cognitive Impairment.",
+            "link": "https://www.semanticscholar.org/paper/d91faaa2531d747541bdc83529b396252ca8b17c",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study relates physical phenotypes to early cognitive impairment but does not appear to model executive processes or develop a behavioural, eye-tracking, or EEG biomarker.",
+            "date_fetched": "2026-10-03 08:50:46"
+        },
+        {
+            "title": "Circulating phosphatidylserine as a plasma biomarker for clinical staging and prognostic prediction in Parkinson's disease: A diagnostic validation study.",
+            "link": "https://www.semanticscholar.org/paper/d6d488acd6459d4f6d085f74b990e079c4bf1efb",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "This is a plasma biomarker study for Parkinson's disease staging and prognosis with no stated connection to executive-function modelling or digital cognitive assessment.",
+            "date_fetched": "2026-10-03 08:50:46"
+        },
+        {
+            "title": "EndoPRS-SS: Summary-statistic based incorporation of endophenotypes to improve risk prediction.",
+            "link": "https://www.semanticscholar.org/paper/bcff52808f067c225cf219a464fa449ab56f2e5b",
+            "relevance_score": 4,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The genetic risk-prediction method uses executive-function scores as an endophenotype that improves Alzheimer's disease prediction, but executive cognition is not itself modelled.",
+            "date_fetched": "2026-10-03 08:50:46"
+        },
+        {
+            "title": "Obstructive sleep apnea severity associates with reduced phase-lag index functional connectivity during N2 sleep",
+            "link": "https://www.semanticscholar.org/paper/550b9ff9821c32026f3cb51b941a4ef89d1f2d5c",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The reported sleep connectivity association concerns obstructive sleep apnea without a stated cognitive, executive-function, or cognitive-classification outcome.",
+            "date_fetched": "2026-10-03 08:50:46"
+        },
+        {
+            "title": "Blunted Neural Error Monitoring Amplifies the Adverse Effect of Childhood Maltreatment on Depressive Symptoms: Time-Domain and Time-Frequency Analysis.",
+            "link": "https://www.semanticscholar.org/paper/3c90a2bb10c65109e1d235beaa854cfcfbfe9672",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Time-domain and time-frequency measures of neural error monitoring provide directly relevant evidence about a core cognitive-control process, though the primary application is depression following maltreatment.",
+            "date_fetched": "2026-10-03 08:50:46"
+        },
+        {
+            "title": "Optimizing frailty care: an analysis of dual exercise targets and cognitive function among frail older adults.",
+            "link": "https://www.semanticscholar.org/paper/097b42115c55136adbecd0c91e08931ef72f7cef",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study associates fitness and strength with brief MoCA-defined cognitive impairment but does not isolate executive function or develop a process model or digital biomarker.",
+            "date_fetched": "2026-10-03 08:50:46"
+        },
+        {
+            "title": "Electroencephalography in Subjective Cognitive Decline and Mild Cognitive Impairment: Systematic Review of Biomarkers, Classification, and Prognostic Evidence",
+            "link": "https://www.semanticscholar.org/paper/6c442f4153384d82a809378a094cf23bab093f3d",
+            "relevance_score": 9,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "This systematic review directly synthesizes EEG biomarkers, classification models, and prognostic evidence for subjective cognitive decline and MCI, closely matching early-detection methodology despite very low evidence certainty.",
+            "date_fetched": "2026-10-03 08:50:46"
+        },
+        {
+            "title": "Association of Sarcopenia With Global, Motor, Cognitive, and Swallowing Function Prognosis in Stroke Patients: A Systematic Review and Meta\u2010Analysis",
+            "link": "https://www.semanticscholar.org/paper/e693a8feacd6e306ea2a7fc8a07cf0dcebba25f3",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The meta-analysis includes global cognitive prognosis after stroke as one of several outcomes but provides no executive-function-specific modelling or cognitive biomarker methodology.",
+            "date_fetched": "2026-10-03 08:50:46"
+        },
+        {
+            "title": "Oxygen extraction fraction mapping between normal cognition and mild cognitive impairment in older adults using quantitative BOLD",
+            "link": "https://www.semanticscholar.org/paper/a815395bc346f6c545155a20cbe757948b340dca",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper applies Bayesian quantitative BOLD modelling to identify physiological differences in MCI, but its cognitive analysis emphasizes episodic memory rather than executive function.",
+            "date_fetched": "2026-10-03 08:50:46"
+        },
+        {
+            "title": "Factor Structure of the Neuropsychological Battery in the Mexican Cognitive Aging Ancillary Study (Mex-Cog)",
+            "link": "https://www.semanticscholar.org/paper/45dea25c8336eeeb201e60336de766ef097aeb38",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Confirmatory factor analysis validates executive functioning as one of five domains in a large aging-assessment battery, providing useful psychometric structure for cognitive assessment without modelling executive processes.",
+            "date_fetched": "2026-10-03 08:50:46"
         }
     ]
 }
