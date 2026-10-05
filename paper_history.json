@@ -7273,6 +7273,15 @@
             "filtered": false,
             "reason": "This is a useful validation of a brief MCI and dementia screening instrument, but it does not specifically assess executive-function mechanisms or use digital or multimodal biomarkers.",
             "date_fetched": "2026-10-04 09:18:56"
+        },
+        {
+            "title": "Hypothesis-guided discovery of cognitive algorithms via program refinement",
+            "link": "https://arxiv.org/abs/2610.02523v1",
+            "relevance_score": 10,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The paper develops and fits interpretable probabilistic-program models of human problem-solving algorithms, directly advancing computational modelling of executive cognition from behavioural data.",
+            "date_fetched": "2026-10-05 09:59:25"
         }
     ]
 }
