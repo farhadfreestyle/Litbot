@@ -386,6 +386,78 @@
             "filtered": false,
             "reason": "It introduces a primate rule-switching paradigm and fits reinforcement-learning models to trial-by-trial cognitive flexibility.",
             "date_fetched": "2026-10-09 07:12:05"
+        },
+        {
+            "title": "Physical Activity and Motor and Cognitive Progression in Parkinson Disease: A Longitudinal Cohort Study.",
+            "link": "https://www.semanticscholar.org/paper/fccdd75c9cbbd9c6ec35601b6c97cc18b2ecdce6",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "Longitudinal cognitive progression in Parkinson disease is clinically relevant but the title gives no indication of executive-function modelling, neural mechanisms, or digital cognitive assessment.",
+            "date_fetched": "2026-10-09 10:00:50"
+        },
+        {
+            "title": "Age-related differences in neural activity and functional connectivity during self- and other-referential processing: An EEG study.",
+            "link": "https://www.semanticscholar.org/paper/e2a45c0f6858e34b12c35fe0a9d9f36eedfeb7d6",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The EEG findings include age-related changes in attention-related P1 activity and directed connectivity, but the main task is self-referential processing rather than executive function.",
+            "date_fetched": "2026-10-09 10:00:50"
+        },
+        {
+            "title": "From emotional inhibition to memory suppression: Acute exercise modulates electrophysiological dynamics associated with inhibitory control during suppression of negative memories.",
+            "link": "https://www.semanticscholar.org/paper/d9d037745db1fe101fc640a5e6ede82a8875ff13",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper directly studies electrophysiological dynamics of inhibitory control and memory suppression, which are central executive-control processes.",
+            "date_fetched": "2026-10-09 10:00:50"
+        },
+        {
+            "title": "Evaluating the effect of spectacle correction for refractive errors and presbyopia on cognitive function in rural older adults in China: protocol for a randomised, parallel-group, superiority trial.",
+            "link": "https://www.semanticscholar.org/paper/d0d7928019d0edf95028d5c066d470fa0e31a80c",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "This is a protocol for a vision-correction trial using global cognitive outcomes, with no specific focus on executive function, modelling, or digital biomarkers.",
+            "date_fetched": "2026-10-09 10:00:50"
+        },
+        {
+            "title": "HINN prioritizes multi-omics biomarkers associated with cognitive decline.",
+            "link": "https://www.semanticscholar.org/paper/bff876b4294f8bc7823f6056d642f7d2188c39b6",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper predicts general cognitive assessment scores from multi-omics biomarkers, but it does not model human executive processes or use behavioural, eye-tracking, or EEG digital assessment.",
+            "date_fetched": "2026-10-09 10:00:50"
+        },
+        {
+            "title": "Impact of dementia and its progression on mortality in heart failure with preserved ejection fraction -insight from the KUNIUMI registry chronic cohort.",
+            "link": "https://www.semanticscholar.org/paper/4eaf929fa1cf60d8117f4d2381dc0d28b99a56c4",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The study concerns dementia progression as a mortality predictor in heart failure, not executive-function mechanisms, computational modelling, or cognitive assessment methodology.",
+            "date_fetched": "2026-10-09 10:00:50"
+        },
+        {
+            "title": "Baseline CSF and plasma glucocerebrosidase activity predict longitudinal cognitive decline in Parkinson's disease: A PPMI longitudinal cohort study.",
+            "link": "https://www.semanticscholar.org/paper/46ce252b0a86c36960a49fa846f99349c0f64147",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "This is a fluid-biomarker study of cognitive decline in Parkinson disease, relevant to clinical monitoring but not specifically to executive-function modelling or digital assessment.",
+            "date_fetched": "2026-10-09 10:00:50"
+        },
+        {
+            "title": "EXPRESS: Effects of Selenium Supplementation on Cognitive Function in Patients with Hyperthyroidism Caused by Graves' disease: A Randomized Prospective Study.",
+            "link": "https://www.semanticscholar.org/paper/21f07f5adbfc4ec83d4aa859013baabfb807236d",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper studies a supplementation effect on general cognitive function in Graves' disease without a clear link to executive-function mechanisms or computational assessment.",
+            "date_fetched": "2026-10-09 10:00:50"
         }
     ]
 }
