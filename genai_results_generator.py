@@ -4,8 +4,8 @@ import json
 import os
 
 load_dotenv()
-client = OpenAI()
-text_file = open("todays_fetched_papers.txt", "r").read()
+client = OpenAI(base_url="https://elm.edina.ac.uk/api/v1",)
+text_file = open("todays_fetched_papers.txt", "r", encoding="utf-8").read()
 
 
 input = f"""
@@ -67,7 +67,7 @@ Papers to evaluate:
 """
 
 response = client.responses.create(
-    model="gpt-5.6",
+    model="gpt-5.5",
     input=input
 )
 
