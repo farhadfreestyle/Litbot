@@ -7741,6 +7741,249 @@
             "filtered": false,
             "reason": "The paper studies a supplementation effect on general cognitive function in Graves' disease without a clear link to executive-function mechanisms or computational assessment.",
             "date_fetched": "2026-10-09 10:00:50"
+        },
+        {
+            "title": "Gut microbial signatures associated with cognitive performance in older adults from the long-lived Okinawan population",
+            "link": "https://www.semanticscholar.org/paper/fb98c389d251f026e6d6965e528c77ee864abb56",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper concerns cognitive performance in older adults but appears focused on gut microbiome associations rather than executive-function modelling, neural mechanisms, or digital assessment.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "Graded multisensory neurofeedback via the iNems system for comprehensive upper limb recovery after stroke: a multiple baseline study",
+            "link": "https://www.semanticscholar.org/paper/d0db4f720d351707f20be404c08bb5ec1d793481",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The study uses EEG-based neurofeedback after stroke but is primarily about motor and sensory rehabilitation rather than planning, working memory, attention, or cognitive impairment detection.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "Automated detection of Alzheimer's disease from EEG signals using VMD driven multi domain features and rich and poor optimization enhanced classification",
+            "link": "https://www.semanticscholar.org/paper/0d24e93eae338f271c138d5b15f623972c150f86",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper directly develops an EEG-based classification pipeline for distinguishing Alzheimer's disease, MCI, and controls, closely matching clinical cognitive impairment detection.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "Glycosides of Cistanche improve cognitive dysfunction in sleep-deprived model rats by activating the SIRT1/PGC-1\u03b1/Nrf2 signaling pathway",
+            "link": "https://www.semanticscholar.org/paper/05a75ffda0b3fad165142bc1573bd0193769a872",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The animal study reports hippocampal and behavioural mechanisms of sleep-deprivation-related cognitive dysfunction, but its focus is molecular neuroprotection rather than executive-function modelling.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "A-56: Patient Outcomes From Cognitive Screening in Primary Care Settings in Geriatric Populations: A Scoping Review",
+            "link": "https://www.semanticscholar.org/paper/fc469ad7917898cddd172d529d67cbdbee1db907",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The review addresses care pathways after geriatric cognitive screening but does not focus on executive function, computational models, or biomarker-based classification.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "A-66: The Risk of Anosognosia: Insight Deficits Predict and Moderate Dementia Conversion in Mild Cognitive Impairment",
+            "link": "https://www.semanticscholar.org/paper/e9d6f3da2d6e7b99e0c802c07faf6f1e2e944e71",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The study is relevant to clinical prediction of dementia conversion but centers on insight deficits and screening prognosis rather than executive-function modelling or digital biomarkers.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "A-107: Improving Early Detection of Mild Cognitive Impairment Using Cognitive, Sensory, and Blood-Based Markers",
+            "link": "https://www.semanticscholar.org/paper/e6c40f6711c479f264e5b7a3e2e8f31febaca45a",
+            "relevance_score": 4,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper combines cognitive, olfactory, and blood biomarkers to classify MCI, which is relevant to multimodal impairment detection but not specifically to executive function or digital behavioural markers.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "A-99: Examining the Relationship Between Subjective Cognitive Complaints and Functional Reasoning Abilities",
+            "link": "https://www.semanticscholar.org/paper/e103a468a78f4269c6d87bf10015f6c8b97ba727",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study examines behavioural relationships between subjective complaints, MoCA performance, and functional reasoning, giving modest relevance to executive-function assessment.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "A-60: Sleep Apnea and Accelerated Functional Decline in Older Adults",
+            "link": "https://www.semanticscholar.org/paper/df0406753d92a1657f877c0161cede6f2e086b1d",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper studies sleep apnea as a risk factor for cognitive and functional decline but does not specifically address executive mechanisms, modelling, or digital classification.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "B-164: The Hormonal Fog: A Systematic Review of Subjective-Objective Cognitive Discrepancies in Endocrine Therapy",
+            "link": "https://www.semanticscholar.org/paper/d39e8568644546ec0dc0c0975080b1156bdd83d6",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The review discusses attention, processing speed, and executive-function complaints in endocrine therapy, but its main contribution is clinical characterization rather than mechanistic modelling.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "PGR-2: Neuropsychological Sequelae of Febrile Infection-Related Epilepsy Syndrome (FIRES) with Comorbid ASD and ADHD: A Pediatric Case Study of Surgical Candidacy and Outcome",
+            "link": "https://www.semanticscholar.org/paper/cb37421cc93459be460f6a116a852d3998d14513",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The case study links frontal-subcortical and fronto-temporal dysfunction with attention and neuropsychological impairment, though it is mainly a presurgical epilepsy evaluation.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "B-62: Feasibility of Remote Cognitive Assessment in an Alzheimer\u2019s Disease Treatment Clinic: Clinical Implementation of Mayo Test Drive",
+            "link": "https://www.semanticscholar.org/paper/cb0bd399ea788e3449480ff0363eec336ded29bc",
+            "relevance_score": 5,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper evaluates implementation of a remote digital cognitive assessment in an Alzheimer's clinic, relevant to digital monitoring but not specifically focused on executive-function markers.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "A-37: Lost in Translation: The Impact of Language and Culture on Neuropsychological Test Interpretation in Bilingual Children",
+            "link": "https://www.semanticscholar.org/paper/c94a92f94735fc80e6adf748609e8b98ac683509",
+            "relevance_score": 3,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The review touches executive functioning and attentional disorder assessment in bilingual children, but its core focus is cultural and linguistic test interpretation.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "A-07: Foundational Digital Readiness for Brain Healthcare in a Community-Based Rural Aging Population",
+            "link": "https://www.semanticscholar.org/paper/c72a5415cc450172d30868a00f2b6efc7f3206b0",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The study concerns access and comfort with digital brain healthcare rather than cognitive-task data, executive function, or impairment classification.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "B-78: A Neuropsychological Profile Integrating Brain Imaging and Neuropsychological Data: Differentiating Epilepsy and Autism Spectrum Disorder",
+            "link": "https://www.semanticscholar.org/paper/be54241eb7255f61debf05b00358b8877cf92bf8",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The case integrates EEG and neuropsychological findings including executive function and working memory deficits, but the contribution is diagnostic clarification in epilepsy rather than general EF modelling.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "When Speech Reflects Memory: Delayed-Recall Speech Outperforms Picture Description for Predicting Verbal Memory",
+            "link": "https://www.semanticscholar.org/paper/bb1f7386081565f00e935c3d4e2990469405e0f9",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper uses task-derived digital speech features to predict verbal memory, making it relevant to behavioural digital biomarkers and task design for cognitive assessment.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "B-40: Adapted Cognitive Assessment of a 13-Year-Old Male With Cerebral Palsy Using Eye-Tracking Technology: A Case Report",
+            "link": "https://www.semanticscholar.org/paper/aaf7f1ed7c865b28c57998e928541db4fc3cc6bf",
+            "relevance_score": 5,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The case uses eye tracking to adapt standardized cognitive assessment in a clinical population, but it is mainly an accessibility case report rather than EF-specific classification.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "Combining Raw Score and Normative Score Cut-Offs for Remote Digital Cognitive Screening: Impact on Sensitivity and Specificity in Cognitively Unimpaired Participants and Participants With Mild Cognitive Impairment and Dementia",
+            "link": "https://www.semanticscholar.org/paper/86ada525083f332c7019f4f703f64483f2931b08",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper directly evaluates sensitivity and specificity of a remote digital cognitive screening battery for distinguishing cognitively unimpaired, MCI, and dementia groups.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "A-128: Resting-State Electroencephalography as a Predictor of Executive Function: Task-Dependent Effects of Neural Oscillations",
+            "link": "https://www.semanticscholar.org/paper/6f736c9c1080940a80b2b39f89c3381387905758",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study directly links resting-state EEG oscillations to executive-function performance on Go-NoGo and Stroop tasks, providing findings that could inform computational models of attention and control.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "A-179: Co-Development of a Pilot Pediatric Neuropsychological Assessment Protocol in Myotonic Dystrophy Type 1",
+            "link": "https://www.semanticscholar.org/paper/6f45d02d87669f97caac9cb42edfa7254b3cdd11",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The protocol combines neuropsychological testing with portable EEG and eye tracking to assess attention and socio-emotional processes in a clinical pediatric population.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "B-02: Objective Measures of Attention-Deficit/Hyperactivity Disorder (ADHD) Diagnosed Children's Executive Functions Do Not Correlate With Parent Ratings on the Behavior Rating Inventory of Executive Functions",
+            "link": "https://www.semanticscholar.org/paper/65b69b4b63284364010412a4498a851a72a28e7d",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study directly compares objective and informant-rated executive-function measures in children with ADHD, making it substantially relevant to behavioural assessment of EF.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "A-21: Telephone-Based Voice Agent Cognitive Screening in Older Adults: A Feasibility and Preliminary Validity Pilot Study",
+            "link": "https://www.semanticscholar.org/paper/462b5a986b591c39f1eabc6a09892f7f5aab52c7f5aab52c7f5aab52c7",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The pilot tests an automated telephone voice-agent cognitive screening method for older adults, relevant to accessible digital detection of cognitive impairment despite a very small sample.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "B-153: Neurocognitive and Emotional Profiles Across Pain Phenotypes: A Focused Literature Review",
+            "link": "https://www.semanticscholar.org/paper/41d9de92c805021c5ae214a85e47e488c7b8a2be",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The review discusses working memory and executive dysfunction across chronic pain phenotypes, but the primary focus is pain classification rather than executive-function mechanisms.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "B-66: Neuropsychological Testing Profiles of Rare Conditions: A Case of Hypothalamic Hamartoma, Gelastic Epilepsy, and Arnold Chiari Malformation",
+            "link": "https://www.semanticscholar.org/paper/36f47dd5c1fc44328b50260a2e1fe91d10360f0c",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The case reports attention, executive-function, memory, EEG, and neuroimaging findings in a rare neurological condition, but its relevance is limited by single-case clinical focus.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "A-197: Investigating Global Cognitive Functioning and Health-Related Anxiety in ESDR Pre-Transplant Cases: The Role of Resource Disparity",
+            "link": "https://www.semanticscholar.org/paper/1536ac28328e8f3ffc689b3be295b6232c9d88c2",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The study uses MoCA scores in a clinical transplant population but focuses on health anxiety and resource disparity rather than executive function or cognitive modelling.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "B-100: The Patients We Don\u2019t See: A Tiered Neurocognitive Screening Model for Inpatient Psychiatric Units",
+            "link": "https://www.semanticscholar.org/paper/0b7d3ccfeb0e7ada9561010cdccc578a16479cde",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The review concerns implementation of general neurocognitive screening in inpatient psychiatry without a specific focus on executive-function mechanisms or digital biomarkers.",
+            "date_fetched": "2026-10-09 17:14:12"
+        },
+        {
+            "title": "A-111: Fully Immersive Virtual Reality for Cognitive Assessment in Spanish-Speaking Adults",
+            "link": "https://www.semanticscholar.org/paper/003f0d46e06cbc0e62fd224a6c3e63eee5f39815",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The review covers VR-based assessment of attention, working memory, executive function, and MCI detection, making it relevant to digital cognitive assessment methods.",
+            "date_fetched": "2026-10-09 17:14:12"
         }
     ]
 }
