@@ -1,0 +1,130 @@
+{
+    "papers": [
+        {
+            "title": "Post-Exercise R-1,3-Butanediol did not Improve Markers of Fatigue or Recovery During a Multi-Stage Mountain Bike Race.",
+            "link": "https://www.semanticscholar.org/paper/69036d6ebf284f0a72a5a4a39ebeec02877f18f4",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper concerns physical exercise fatigue and recovery rather than human executive function, cognitive neuroscience, or cognitive assessment.",
+            "date_fetched": "2026-10-10 09:21:46"
+        },
+        {
+            "title": "The Effects of Cerebrovascular Reactivity on the Coupling Between CSF Dynamics and Global Neurovascular Fluctuations in the Alzheimer's Disease Continuum.",
+            "link": "https://www.semanticscholar.org/paper/86f90b9780b519b9d4ce8eef8670b172c55137aa",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper is relevant to Alzheimer's disease biomarker research but does not directly address executive function modelling, task-based assessment, or cognitive control mechanisms.",
+            "date_fetched": "2026-10-10 09:21:46"
+        },
+        {
+            "title": "Longitudinal Cognitive Function in Progressive Supranuclear Palsy-A Review of the Evidence for Progression.",
+            "link": "https://www.semanticscholar.org/paper/3b5205e0f27451da1ccedfff44f35b59762edae3",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper reviews cognitive decline in progressive supranuclear palsy, a disorder often involving frontal-executive deficits, but its connection to computational modelling is indirect.",
+            "date_fetched": "2026-10-10 09:21:46"
+        },
+        {
+            "title": "Association between eye-tracking measures and Griffiths-III developmental scores at 18 months in healthy term-born children.",
+            "link": "https://www.semanticscholar.org/paper/a0ca675184c900becd0a8d6888e7685b9733bca9",
+            "relevance_score": 5,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper uses eye-tracking measures as developmental assessment markers, but it is focused on early child development rather than executive-function modelling or impairment detection.",
+            "date_fetched": "2026-10-10 09:21:46"
+        },
+        {
+            "title": "Cognitive impairment after critical illness: A scoping review of recovery trajectories, assessment practices, and risk factors.",
+            "link": "https://www.semanticscholar.org/paper/856a3ac964ecae6381daa5810985be17d6053f2b",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper addresses general post-critical-illness cognitive impairment and assessment rather than executive function mechanisms or digital biomarker methods.",
+            "date_fetched": "2026-10-10 09:21:46"
+        },
+        {
+            "title": "Implementation of a Professional Version of the Multiple Errands Test in Vocational Rehabilitation: Can It Complement Traditional Cognitive Assessment After Traumatic Brain Injury and Predict Return to Work?",
+            "link": "https://www.semanticscholar.org/paper/5c82ff9c40e1b350fb869f433c42543019a6dc51",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper evaluates an ecologically valid executive-function task in traumatic brain injury and provides behavioural findings directly relevant to clinical assessment of planning and attention.",
+            "date_fetched": "2026-10-10 09:21:46"
+        },
+        {
+            "title": "Diabetic foot ulcers as markers of systemic disease burden: Associations with cognitive impairment in type 2 diabetes-A case-control cross-sectional study.",
+            "link": "https://www.semanticscholar.org/paper/548de37b8cf3ad09feed4895fa145cfa08b55723",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper studies associations between diabetes complications and general cognitive impairment without a specific focus on executive function, modelling, or digital assessment.",
+            "date_fetched": "2026-10-10 09:21:46"
+        },
+        {
+            "title": "Effects of qigong exercises on cognitive functioning in older adults with mild cognitive impairment: a systematic review and meta-analysis.",
+            "link": "https://www.semanticscholar.org/paper/4f661e420d8d0af1d3af499b36f4f280402d49cf",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper concerns an exercise intervention for general cognition in mild cognitive impairment rather than executive-function mechanisms or computational assessment.",
+            "date_fetched": "2026-10-10 09:21:46"
+        },
+        {
+            "title": "Remote Identification of APOE-\u03b54 Carrier Status in Cognitively Normal Adults via Speech Acoustics: Cross-Sectional Observational Study.",
+            "link": "https://www.semanticscholar.org/paper/4606d035732097efdc80cc8eba69ea5c16405888",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper develops remote speech-acoustic classifiers for preclinical Alzheimer's risk, making it a useful digital biomarker study despite not focusing on executive function.",
+            "date_fetched": "2026-10-10 09:21:46"
+        },
+        {
+            "title": "The Brain Before the Herd: Pre-Decision EEG Prediction of Herd-Consistent Investment Choices among Bilingual Investors.",
+            "link": "https://www.semanticscholar.org/paper/3f16b5a45252b88aebafe2078ed217e84648cab8",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper reports EEG and behavioural findings on pre-decision cognitive control, conflict monitoring, attentional updating, and decision making that could directly inform executive-function models.",
+            "date_fetched": "2026-10-10 09:21:46"
+        },
+        {
+            "title": "Refractory Status Epilepticus Following Erroneous Intrathecal Injection of Tranexamic Acid: A Case Report and Long\u2010Term Follow\u2010Up and Narrative Review",
+            "link": "https://www.semanticscholar.org/paper/14824528428dfca1aa19de17cc0b4c44f3aefdb4",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper is a neurological toxicity case report with long-term cognitive sequelae but no substantive focus on executive function, modelling, or cognitive biomarker assessment.",
+            "date_fetched": "2026-10-10 09:21:46"
+        },
+        {
+            "title": "A randomized pilot trial of non-flickering 40\u2005Hz light stimulation: EEG activity and cognitive outcomes in cognitively normal older adults.",
+            "link": "https://www.semanticscholar.org/paper/0417d68e39e95c6cbaa427eb9ffc8709436f4443",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper links EEG activity and cognitive outcomes in older adults, but it appears to target general cognitive modulation rather than executive-function-specific mechanisms.",
+            "date_fetched": "2026-10-10 09:21:46"
+        },
+        {
+            "title": "Effects of a Multicomponent Community-Based Intervention Program on Cognitive, Physical, and Psychosocial Outcomes in Older Adults With Mild Cognitive Impairment: An Experimental Study.",
+            "link": "https://www.semanticscholar.org/paper/38c25fedea2ece0aaf7efe65411a924937577c1e",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper studies broad intervention effects in mild cognitive impairment without a clear emphasis on executive-function modelling or digital biomarker assessment.",
+            "date_fetched": "2026-10-10 09:21:46"
+        },
+        {
+            "title": "Evaluating the effect of spectacle correction for refractive errors and presbyopia on cognitive function in rural older adults in China: protocol for a randomised, parallel-group, superiority trial",
+            "link": "https://www.semanticscholar.org/paper/d0d7928019d0edf95028d5c066d470fa0e31a80c",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper is a trial protocol on vision correction and global cognition rather than executive function, computational modelling, or task-based cognitive impairment detection.",
+            "date_fetched": "2026-10-10 09:21:46"
+        }
+    ]
+}
