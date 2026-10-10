@@ -8110,6 +8110,24 @@
             "filtered": false,
             "reason": "The paper is a trial protocol on vision correction and global cognition rather than executive function, computational modelling, or task-based cognitive impairment detection.",
             "date_fetched": "2026-10-10 09:21:46"
+        },
+        {
+            "title": "Immediate anxiety-reducing effects of multisensory virtual reality reminiscence therapy in older adults with a wide range of cognitive functions: a pilot study using electrophysiological measures",
+            "link": "https://www.semanticscholar.org/paper/246cfd151b5e404c5cb5ca1c791c8f1b9d2c78bd",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "This studies EEG markers of anxiety response to VR reminiscence therapy in older adults with cognitive impairment, but it is not focused on executive function modelling or cognitive assessment.",
+            "date_fetched": "2026-10-10 15:58:55"
+        },
+        {
+            "title": "Biopsychosocial Factors Facilitating or Compromising Momentary Cognitive Performance in Everyday Environments",
+            "link": "https://www.semanticscholar.org/paper/6ac025900722ed0a39a56b9d4b7ee0aabfebe174",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This reports human behavioural findings from smartphone-based tests of working memory and executive functioning in everyday contexts, with clear relevance to assessment and cognitive performance modelling.",
+            "date_fetched": "2026-10-10 15:58:55"
         }
     ]
 }
