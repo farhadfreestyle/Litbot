@@ -7669,6 +7669,1536 @@
             "filtered": false,
             "reason": "It introduces a primate rule-switching paradigm and fits reinforcement-learning models to trial-by-trial cognitive flexibility.",
             "date_fetched": "2026-10-09 07:12:05"
+        },
+        {
+            "title": "Calibrating LLM Explanations to Human Decisions with Reinforcement Learning",
+            "link": "https://arxiv.org/abs/2610.17306v1",
+            "relevance_score": 7,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Models and optimizes AI explanations around observed human decision quality, including a calibrated human decision simulator and human experiment.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Belief-Based Maximum Occupancy Principle and Active Inference",
+            "link": "https://arxiv.org/abs/2609.39342v1",
+            "relevance_score": 7,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Develops belief-state active inference and intrinsic motivation models relevant to computational accounts of adaptive planning under uncertainty.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Evolution of fairness in multi-objective reinforcement learning framework",
+            "link": "https://arxiv.org/abs/2609.34114v1",
+            "relevance_score": 6,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Uses reinforcement learning to model fairness-related human social decision-making, though executive function is not the central construct.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Eliciting ESG Preferences for Reinforcement Learning-Based Portfolio Optimization",
+            "link": "https://arxiv.org/abs/2609.02677v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The paper concerns portfolio optimization with LLM-simulated personas rather than human or animal cognition.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Emotional Preferences as Goal-Priority Regulation",
+            "link": "https://arxiv.org/abs/2608.27072v1",
+            "relevance_score": 6,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Proposes a reinforcement-learning process model of emotion-like priority regulation over goals, with plausible relevance to human decision modelling.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Adaptive Multi-Horizon Reinforcement Learning",
+            "link": "https://arxiv.org/abs/2607.20656v3",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "This is a reinforcement learning method for artificial agents in simulated environments without explicit modelling of human or animal cognition.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Circuit Claims Depend on What Is Extracted and How It Is Compared",
+            "link": "https://arxiv.org/abs/2607.18921v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The paper analyzes circuits inside transformer models, not human or animal cognition.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference",
+            "link": "https://arxiv.org/abs/2607.08724v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The term memory refers to an artificial policy's latent reasoning mechanism rather than biological working memory.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Noisy memory encoding explains negative polarity illusions",
+            "link": "https://arxiv.org/abs/2606.04340v1",
+            "relevance_score": 8,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Provides a resource-rational noisy-memory account of human language processing supported by behavioral acceptability judgments.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Neural Bayesian Sequential Routing",
+            "link": "https://arxiv.org/abs/2605.26147v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The work develops an interpretable neural network routing framework for AI systems rather than modelling biological cognition.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Neuro-Inspired Inverse Learning for Planning and Control",
+            "link": "https://arxiv.org/abs/2605.24152v2",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The paper is about embodied AI and robotics control without human or animal cognitive data or explicit cognitive modelling.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Understanding Goal Generalisation in Sequential Reinforcement Learning",
+            "link": "https://arxiv.org/abs/2605.23565v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The study analyzes out-of-distribution behavior of artificial reinforcement learning agents rather than biological cognition.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Quantifying Potential Observation Missingness in Inverse Reinforcement Learning",
+            "link": "https://arxiv.org/abs/2605.12831v1",
+            "relevance_score": 4,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The IRL framework addresses inference from behavioral datasets and expert actions, but executive function modelling is only indirect.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "A Cognitively Grounded Bayesian Framework for Misinformation Susceptibility",
+            "link": "https://arxiv.org/abs/2605.09483v1",
+            "relevance_score": 8,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Introduces a Bayesian cognitive model incorporating bounded rationality, working memory limits, compression, and sampling for human misinformation susceptibility.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Bias by Necessity: Impossibility Theorems for Sequential Processing with Convergent AI and Human Validation",
+            "link": "https://arxiv.org/abs/2605.08716v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The paper centrally evaluates and theorizes cognitive biases in autoregressive language models, which triggers the AI cognitive-ability filter.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Extracting Search Trees from LLM Reasoning Traces Reveals Myopic Planning",
+            "link": "https://arxiv.org/abs/2605.06840v5",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The core contribution is evaluating planning behavior in LLM reasoning traces rather than modelling human planning.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "CoAX: Cognitive-Oriented Attribution eXplanation User Model of Human Understanding of AI Explanations",
+            "link": "https://arxiv.org/abs/2604.27354v1",
+            "relevance_score": 8,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Builds cognitive process models of human reasoning strategies when interpreting AI explanations and fits them to human decisions.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Behavior-Constrained Reinforcement Learning with Receding-Horizon Credit Assignment for High-Performance Control",
+            "link": "https://arxiv.org/abs/2604.03023v1",
+            "relevance_score": 4,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Uses human expert driving behavior to constrain RL policies, but the focus is control performance rather than executive function mechanisms.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Modeling the Disjunction Effect within Classical Probability: A New Decision Process Model and Comparison with Quantum-like Models",
+            "link": "https://arxiv.org/abs/2603.23233v1",
+            "relevance_score": 7,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Develops a formal decision-process model for a classic human decision-making phenomenon under ambiguity.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Are they human? Detecting large language models by probing human memory constraints",
+            "link": "https://arxiv.org/abs/2604.00016v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The paper uses human working-memory constraints primarily to detect and evaluate LLM-like agents, triggering the AI evaluation filter.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "A Saccade-inspired Approach to Image Classification using Vision Transformer Attention Maps",
+            "link": "https://arxiv.org/abs/2603.09613v2",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The paper is an image classification method using transformer attention maps rather than a study of human or animal attention.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "ImageEdit-R1: Boosting Multi-Agent Image Editing via Reinforcement Learning",
+            "link": "https://arxiv.org/abs/2603.08059v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The paper concerns reinforcement learning for generative image editing systems, which is explicitly excluded.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Boosting deep Reinforcement Learning using pretraining with Logical Options",
+            "link": "https://arxiv.org/abs/2603.06565v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "This is a deep reinforcement learning method for artificial agents without grounding in biological cognition.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "2-Step Agent: A Framework for the Interaction of a Decision Maker with AI Decision Support",
+            "link": "https://arxiv.org/abs/2602.21889v3",
+            "relevance_score": 7,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Provides a Bayesian computational framework for how human decision makers update beliefs and act using AI decision support.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Towards Learning-Based Formula 1 Race Strategies",
+            "link": "https://arxiv.org/abs/2512.21570v1",
+            "relevance_score": 2,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "It supports human decision-making in race strategy but does not model human executive function or cognition in detail.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Active Sensing Shapes Real-World Decision-Making through Dynamic Evidence Accumulation",
+            "link": "https://arxiv.org/abs/2601.04214v1",
+            "relevance_score": 10,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Directly models human active sensing, eye movements, and evidence accumulation in real-world driving decisions.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Guiding the Inner Eye: A Framework for Hierarchical and Flexible Visual Grounded Reasoning",
+            "link": "https://arxiv.org/abs/2511.22172v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The paper trains multimodal AI models for visual reasoning rather than studying human or animal cognition.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Normative active inference: A numerical proof of principle for a computational and economic legal analytic approach to AI governance",
+            "link": "https://arxiv.org/abs/2511.19334v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The active inference model is aimed at regulating artificial agents for AI governance rather than modelling biological cognition.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Morality in AI. A plea to embed morality in LLM architectures and frameworks",
+            "link": "https://arxiv.org/abs/2511.20689v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The paper is about embedding morality in LLM architectures, not human executive function or cognitive assessment.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Online Dynamic Goal Recognition in Gym Environments",
+            "link": "https://arxiv.org/abs/2509.23244v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The contribution is benchmarking goal-recognition algorithms in Gym environments with no biological cognition grounding.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "From Pheromones to Policies: Reinforcement Learning for Engineered Biological Swarms",
+            "link": "https://arxiv.org/abs/2509.20095v1",
+            "relevance_score": 5,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Models animal swarm behavior with reinforcement-learning analogies, but its link to executive function is distant.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Mutual Information Tracks Policy Coherence in Reinforcement Learning",
+            "link": "https://arxiv.org/abs/2509.10423v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The paper analyzes artificial reinforcement learning agents and robotic faults without biological cognition.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Playstyle and Artificial Intelligence: An Initial Blueprint Through the Lens of Video Games",
+            "link": "https://arxiv.org/abs/2508.19152v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The dissertation centers on playstyle in artificial agents and AGI rather than empirical or explicit computational modelling of human cognition.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Mind & Motion: Opportunities and Applications of Integrating Biomechanics and Cognitive Models in HCI",
+            "link": "https://arxiv.org/abs/2508.13788v1",
+            "relevance_score": 6,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Discusses integrating cognitive models of attention, preferences, and decision-making into simulations of human interaction behavior.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "BigCharts-R1: Enhanced Chart Reasoning with Visual Reinforcement Finetuning",
+            "link": "https://arxiv.org/abs/2508.09804v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The paper improves vision-language model chart reasoning and does not study human cognition.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Convergent Q-Learning for Infinite-Horizon General-Sum Markov Games through Behavioral Economics",
+            "link": "https://arxiv.org/abs/2508.08669v1",
+            "relevance_score": 7,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Formalizes risk aversion and bounded rationality in Markov games, providing a computational model relevant to human strategic decision-making.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Bridging Search and Recommendation through Latent Cross Reasoning",
+            "link": "https://arxiv.org/abs/2508.04152v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The paper is a recommendation-system method inspired by human decision-making but not grounded in biological cognition.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "An Appraisal-Based Approach to Human-Centred Explanations",
+            "link": "https://arxiv.org/abs/2508.01388v1",
+            "relevance_score": 5,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Proposes cognitively inspired explanation dimensions, but the work is mainly an XAI framework rather than a validated cognitive model.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "PRE-MAP: Personalized Reinforced Eye-tracking Multimodal LLM for High-Resolution Multi-Attribute Point Prediction",
+            "link": "https://arxiv.org/abs/2507.19213v1",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Introduces a large eye-tracking dataset and personalized attention prediction model based on human gaze behavior across thousands of participants.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Mobile Manipulation with Active Inference for Long-Horizon Rearrangement Tasks",
+            "link": "https://arxiv.org/abs/2507.17338v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The active inference architecture is evaluated for robotic manipulation without modelling human or animal cognition.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Illuminating the Three Dogmas of Reinforcement Learning under Evolutionary Light",
+            "link": "https://arxiv.org/abs/2507.11482v5",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The paper is a theoretical critique of artificial reinforcement learning and agency without a human or animal study population.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Cognitive models can reveal interpretable value trade-offs in language models",
+            "link": "https://arxiv.org/abs/2506.20666v4",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The core contribution uses cognitive models to evaluate value trade-offs in language models, triggering the AI evaluation filter.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "AGI Enabled Solutions For IoX Layers Bottlenecks In Cyber-Physical-Social-Thinking Space",
+            "link": "https://arxiv.org/abs/2506.22487v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The survey is about AGI-enhanced IoX systems rather than human or animal executive function.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Multi-Task Reward Learning from Human Ratings",
+            "link": "https://arxiv.org/abs/2506.09183v2",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The experiments use synthetic ratings to train artificial reinforcement learning methods rather than modelling observed human cognition.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Slow Feature Analysis on Markov Chains from Goal-Directed Behavior",
+            "link": "https://arxiv.org/abs/2506.01145v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The work studies representation learning in abstract Markov chains without human or animal cognitive grounding.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Bounded Rationality for LLMs: Satisficing Alignment at Inference-Time",
+            "link": "https://arxiv.org/abs/2505.23729v2",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The paper applies bounded rationality concepts to align LLM inference rather than modelling human cognition.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Flexible Tool Selection through Low-dimensional Attribute Alignment of Vision and Language",
+            "link": "https://arxiv.org/abs/2505.22146v4",
+            "relevance_score": 7,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Builds an interpretable model of human-like tool cognition and validates alignment with human tool-selection judgments.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "RLAP: A Reinforcement Learning Enhanced Adaptive Planning Framework for Multi-step NLP Task Solving",
+            "link": "https://arxiv.org/abs/2505.11893v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The paper improves LLM planning for NLP tasks, not human planning or executive function.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Synthesizing Images on Perceptual Boundaries of ANNs for Uncovering and Manipulating Human Perceptual Variability",
+            "link": "https://arxiv.org/abs/2505.03641v1",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Combines ANN boundary sampling with large-scale human behavioral experiments to model and manipulate individual perceptual decisions.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Modeling individual differences in working memory: Subject-level parameter recovery within the Memory Measurement Model framework (M3)",
+            "link": "https://www.semanticscholar.org/paper/0b6b9f815dae00167560c35ca6f0052e78291028",
+            "relevance_score": 9,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The title directly indicates computational modelling of individual differences in working memory parameters.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "An interpretable and lightweight framework for time-resolved trajectory segmentation in 2D open space",
+            "link": "https://www.semanticscholar.org/paper/989a4f6c49bfc73d76f00120a1ea48913a2f1f60",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Provides an interpretable animal navigation-behavior segmentation framework relevant to modelling memory and goal-directed behavior.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Motivational incentives improve working memory performance by enhancing memory-based representations rather than altering response strategies",
+            "link": "https://www.semanticscholar.org/paper/a74b0a57a033cafa1d88aa3c1ea426a63d73bd13",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Reports human behavioral and computational-modelling evidence about how incentives alter working-memory precision.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Cognitive flexibility, technostress, and mathematics teachers' acceptance of ChatGPT: a cross-sectional indirect-effect analysis",
+            "link": "https://www.semanticscholar.org/paper/296902b50ea3d0da0740ed274b5fa803e62f82b9",
+            "relevance_score": 3,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Measures cognitive flexibility in humans, but the main outcome is ChatGPT acceptance rather than executive function mechanisms.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Successor representation supports structural learning of syllable sequences",
+            "link": "https://www.semanticscholar.org/paper/759612b7ab497e049293516d7b7f4b294f5647d8",
+            "relevance_score": 9,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Tests a reinforcement-learning successor representation model of human sequential memory and links it to working memory capacity.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Adolescent development of decision making processes in n-back task performance and links to pubertal timing and tempo.",
+            "link": "https://www.semanticscholar.org/paper/c08ee5d914bb7e2802312548af6aac902a4474e2",
+            "relevance_score": 9,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Applies drift diffusion modelling to longitudinal human n-back data to characterize development of working-memory decision processes.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Working Memory and Externalizing Behaviors in a Clinical Pediatric Sample: The Role of Expressive Language, Anxiety, and Ethnic Background",
+            "link": "https://www.semanticscholar.org/paper/be9fcd749a9f200be47a1dcb3782ec76c43c3f2e",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Examines working memory in a clinical pediatric sample, but the focus is mediation with behavior and language rather than cognitive modelling.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Inferring the evolving objectives that organize animal behavior",
+            "link": "https://www.semanticscholar.org/paper/9c4d6ba0de149862a9f305b16c65af1d362e19bc",
+            "relevance_score": 9,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Develops inverse reinforcement learning to infer changing internal rewards and policies from naturalistic animal behavior.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Utilizing machine unlearning for faulty behavior patterns in human decision-making model: A sharded reinforcement learning approach",
+            "link": "https://www.semanticscholar.org/paper/703e9fd938070084b21d4cf864ed54fe402494dd",
+            "relevance_score": 5,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The title suggests reinforcement-learning modelling of human decision-making patterns, but the missing summary prevents judging centrality.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Shipwrecking Probability in Mediterranean Territorial Waters",
+            "link": "https://www.semanticscholar.org/paper/52b06428f1c7a3a59a1c0dd392bbb126bd18da13",
+            "relevance_score": 1,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Includes computational modelling of historical risk perception and decision-making, but it is far from executive function or cognitive assessment.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "FoM: Field-of-View-Aware Graph Neural Learning for Min\u2013Max Multi-Robot Patrol Path Planning",
+            "link": "https://www.semanticscholar.org/paper/4a492e65f928c8685a718737ab9db84c4d18e75c",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The paper is a multi-robot path-planning method without human or animal cognition.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "The Mediating Role of Perceived Romantic Relationship Quality, Self-Contraction, and Cognitive Flexibility in the Relationship Between Cyberstalking and Attitudes Toward Control and Abuse",
+            "link": "https://www.semanticscholar.org/paper/2a5729a28407eab1f319b043eff2585d43643321",
+            "relevance_score": 3,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Assesses cognitive flexibility in a human psychosocial study, but executive-function modelling is tangential.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Causal evidence for the role of dorsolateral prefrontal cortex in the implementation of cognitive control adjustments",
+            "link": "https://www.semanticscholar.org/paper/1c052109ad94ec3313b1853410bc2a4cf6af2605",
+            "relevance_score": 10,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Combines TMS and computational modelling to test the causal role of DLPFC in trial-to-trial cognitive control adaptation.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "\u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u043c\u043e\u0441\u0442\u0438 \u0441\u0432\u0435\u0440\u0442\u043e\u0447\u043d\u044b\u0445 \u0438 \u0440\u0435\u043a\u0443\u0440\u0440\u0435\u043d\u0442\u043d\u044b\u0445 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0445 \u0441\u0435\u0442\u0435\u0439 \u0434\u043b\u044f \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0441\u043f\u0443\u0442\u043d\u0438\u043a\u043e\u0432\u044b\u043c \u043a\u0430\u043d\u0430\u043b\u043e\u043c \u0441\u0432\u044f\u0437\u0438 \u0432 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445 \u0440\u0430\u0434\u0438\u043e\u043f\u043e\u043c\u0435\u0445",
+            "link": "https://www.semanticscholar.org/paper/13606366680240e2eb308c7f8dca7759aa9bd5fb",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The paper uses cognitive-control terminology for satellite communication control systems, not human or animal cognition.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Environmental stochasticity reduces human planning effort",
+            "link": "https://www.semanticscholar.org/paper/922d3938807816f3521f982f7d9afb6ab2fb3345",
+            "relevance_score": 10,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Directly studies human planning under stochasticity with computational cognitive models of effort, value sensitivity, and policy compression.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "A two-phase diffusion process account of cross-location conflict processing during mental imagery",
+            "link": "https://www.semanticscholar.org/paper/58d7c8b470f78d17aa27c0a2ca95f7e0e5ba498b",
+            "relevance_score": 9,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Uses hierarchical Bayesian drift-diffusion modelling to explain human imagery conflict processing and cognitive control.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Behavioural Biases, Risk Perception and Financial Literacy in Mutual Fund Investment Decisions: A Theoretical Review",
+            "link": "https://www.semanticscholar.org/paper/287113ae5c5c7eccc25e0cd65778e1090521e2c2",
+            "relevance_score": 4,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Reviews human decision biases and risk perception, but the financial focus is peripheral to executive-function modelling.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "The indirect role of working memory in the association between perspective-taking skills and social problem-solving skills in preschool children: an age-sensitive moderated mediation in a Turkish sample",
+            "link": "https://www.semanticscholar.org/paper/e10c56f23a81ad10852eb2615d3dd4465e0af699",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Studies working memory as a mediator of social problem solving in children, but it is correlational and not computationally mechanistic.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Reliability of computational versus noncomputational metrics of working memory and episodic memory in serious mental illness",
+            "link": "https://www.semanticscholar.org/paper/73865d1a10279c3b024f33f2b58007b0a48d5405",
+            "relevance_score": 9,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Evaluates computational memory parameters as reliable cognitive assessment metrics in psychiatric and control groups.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Repetitive negative thinking is associated with conflict-related neural activity that modulates evidence accumulation",
+            "link": "https://www.semanticscholar.org/paper/c02837f7e1081eb65b41c6995056670a90dd1fec",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Combines EEG and hierarchical drift diffusion modelling to link cognitive control, conflict processing, and evidence accumulation.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "How psychological trauma shapes human decision-making: a systematic literature review of cognitive, emotional, and behavioral mechanisms",
+            "link": "https://www.semanticscholar.org/paper/318515cea896f11945593c7531f690baa66965c6",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Synthesizes evidence on trauma effects on reinforcement learning, belief updating, flexibility, and decision-making mechanisms.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "A predictive coding framework for safe and versatile control of supernumerary robotic limbs",
+            "link": "https://www.semanticscholar.org/paper/70ea9e64441967ebb034cd2c3275ea7368aaeba5",
+            "relevance_score": 5,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Uses predictive coding for human-robot intent inference and action planning, but evidence is primarily simulation-oriented.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "MIRAGE: Multi-Perspective Creative Language Model Reasoning with Reinforcement Learning Guidance",
+            "link": "https://www.semanticscholar.org/paper/8a6f5d4eb7ad9d4648464ec07999baacd2d884a1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The paper is about improving LLM reasoning through inference-time methods, not modelling human cognition.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Functional neurological disorder, suggestion and virtual reality: neuroanatomical and computational perspectives",
+            "link": "https://www.semanticscholar.org/paper/6120bc81342dc4a24b937b8dcfd71e7c4c84dd9e",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Reviews predictive coding, attention, top-down feedback, and hierarchical mechanisms relevant to modelling functional symptoms and suggestion.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Intrinsic Motivation in Reinforcement Learning: A Research Agenda for Adaptive Self-Organisation",
+            "link": "https://www.semanticscholar.org/paper/c11fa1ce755298919d7575139dcaee7bda5892c9",
+            "relevance_score": 3,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Discusses intrinsic motivation and adaptive self-organisation with biological inspiration, but the link to executive function is broad and indirect.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "An endocannabinoid-nitric oxide signaling switch triggers reciprocal inhibitory-excitatory plasticity at dopamine neuron inputs following prenatal cannabinoid exposure",
+            "link": "https://www.semanticscholar.org/paper/708a3b6fa7ea7c0886d6ac9c1c60da92b66dc48c",
+            "relevance_score": 3,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Likely reports animal neural plasticity findings involving dopamine systems, but no executive-function relevance is evident from the title alone.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "From Suppressed Desire to Impulsive Action: Cognitive Self-Regulation, Inhibitory Control, and Impulse Buying in Digital Consumer Environments",
+            "link": "https://www.semanticscholar.org/paper/016dd97285df4b35c546dee7d43d6a5fcccfcd53",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Reviews inhibitory control, cognitive flexibility, and self-regulation in impulse buying, but without a central computational model.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Historical development of ADHD from 1753 to 2026",
+            "link": "https://www.semanticscholar.org/paper/812bcdf7457736aac0296337bf28757134c2ce1b",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Reviews ADHD as an executive-function disorder with neuroimaging, genetics, behavioral neuroscience, and computational models.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Dynamics and geometry of emotion and cognition: an interpretable model of individual human behavior",
+            "link": "https://www.semanticscholar.org/paper/52137ae312aea65a66e83f1cfafc04e386e213d3",
+            "relevance_score": 7,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Fits subject-specific generative models to task-switching response-time dynamics to derive interpretable individual cognitive measures.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Fairness decision-making in younger and older adults and associated neural indices.",
+            "link": "https://www.semanticscholar.org/paper/748e2ac217c8987948d5fb3d716607c0595bdb91",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Combines computational modelling, structural MRI, theory of mind, and executive-function measures in human fairness decisions across age.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Hippocampo-septal inhibitory feedback controls the medial septal circuit as a function of brain state, pyramidal cell activity and movement speed",
+            "link": "https://www.semanticscholar.org/paper/7291dadcbad6207752bb0a2dc03cbf8c15587b81",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The title suggests animal circuit findings relevant to brain state and movement, but executive-function relevance is indirect.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "The relationship between parenting stress and preschool children\u2019s screen dependence: the chain mediating role of parent\u2013child interaction quality and executive function",
+            "link": "https://www.semanticscholar.org/paper/8861f843b3643b1e2e290b824f7a1b85a7c94db9",
+            "relevance_score": 3,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Includes executive function in a developmental mediation model, but the main topic is screen dependence and parenting stress.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Neurodevelopmental reward dysregulation and addiction risk in ADHD.",
+            "link": "https://www.semanticscholar.org/paper/2e17d9b1394d20f06c67da83baf5c00d2301637b",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Reviews ADHD, reward learning, inhibitory control, delayed reward valuation, and computational/digital phenotyping mechanisms.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Circadian misalignment in healthy young adults influences the variability of inhibitory performance modeled by the horse race model.",
+            "link": "https://www.semanticscholar.org/paper/c5777f517e895b9fd6dcde9e20e93c85996319a0",
+            "relevance_score": 8,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Uses horse-race modelling of stop-signal performance to quantify inhibitory-control effects of circadian misalignment.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Sensory plasticity of dorsal horn silent neurons as a critical mechanism for neuropathic pain",
+            "link": "https://www.semanticscholar.org/paper/9c2f2646ab494ed747e80b9bd33ff3f8208cac25",
+            "relevance_score": 2,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Reports animal sensory-circuit modelling relevant to pain, but not to executive function, planning, attention, or assessment.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Oscillatory Traveling Waves During Visual Entrainment in Autistic and Non-Autistic Adults.",
+            "link": "https://www.semanticscholar.org/paper/885e8bbfcab63473bd1b028f9a8af130a0ac811a",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Uses EEG traveling waves to test predictive-coding accounts of sensory and top-down processing in autistic and non-autistic adults.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Caper: Context-Aware Persuasion by Modeling Cognition and Action",
+            "link": "https://www.semanticscholar.org/paper/d680878073aa3b9bfd270408aba9e69d4eafdc94",
+            "relevance_score": 8,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Uses inverse reinforcement learning to infer human cognitive states from behavior for adaptive interventions.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "248. Serotonergic effects on cognition: insight from PET and fMRI",
+            "link": "https://www.semanticscholar.org/paper/e283ff4c1398901268fd7e63a1940a230d48ddff",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Combines behavioral tasks, computational reinforcement-learning parameters, fMRI, and PET to study serotonergic modulation of cognition.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Auricular transcutaneous vagus nerve stimulation enhances stimulus-response binding effects - Evidence from drift diffusion modeling.",
+            "link": "https://www.semanticscholar.org/paper/ce00233c5409edb273744ea005235391ad46c7ac",
+            "relevance_score": 8,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Uses drift diffusion modelling to identify how vagus nerve stimulation modulates evidence accumulation in action control.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "699. Etiology of PUI: biopsychosocial mechanisms",
+            "link": "https://www.semanticscholar.org/paper/ca666747b3ea38a4a402c1630c9c791d0eb9446c",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Examines inhibitory control, reinforcement mechanisms, habit formation, and fMRI-linked mechanisms in problematic internet use.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Reward Prediction Errors Drive Reinforcement Learning and Recognition Memory: Gender Differences in Methamphetamine Abusers",
+            "link": "https://www.semanticscholar.org/paper/c5f662484640004d62925e3e1e1f898929cb1461",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Focuses on reward prediction errors, reinforcement learning, recognition memory, and executive dysfunction in a clinical population.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Mechanistic computational models of cognition across scales and species.",
+            "link": "https://www.semanticscholar.org/paper/ba9623f8a70fe57a93f8164adc11336762bbd053",
+            "relevance_score": 10,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Directly reviews mechanistic computational models of working memory, attention, planning, and translational psychiatry across scales and species.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "619. From maladaptive to atypical: redefining decision-making disorders through striatal profile-dependent mechanisms",
+            "link": "https://www.semanticscholar.org/paper/41910df256a29b20bb57a01808cff3413f0f6399",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Combines reinforcement-learning modelling and causal striatal manipulations in mice to characterize decision-making strategies under risk.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "From dampening to rigidity: How responses to positive emotion shape interpretations of ambiguous social situations.",
+            "link": "https://www.semanticscholar.org/paper/272a5303efff1cb08e0c4e414f101c07134c33e9",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Experimentally tests cognitive flexibility and belief updating in ambiguous social interpretation, relevant to cognitive-control mechanisms.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "756. Computational modelling of cognitive flexibility reveals novel dissociations across compulsive and non-compulsive disorders",
+            "link": "https://www.semanticscholar.org/paper/1c7e25d82cfaf378e602b4db0c856d1db20f69fe",
+            "relevance_score": 9,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Uses hierarchical Bayesian reinforcement-learning models to dissociate computational mechanisms of cognitive flexibility across psychiatric disorders.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Disease-specific roles of multidimensional apathy in linking cognitive and social functioning across neurodegenerative diseases.",
+            "link": "https://www.semanticscholar.org/paper/1b6bb61750fbca7bb2db0283d9a1609d790f58e4",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Relates executive function and apathy to social functioning across neurodegenerative groups, with clinical assessment relevance.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Psychometric properties of the Seattle-Groningen Memory Assessment in healthy adults.",
+            "link": "https://www.semanticscholar.org/paper/68dfd127e5457f373ac6196c15b83abb457fdc9c",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Validates a brief computational memory assessment with psychometric relevance for scalable cognitive testing.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Scrolling minds: Instagram Reels consumption and attention span among young adults\u2014the mediating role of fear of missing out (FOMO)",
+            "link": "https://www.semanticscholar.org/paper/07cf9845f32eda05e2de258e0b9b3638f3b5c766",
+            "relevance_score": 3,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Studies attention control in relation to social media use, but relies on self-report and has limited modelling relevance.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "A Clinical Case Study of Cognitive Behavior Therapy for Young Adult Cancer Survivors\u2019 Psychological Distress: Utilizing the Generic Cognitive Model",
+            "link": "https://www.semanticscholar.org/paper/ff6be7b6c12f3c390ddff4ee83863a20d916c2f2",
+            "relevance_score": 2,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Mentions attentional refocusing and cognitive flexibility in therapy, but it is primarily a clinical CBT case study.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Planning-related hubs and brain network organization during motor decision-making",
+            "link": "https://www.semanticscholar.org/paper/e0608aad43072075ea06c151e2ce9ec648a56513",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Uses EEG network analysis to relate motor planning time to cortical organization during decision-making.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Hardwired for Anger\u2014A Predictive Processing Account of Trait Anger and Aggression",
+            "link": "https://www.semanticscholar.org/paper/8f2f45964be9b72c580ab308064945e6c89eb356",
+            "relevance_score": 6,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Provides a predictive-processing account of selective attention, belief updating, and active inference in anger and aggression.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Appetite for change: How nutritional state and ventral striatal dopamine shape psilocybin effects on cognitive flexibility",
+            "link": "https://www.semanticscholar.org/paper/f2a4f8792e5bfb2ff373ba375b3686dfccdc8078",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Combines animal cognitive-flexibility tasks, dopamine photometry, and computational modelling of learning and value updating.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Raslan Circuit: von Economo neurons as biological dipole antenna elements in a proposed FI\u2013ACC communication pathway for multimodal integration and conscious access",
+            "link": "https://www.semanticscholar.org/paper/b8506cd2c8b9875c0fd7074cde38732d8cba1c31",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Speculates on neural mechanisms linking salience, attention, working memory, and conscious access, but remains theoretical and indirect.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "An Interpretable Memory Decision Controller for LLM Agents Based on Three-Signal Complementarity: Decoupling Confidence and Consistency",
+            "link": "https://arxiv.org/abs/2609.22043v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The paper concerns memory control inside LLM agents, which is excluded as machine memory rather than human cognition.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Deep Learning CNN and Recurrence Analysis for Alpha Gamma EEG Biomarkers in Fragile X Syndrome",
+            "link": "https://arxiv.org/abs/2608.00835v1",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Uses EEG biomarkers and deep learning for neurodevelopmental clinical characterization involving cognition and inhibitory control.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Beyond Single-Source Cognitive Taskonomy:Multi-Source Task Relations through fMRI Transfer Learning",
+            "link": "https://arxiv.org/abs/2606.26279v1",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Analyzes fMRI task relations including working-memory states, but the main contribution is transfer-learning taskonomy methodology.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "SUP-MCRL: Subject-aware Unified Pseudo-feature Coded Multimodal Contrastive Representation Learning for EEG Visual Decoding",
+            "link": "https://arxiv.org/abs/2606.16615v2",
+            "relevance_score": 4,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Develops EEG visual decoding with selective-attention framing, but the focus is BCI representation learning rather than executive assessment.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Pulse Focus: Validation of the Focus Performance Score as a Behavioral Signal for Human Attentional State Modeling Toward Attention-Aware AI",
+            "link": "https://arxiv.org/abs/2606.03164v1",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Validates a mobile Stroop-derived behavioral measure of attentional control with reliability and fMRI neural grounding.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Neural Visual Decoding via Cognitive guided Adaptive Blurring and Information Constrained Alignment",
+            "link": "https://arxiv.org/abs/2605.16418v1",
+            "relevance_score": 5,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Uses cognitive attention priors for EEG visual decoding, but mainly contributes a machine-learning decoding method.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Leveraging fNIRS to Evaluate Workload for Adaptive Training in Virtual Reality",
+            "link": "https://arxiv.org/abs/2605.06909v1",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Validates fNIRS measures of cognitive load involving working memory, attention, and adaptive VR training.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Triple Configuration of Brain Networks Based on Recurrent Neural Networks: The Synergistic Effects of Exogenous Stimuli, Task Demands, and Spontaneous Activity",
+            "link": "https://arxiv.org/abs/2604.23525v1",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Uses RNN-constrained modelling of EEG dynamics to study network configurations underlying cognitive flexibility and higher-order cognition.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Machine learning approaches to uncover the neural mechanisms of motivated behaviour: from ADHD to individual differences in effort and reward sensitivity",
+            "link": "https://arxiv.org/abs/2604.15363v1",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Combines EEG, neuroimaging, machine learning, ADHD classification, effort valuation, reward sensitivity, and computational parameters.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Estimating measures of information processing during cognitive tasks using functional magnetic resonance imaging",
+            "link": "https://arxiv.org/abs/2602.03240v1",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Introduces information-theoretic fMRI measures and applies them to working-memory load and frontoparietal information processing.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Resting-State Functional Connectivity Correlates of Emotional Memory Control under Cognitive load in Subclinical Anxiety",
+            "link": "https://arxiv.org/abs/2601.15689v2",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Studies neural correlates of volitional emotional memory control under working-memory load and anxiety moderation.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Neural Tracking of Sustained Attention, Attention Switching, and Natural Conversation in Audiovisual Environments using Mobile EEG",
+            "link": "https://arxiv.org/abs/2601.15097v1",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Provides mobile EEG evidence and decoding methods for sustained attention and attention switching in naturalistic audiovisual environments.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Continuous Energy Landscape Model for Analyzing Brain State Transitions",
+            "link": "https://arxiv.org/abs/2601.06991v1",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Develops fMRI energy-landscape models that predict working memory, executive function, and reaction time in patients.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Decoding Selective Auditory Attention to Musical Elements in Ecologically Valid Music Listening",
+            "link": "https://arxiv.org/abs/2512.05528v1",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Uses consumer EEG to decode selective auditory attention in naturalistic music listening.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Dynamic functional brain connectivity results depend on modeling assumptions: comparing the sliding-window method and the Wishart process for dynamic hypothesis testing",
+            "link": "https://arxiv.org/abs/2512.01513v2",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "A methodological dynamic-connectivity paper applied to a working-memory fMRI task, with indirect relevance to executive-function modelling.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Multi-network Topology Underlying Individual Language Learning Success",
+            "link": "https://arxiv.org/abs/2511.14453v1",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Links attention-control and frontoparietal network topology to individual differences in learning, though not specifically executive assessment.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Association-sensory spatiotemporal hierarchy and functional gradient-regularised recurrent neural network with implications for schizophrenia",
+            "link": "https://arxiv.org/abs/2511.02722v1",
+            "relevance_score": 8,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Uses gradient-regularized RNNs trained on working-memory tasks to mechanistically link cortical hierarchy and schizophrenia-related computation.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "CausalMamba: Scalable Conditional State Space Models for Neural Causal Inference",
+            "link": "https://arxiv.org/abs/2510.17318v1",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Develops fMRI causal-inference methods and applies them to working-memory network reconfiguration, but methodology is central.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "#269 EEG alpha rhythm modulation using sham neurofeedback during attentional control in a virtual reality environment",
+            "link": "https://www.semanticscholar.org/paper/f54046f7086a6643e03ea603a8fb6414abe7f0de",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The title indicates EEG attentional-control measurement in VR, but the missing summary limits assessment of relevance.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "BrainPT, a Cognitive Mini-Game App for Short-Form Video Use in Young Adults: Neural and Behavioral Pilot Study",
+            "link": "https://www.semanticscholar.org/paper/983e2bf6902380c75b64af6b1217124c25cc2e2f",
+            "relevance_score": 3,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The title suggests a neural and behavioral cognitive mini-game assessment, but no summary is available to establish executive-function centrality.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Does chronic occupational demand alter EEG stress biomarkers during cognitive challenge? a study of emergency physicians",
+            "link": "https://www.semanticscholar.org/paper/802989cf54cc4c988f8a39bf1aec2334cef1a7db",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The title suggests EEG biomarkers during cognitive challenge, but no summary is available and executive-function specificity is unclear.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Excitation-Inhibition Balance and Fronto-Limbic Connectivity Distinguish TMS Treatment Outcomes in Refractory Depression.",
+            "link": "https://www.semanticscholar.org/paper/309caf73a0ea89036a01abeb03aa3959f2f106d2",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Uses TMS-EEG and neural mass modelling of DLPFC circuits, though the focus is depression treatment response rather than executive function.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Neurophysiological Correlates of Target-Related Visual Attention Processes as a Function of Reward in Connection with Schizotypy",
+            "link": "https://www.semanticscholar.org/paper/b110cc4b1a25ff38a9808585b8fd0dbb9f569786",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Reports EEG and behavioral findings on reward modulation of visual attentional control and target prioritization.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "EEG Microstates are Not Associated with Psychotic Symptoms, Neurocognitive Domains or Psychosocial Functioning in Adolescents and Young Adults with Clinical High Risk for Psychosis",
+            "link": "https://www.semanticscholar.org/paper/74bb21a8f90ac2d2922b6232c1c629aa84007207",
+            "relevance_score": 5,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Evaluates EEG microstates against neurocognitive and psychosocial outcomes in a clinical high-risk group, though findings are negative and broad.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Functional brain network identification in obesity using resting-state fMRI BOLD signals analysis",
+            "link": "https://www.semanticscholar.org/paper/c2c6f2484848b879e0cbbb8cbb39b0fe0ce1dbd4",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Studies executive-control-network biomarkers in obesity, but executive function is not directly measured or modelled.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Revisiting post-stimulus theta activity: evidence for a broadband rather than narrowband spectral origin.",
+            "link": "https://www.semanticscholar.org/paper/a9197feaf39dccc3c9f348c8e4493cb1a6213e95",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Challenges interpretations of EEG theta as attention or cognitive-control oscillations by modelling aperiodic spectral changes.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Differential excitatory-inhibitory balance within dorsolateral prefrontal cortex links inter-network interactions in working memory",
+            "link": "https://www.semanticscholar.org/paper/6db720037d4c19baf1a3bdc106781396369c3358",
+            "relevance_score": 10,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Provides multimodal neuroimaging and neural-network modelling evidence linking DLPFC excitation-inhibition balance to working-memory networks.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "LSD treatment affects working memory-related brain function in patients with major depressive disorder",
+            "link": "https://www.semanticscholar.org/paper/b051010ab8de4cbac016bcaa4ec688ce5e84e9d9",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Reports randomized-treatment fMRI evidence on working-memory-related brain function in major depressive disorder.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Effects of cognitive-behavioural therapy for insomnia on cognitive and emotional functioning in adults with insomnia: behavioural and neuroimaging evidence",
+            "link": "https://www.semanticscholar.org/paper/1f4b1446920270c9ec6c671d65c32418fb21f3a9",
+            "relevance_score": 5,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Includes working-memory and neuroimaging outcomes in insomnia treatment, but cognitive mechanisms are not the main focus.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Seeing at Will: Shared Neural Representations of Motion Perception and Intention",
+            "link": "https://www.semanticscholar.org/paper/19139d266b701123f38d0d4aa9da636854bed847",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Uses fMRI decoding to show top-down intention and attentional control bias sensory representations.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Executive functions as a transdiagnostic endophenotype in developmental psychopathology.",
+            "link": "https://www.semanticscholar.org/paper/900cc57c66a533f3204d4dd17a5bfca011f6a833",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Reviews executive functions as a mechanistic transdiagnostic endophenotype and reframes EF through cost-benefit control processes.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Vibrotactile transcutaneous auricular vagus nerve stimulation (taVNS) during working memory: convergent electrophysiological evidence for cortical efficiency",
+            "link": "https://www.semanticscholar.org/paper/87e76dc4945cc15b888f220fc7602f8c8a70c7a3",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Combines working-memory tasks, scalp EEG, intracranial recordings, eye tracking, and physiology to test mechanisms of neuromodulation.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Editorial: From causal circuit mapping to clinical translation: Prefronto\u2010thalamic hypoconnectivity in schizophrenia",
+            "link": "https://www.semanticscholar.org/paper/1890688a20d3de042bbb0395dae7bb66497eefb3",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Discusses a causally mapped DLPFC-thalamic pathway relevant to spatial working memory and schizophrenia.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Spatiotemporal feature-based investigation of major depressive disorder and emotion recognition using functional near infrared spectroscopy",
+            "link": "https://www.semanticscholar.org/paper/f1f19aff80f09bcf48564a72b02827248092f40e",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Uses fNIRS-derived prefrontal features for depression and emotion-state classification with relevance to cognitive-control biomarkers.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Dissociable EEG microstate signatures of cognitive and response inhibition deficits in obsessive-compulsive disorder patients",
+            "link": "https://www.semanticscholar.org/paper/b25a076245235ffede918ab0f082d71185cd8ea8",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Links EEG microstate dynamics to cognitive and response inhibition deficits in OCD using Stroop and stop-signal tasks.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Functional deficits of the inhibitory control system in children with ADHD: A task-based fMRI meta-analysis",
+            "link": "https://www.semanticscholar.org/paper/9d83d5204a83b8e027520a05e7c164a69d373162",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Meta-analyzes task-fMRI evidence for inhibitory-control network abnormalities in pediatric ADHD.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "The neurobiology of binge eating disorder: a systematic review of studies using functional magnetic resonance imaging.",
+            "link": "https://www.semanticscholar.org/paper/9ad5332880f9f146105e55a09efb4e6cc159c321",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Likely concerns fMRI findings in reward and control systems, but no summary is available and executive-function relevance is uncertain.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "The Philadelphia Theta Burst Project: A novel fMRI-guided electric field modeling dataset with reliability metrics",
+            "link": "https://www.semanticscholar.org/paper/e67849696adec9771e172c351eee642dd883ed49",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Provides a neuromodulation dataset with fMRI during a Sternberg working-memory task and reliability metrics.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Sex-differences in resting state dorsolateral prefrontal cortex: comparing motion correction methods in resting state functional near-infrared spectroscopy (fNIRS)",
+            "link": "https://www.semanticscholar.org/paper/aff1f578e3b0bb6e8dd6b879551726ae5d395331",
+            "relevance_score": 3,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The title concerns DLPFC fNIRS methodology, but no summary is available and executive-function relevance is indirect.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Linked multimodal brain alterations in depression with suicidal risk.",
+            "link": "https://www.semanticscholar.org/paper/aeb5c0ce0b27661fb4fbac3a4c8b148443fb83cc",
+            "relevance_score": 3,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The title suggests clinical multimodal biomarkers, but no summary indicates a meaningful executive-function or cognitive-assessment focus.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Volumetric Integrity of Frontotemporal and Perisylvian Regions for Predicting Behavioral and Language Impairment in Behavioral FTD: A Structural MRI Study",
+            "link": "https://www.semanticscholar.org/paper/5bac3a6f8a6211ea729e73a2c5abac6a5e348688",
+            "relevance_score": 3,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "A structural MRI clinical-prediction study in FTD is relevant to assessment but not specifically to executive-function modelling.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Dispelling the Plateau Assumption: Case-Based Evidence for Language Recovery in Chronic-Post Stroke Aphasia",
+            "link": "https://www.semanticscholar.org/paper/0a01d2490fbcc882243d8ff7750b58f89010db51",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Includes longitudinal behavioral and fMRI assessment after stroke, but the focus is language recovery rather than executive function.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Cognitive outcomes following neurosurgery for frontal intracerebral tumors: A systematic review and meta-analysis.",
+            "link": "https://www.semanticscholar.org/paper/760ff3bfb24152ff6f3a6ed8da34c4aeada04be3",
+            "relevance_score": 5,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Reviews cognitive outcomes after frontal tumor surgery, including executive functions, but lacks computational modelling.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Acoustic Biomarkers for Alzheimer's Disease Detection from Spontaneous Speech",
+            "link": "https://arxiv.org/abs/2610.12500v1",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Develops speech-based digital biomarkers for Alzheimer's detection, relevant to cognitive impairment assessment though not EF-specific.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Game-Based versus Training-Based Virtual Reality for Cognitive Rehabilitation in Mild Cognitive Impairment and Dementia: A Systematization of Design Paradigms, Outcomes, and Evaluation Rigor",
+            "link": "https://arxiv.org/abs/2609.38514v1",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Systematizes VR cognitive rehabilitation design and outcomes for MCI and dementia, relevant to digital cognitive assessment and intervention.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Ageing, Digital Literacy, and Interaction Modality in Immer-sive Virtual Reality: Psychomotor Performance, Cognitive Flexibility, and Their Processing-Speed Association",
+            "link": "https://arxiv.org/abs/2609.20719v2",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Assesses cognitive flexibility and psychomotor performance in VR across aging with relevance to digital cognitive assessment.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "EEG-Based Multimodal Learning via Hyperbolic Mixture-of-Curvature Experts",
+            "link": "https://arxiv.org/abs/2604.12579v3",
+            "relevance_score": 5,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Develops multimodal EEG learning for cognitive assessment and mental-state recognition, but the contribution is mostly algorithmic.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "A Probabilistic Model-Checking Framework for Cognitive Assessment and Training",
+            "link": "https://arxiv.org/abs/2602.03643v1",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Uses Markov models and model checking to support serious-game cognitive assessment and adaptive training for neurocognitive disorders.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Altered oscillatory brain networks during emotional face processing in ADHD: an eLORETA and functional ICA study",
+            "link": "https://arxiv.org/abs/2512.13539v1",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Analyzes EEG network alterations during inhibitory Go/NoGo processing in ADHD with behavioral executive-function measures.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Early Alzheimer\u2019s Disease Detection Using EEG Brain Signals",
+            "link": "https://www.semanticscholar.org/paper/4c0ed8fabcf5e06f37cb68e8c7a8b64f897b4a49",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Proposes EEG-based deep learning for early Alzheimer's detection, relevant to digital biomarkers but not executive-function modelling.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "An EEG-based framework for Alzheimer's disease diagnosis via single-channel multi-entropy fusion and ensemble learning.",
+            "link": "https://www.semanticscholar.org/paper/82d0fceee124cc0670318558d263365a7d3f6649",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The title indicates EEG-based Alzheimer's diagnostic classification using entropy features, a relevant digital biomarker approach.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Attenuated alpha state transitions and disrupted repetition-dependent temporal adaptation in mild cognitive impairment",
+            "link": "https://www.semanticscholar.org/paper/6312eb688844fde38ff89f028619da626494a568",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Identifies EEG alpha transition abnormalities in MCI, relevant to neurophysiological biomarkers of cognitive impairment.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Electroencephalographic complexity and cognitive decline: Insights from approximate entropy across aging and dementia",
+            "link": "https://www.semanticscholar.org/paper/6de4a3672c86608bd773c0a969c168707feed929",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Uses EEG entropy features to characterize aging, MCI, and Alzheimer's-related cognitive decline.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "A Knowledge-Distilled Conformer Framework for On-Device Sleep Assessment",
+            "link": "https://www.semanticscholar.org/paper/da3169029846ec23fced1ea2c71d581c8aa19cd1",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "On-device sleep staging has only general relevance to cognitive health monitoring and little direct executive-function content.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Technological neuropsychology: Assessing cognition in a digital world.",
+            "link": "https://www.semanticscholar.org/paper/8dc25463f749ded51b42000a8009ae20d67f714d",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Argues for modern digital, wearable, neuroimaging, and VR approaches to neuropsychological assessment of cognition.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Remote Identification of APOE-\u03b54 Carrier Status in Cognitively Normal Adults via Speech Acoustics: Cross-Sectional Observational Study.",
+            "link": "https://www.semanticscholar.org/paper/4606d035732097efdc80cc8eba69ea5c16405888",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Uses remote acoustic speech features as low-burden digital biomarkers of preclinical Alzheimer's risk.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Immediate anxiety-reducing effects of multisensory virtual reality reminiscence therapy in older adults with a wide range of cognitive functions: a pilot study using electrophysiological measures",
+            "link": "https://www.semanticscholar.org/paper/246cfd151b5e404c5cb5ca1c791c8f1b9d2c78bd",
+            "relevance_score": 5,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Combines VR and wearable EEG in older adults with cognitive impairment, but targets anxiety rather than executive function.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "A randomized pilot trial of non-flickering 40 Hz light stimulation: EEG activity and cognitive outcomes in cognitively normal older adults.",
+            "link": "https://www.semanticscholar.org/paper/0417d68e39e95c6cbaa427eb9ffc8709436f4443",
+            "relevance_score": 5,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Measures EEG and cognitive outcomes after gamma stimulation in older adults, with moderate relevance to cognitive monitoring.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Age-related differences in neural activity and functional connectivity during self- and other-referential processing: An EEG study.",
+            "link": "https://www.semanticscholar.org/paper/e2a45c0f6858e34b12c35fe0a9d9f36eedfeb7d6",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Reports EEG attention-related and connectivity changes with aging, but not specifically executive-function modelling.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Automated detection of Alzheimer's disease from EEG signals using VMD driven multi domain features and rich and poor optimization enhanced classification",
+            "link": "https://www.semanticscholar.org/paper/0d24e93eae338f271c138d5b15f623972c150f86",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Develops EEG feature-based classification of Alzheimer's, MCI, and controls as a digital biomarker approach.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Virtual reality for cognitive and neuropsychiatric outcomes in mild cognitive impairment and dementia: a network meta-analysis",
+            "link": "https://www.semanticscholar.org/paper/3603b816d477efa23829374ad848208fa6eff22e",
+            "relevance_score": 5,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The title indicates VR intervention evidence for MCI and dementia outcomes, relevant to digital cognitive rehabilitation but not modelling.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Neuropsychiatric Implications of AI Overexposure: The Potential for Cognitive Decline and Alzheimer\u2019s Neuropathology",
+            "link": "https://www.semanticscholar.org/paper/cb381d1112fb9875457ee6fbd0748d45ed35fbbd",
+            "relevance_score": 3,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Discusses cognitive offloading, memory, and problem-solving effects of AI dependence, but it is speculative and not modelling-focused.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "B-156: Enhancing Cognitive Rehabilitation Interventions Using Selected Movement-Based Tasks Guided by Neuropsychological Assessment: A Review of the Literature",
+            "link": "https://www.semanticscholar.org/paper/d7b33fcc7e4f189c25a91afb8e66fff55236a487",
+            "relevance_score": 5,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Reviews movement-based cognitive rehabilitation guided by neuropsychological assessment across attention, executive function, and memory.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "B-78: A Neuropsychological Profile Integrating Brain Imaging and Neuropsychological Data: Differentiating Epilepsy and Autism Spectrum Disorder",
+            "link": "https://www.semanticscholar.org/paper/be54241eb7255f61debf05b00358b8877cf92bf8",
+            "relevance_score": 4,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Integrates EEG and neuropsychological assessment including working memory and executive function in a pediatric diagnostic case.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "B-40: Adapted Cognitive Assessment of a 13-Year-Old Male With Cerebral Palsy Using Eye-Tracking Technology: A Case Report",
+            "link": "https://www.semanticscholar.org/paper/aaf7f1ed7c865b28c57998e928541db4fc3cc6bf",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Uses eye-tracking technology to adapt cognitive assessment for severe motor and communication impairment.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Neurotrauma During Military Training: Results of the INVestigating traIning assoCiated blasT pAthology (INVICTA) Study.",
+            "link": "https://www.semanticscholar.org/paper/a52e9bea5c5436aa854322306ef7723cd3f735f2",
+            "relevance_score": 5,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Uses serial cognitive, EEG, oculomotor, gait, and biomarker measures after blast exposure, with relevance to cognitive monitoring.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "A-10: Performance-Based and Patient/Informant - Reported Outcomes Following EEG-Guided General Anesthesia General in Older Adults From Rural Communities: A Pilot Study",
+            "link": "https://www.semanticscholar.org/paper/99d068157b08b3f2616b689b23abe91eac6dfdb0",
+            "relevance_score": 4,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Monitors memory, attention, executive symptoms, and neuropsychiatric outcomes after anesthesia, but without modelling or biomarkers beyond EEG guidance.",
+            "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "A-179: Co-Development of a Pilot Pediatric Neuropsychological Assessment Protocol in Myotonic Dystrophy Type 1",
+            "link": "https://www.semanticscholar.org/paper/6f45d02d87669f97caac9cb42edfa7254b3cdd11",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Develops a pediatric neuropsychological protocol integrating executive, attentional, EEG, and eye-tracking measures.",
+            "date_fetched": "2026-10-14 09:57:13"
         }
     ]
 }
