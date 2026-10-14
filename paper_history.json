@@ -9199,6 +9199,15 @@
             "filtered": false,
             "reason": "Develops a pediatric neuropsychological protocol integrating executive, attentional, EEG, and eye-tracking measures.",
             "date_fetched": "2026-10-14 09:57:13"
+        },
+        {
+            "title": "Evidence that intrinsic brain connectivity moderates the association between gait and neurocognitive function in people living with HIV",
+            "link": "https://www.semanticscholar.org/paper/10b3fe93960423a6395b5edbce8933b09e55e13e",
+            "relevance_score": 3,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Human clinical neurocognition and intrinsic brain connectivity are relevant to cognitive impairment, but the title does not indicate a focus on executive function, computational modelling, or task-based assessment.",
+            "date_fetched": "2026-10-14 15:37:09"
         }
     ]
 }
