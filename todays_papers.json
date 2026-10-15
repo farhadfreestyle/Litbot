@@ -1,0 +1,40 @@
+{
+    "papers": [
+        {
+            "title": "Biased 5-HT1A agonist NLX-101 improves executive function under NMDA receptor hypofunction and preferentially enhances cortical ERK2 phosphorylation.",
+            "link": "https://www.semanticscholar.org/paper/b07648c67465a6f47f81381c538d3648f5b91105",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper appears to report animal neuropharmacological findings on executive function under NMDA receptor hypofunction with cortical signaling measures, relevant to mechanisms of cognitive control.",
+            "date_fetched": "2026-10-15 07:58:49"
+        },
+        {
+            "title": "Apigenin modulates serotonergic and noradrenergic transmission in postnatally induced two-hit neurodevelopmental psychosis in rodents",
+            "link": "https://www.semanticscholar.org/paper/11a0264b4c8acb994c700eab83ca65bf8dc35d57",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study links working-memory behavior in a rodent psychosis model to serotonergic and noradrenergic changes in prefrontal, hippocampal, and amygdala regions, though its main focus is pharmacological treatment.",
+            "date_fetched": "2026-10-15 07:58:49"
+        },
+        {
+            "title": "Diagnostic Challenges in Seronegative Section Autoimmune Limbic Encephalitis Presenting as Faciobrachial Dystonic Seizures: A Case Report",
+            "link": "https://www.semanticscholar.org/paper/e3e38485d32b779c4a98c4b7e85cface286626d3",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "This is a clinical diagnostic case report about autoimmune limbic encephalitis and seizure presentation, with cognitive impairment only mentioned generally and no substantive executive-function modelling or assessment component.",
+            "date_fetched": "2026-10-15 07:58:49"
+        },
+        {
+            "title": "Noradrenergic gain failure and cognitive-state instability in aging and Alzheimer's disease",
+            "link": "https://www.semanticscholar.org/paper/da6770bc7a30e3ff483375874ce1e6328e8200fc",
+            "relevance_score": 9,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The review develops a control-layer model of LC\u2013norepinephrine gain dysfunction linking arousal dynamics to attention, memory access, reaction-time variability, and cognitive instability in aging and Alzheimer's disease.",
+            "date_fetched": "2026-10-15 07:58:49"
+        }
+    ]
+}
