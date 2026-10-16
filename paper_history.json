@@ -9244,6 +9244,69 @@
             "filtered": false,
             "reason": "The review develops a control-layer model of LC\u2013norepinephrine gain dysfunction linking arousal dynamics to attention, memory access, reaction-time variability, and cognitive instability in aging and Alzheimer's disease.",
             "date_fetched": "2026-10-15 07:58:49"
+        },
+        {
+            "title": "Does Global Slowing Explain Age Effects in Inhibitory Control?",
+            "link": "https://www.semanticscholar.org/paper/d18e11bea0578000770f57bf9ace8d2627823dc4",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This directly concerns age-related changes in inhibitory control, an executive function, though it appears primarily behavioural rather than computational.",
+            "date_fetched": "2026-10-16 07:53:00"
+        },
+        {
+            "title": "Modeling decision dynamics disentangles working memory, cognitive control and reinforcement learning and reveals clinical differences",
+            "link": "https://www.semanticscholar.org/paper/f9cb02104064737385c2018e2f6ce4f6f245f580",
+            "relevance_score": 10,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "This is a central computational modelling paper on working memory, cognitive control, reinforcement learning, decision dynamics, and clinical phenotyping.",
+            "date_fetched": "2026-10-16 07:53:00"
+        },
+        {
+            "title": "Task-specific theta enhancement and domain-general alpha/beta suppression as oscillatory signatures of cognitive flexibility",
+            "link": "https://www.semanticscholar.org/paper/67491317d0b3e21b57a55e9a02454f996e4acb67",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This reports oscillatory EEG signatures of cognitive flexibility, a core executive-control construct directly relevant to computational models.",
+            "date_fetched": "2026-10-16 07:53:00"
+        },
+        {
+            "title": "Ventral striatal and caudate contributions to episodic retrieval.",
+            "link": "https://www.semanticscholar.org/paper/af2a448bead2f68a4f3061140416f112a839be1f",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "This focuses on episodic retrieval rather than planning, working memory, attention, cognitive control, or executive-function assessment.",
+            "date_fetched": "2026-10-16 07:53:00"
+        },
+        {
+            "title": "Frustrative nonreward engages midfrontal theta power and modulates effort expenditure.",
+            "link": "https://www.semanticscholar.org/paper/3ae0b4d9a2de2822abd2865974205083f924382c",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This links midfrontal theta to effort expenditure after frustrative nonreward, providing neural evidence relevant to cognitive control and motivated decision making.",
+            "date_fetched": "2026-10-16 07:53:00"
+        },
+        {
+            "title": "EARLY-LIFE STRESS INDUCES SEXUALLY DIMORPHIC BRAIN AGING VIA MESOLIMBIC ALTERATIONS AND FRONTO-STRIATAL DYSFUNCTION",
+            "link": "https://www.semanticscholar.org/paper/19acdf1e7ca2f7b1416998b0d0a7cf692ff8876f",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This addresses fronto-striatal dysfunction and brain aging, but the executive-function link is broad and indirect from the title alone.",
+            "date_fetched": "2026-10-16 07:53:00"
+        },
+        {
+            "title": "Associations Between Resting-State EEG Delta-band Activity at Selected Parietal Electrodes and Cognitive Changes Following Transcutaneous Auricular Vagus Nerve Stimulation in Patients with Mild Cognitive Impairment: An Exploratory Analysis.",
+            "link": "https://www.semanticscholar.org/paper/4c886f80d6291a21d594fb45c13e4579d4850375",
+            "relevance_score": 5,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "This is relevant to EEG-based cognitive monitoring in mild cognitive impairment, but it is exploratory and not specifically focused on executive-function modelling or task-based classification.",
+            "date_fetched": "2026-10-16 07:53:00"
         }
     ]
 }
