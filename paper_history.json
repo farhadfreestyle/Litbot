@@ -9307,6 +9307,42 @@
             "filtered": false,
             "reason": "This is relevant to EEG-based cognitive monitoring in mild cognitive impairment, but it is exploratory and not specifically focused on executive-function modelling or task-based classification.",
             "date_fetched": "2026-10-16 07:53:00"
+        },
+        {
+            "title": "A Control-Theoretic Account of Cognitive Effort in Working Memory",
+            "link": "https://www.semanticscholar.org/paper/bd41e8df4bc130ea6aed02ea15653f58e5ac0a99",
+            "relevance_score": 10,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The paper centrally develops a control-theoretic neural circuit model of working memory effort and prefrontal control demands.",
+            "date_fetched": "2026-10-16 15:04:09"
+        },
+        {
+            "title": "Impaired Control Symptoms in Alcohol Use Disorder Show Convergent Associations Across Behavioral and Neural Markers of Inhibitory Control and Drinking Behavior",
+            "link": "https://www.semanticscholar.org/paper/778f1af0380a3baf618ff399dcc7ceb37e2503af",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study directly links inhibitory control behavior and fMRI activation during a Stop-Signal Task to impaired control symptoms in a large clinical cohort.",
+            "date_fetched": "2026-10-16 15:04:09"
+        },
+        {
+            "title": "Brief Trains of Closed-loop TMS Induce Controllable Power in FM-theta Oscillations",
+            "link": "https://www.semanticscholar.org/paper/5494b54ebd7411d6a6862996b7ddd8313b4a7836",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper reports EEG and closed-loop TMS findings on frontal-midline theta during working memory, although the sample is small and behavioral effects were not observed.",
+            "date_fetched": "2026-10-16 15:04:09"
+        },
+        {
+            "title": "Attention warps visual-semantic representations across the human cerebellum",
+            "link": "https://www.semanticscholar.org/paper/44e0c7e9e34cf92bbefee9de769738a40c5a6a18",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper uses fMRI encoding models to show how attention goals reshape visual-semantic representations in the human cerebellum, informing neural accounts of attention.",
+            "date_fetched": "2026-10-16 15:04:09"
         }
     ]
 }
