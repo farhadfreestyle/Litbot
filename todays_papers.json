@@ -1,0 +1,130 @@
+{
+    "papers": [
+        {
+            "title": "Computation-through-Dynamics Toolkit: Simulated datasets and quality metrics for dynamical models of neural activity.",
+            "link": "https://www.semanticscholar.org/paper/582c34682195b109fa56bd9cf146477198655668",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "Filtered because it uses synthetic neural-dynamics datasets and toolkit metrics rather than human or animal cognition and is not explicitly modelling executive function.",
+            "date_fetched": "2026-10-17 07:31:05"
+        },
+        {
+            "title": "Decomposing Models of Bounded Rationality",
+            "link": "https://www.semanticscholar.org/paper/f2e7042e31e85b7b6affa82258536a25ee00b874",
+            "relevance_score": 8,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The paper directly compares formal bounded-rationality models against human strategic decision-making data, making it relevant to computational modelling of human decision processes.",
+            "date_fetched": "2026-10-17 07:31:05"
+        },
+        {
+            "title": "Domain-dependent mechanisms of L2 proficiency in interference suppression: A drift-diffusion analysis of verbal and spatial Stroop in Chinese\u2013English bilinguals",
+            "link": "https://www.semanticscholar.org/paper/b05157a0f11115ebd1436eb890c40c21d9a5fe29",
+            "relevance_score": 9,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The paper uses hierarchical Bayesian drift-diffusion modelling to decompose human Stroop interference suppression and cognitive control across verbal and spatial domains.",
+            "date_fetched": "2026-10-17 07:31:05"
+        },
+        {
+            "title": "A Cognitive-Adaptive Sight-Singing and Ear-Training Integration Model",
+            "link": "https://www.semanticscholar.org/paper/8f3af718da8b8e439563bc5aa11f2dd2e612ee95",
+            "relevance_score": 4,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The paper proposes a cognitive educational framework involving working memory limits and predictive coding, but its main focus is music pedagogy rather than quantitative executive-function modelling.",
+            "date_fetched": "2026-10-17 07:31:05"
+        },
+        {
+            "title": "Genetic basis of phase amplitude coupling entrained by working memory",
+            "link": "https://www.semanticscholar.org/paper/966bc51c05fc0916c6a3c98f20d2f60f2ba12389",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The title indicates a neuroscience study of phase-amplitude coupling linked to working memory, which could inform mechanistic models of working-memory neural dynamics.",
+            "date_fetched": "2026-10-17 07:31:05"
+        },
+        {
+            "title": "Task-evoked brain network dynamics underlying executive function in preadolescent children.",
+            "link": "https://www.semanticscholar.org/paper/a6dbffa6896643b298ef78619d198dab305dd5ff",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper reports EEG-based dynamic functional-connectivity findings during a flanker task and links network states to selective attention and inhibitory control in children.",
+            "date_fetched": "2026-10-17 07:31:05"
+        },
+        {
+            "title": "Toward AI-Enabled Precision Exercise: Neurophysiological Effects of Acute Moderate-Intensity Resistance Exercise on Executive Function in College Students with Different Motor Skill Backgrounds",
+            "link": "https://www.semanticscholar.org/paper/52ab64190c94b2e3c16d5e99fa4da41da20c129b",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper measures Stroop, n-back, shifting performance and prefrontal fNIRS responses, but its central emphasis is an exercise intervention rather than modelling executive function.",
+            "date_fetched": "2026-10-17 07:31:05"
+        },
+        {
+            "title": "Operant House: A versatile open-source platform for automated operant conditioning testing of mice in home cages",
+            "link": "https://www.semanticscholar.org/paper/f6af3eca2cf6857fc7a43a1ab07674c737355908",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper introduces an animal behavioural platform for working-memory and flexibility testing and demonstrates early working-memory deficits in an Alzheimer\u2019s mouse model.",
+            "date_fetched": "2026-10-17 07:31:05"
+        },
+        {
+            "title": "Video EEG in pediatric epilepsy: Diagnostic significance and association between frequency band power and cognitive impairment severity.",
+            "link": "https://www.semanticscholar.org/paper/738f7ac474bd1a8845bff44ae6339b9d90333091",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper appears to relate EEG frequency-band power to clinical cognitive impairment severity, but there is no clear executive-function task or modelling component in the available text.",
+            "date_fetched": "2026-10-17 07:31:05"
+        },
+        {
+            "title": "Novel Genetic Variants of the CHD2 Gene in cis Position in a Patient with Epileptic Encephalopathy: A Case Report and In Silico Analysis of the Impact of the Variants on the Protein",
+            "link": "https://www.semanticscholar.org/paper/821e33c6bd6aae0932c1c306eadcf7432aecbde9",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper is primarily a clinical genetics case report for epileptic encephalopathy, with cognitive impairment mentioned only as a clinical feature rather than an executive-function focus.",
+            "date_fetched": "2026-10-17 07:31:05"
+        },
+        {
+            "title": "Visual Search Behavior Towards Reference Areas During an S-Curve Driving Task in Elderly Drivers with Mild Cognitive Impairment",
+            "link": "https://www.semanticscholar.org/paper/7947e5839299106d730a4bfd50878761b53b15a2",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper uses eye tracking during a naturalistic driving task to characterize visual-search behaviour in elderly drivers with MCI features, making it relevant to digital behavioural biomarkers.",
+            "date_fetched": "2026-10-17 07:31:05"
+        },
+        {
+            "title": "Computational approaches to deep learning\u2013driven EEG analysis for neurological disease diagnosis: a systematic review",
+            "link": "https://www.semanticscholar.org/paper/d9046ad3483fa02087fd4d5480160d385c1dda77",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The review covers deep-learning EEG biomarkers for neurological diagnosis including MCI and Alzheimer\u2019s disease, though it is broad and not specifically focused on executive-function assessment.",
+            "date_fetched": "2026-10-17 07:31:05"
+        },
+        {
+            "title": "Examining sources of variability in repeated testing of the rewards positivity and P300 ERP components",
+            "link": "https://www.semanticscholar.org/paper/b5420f626798cf677aeea81ab593e0d6196f3fd2",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper provides human EEG reliability data for P300 and reward positivity in repeated cognitive tasks, but its main contribution is ERP measurement methodology rather than executive-function mechanisms.",
+            "date_fetched": "2026-10-17 07:31:05"
+        },
+        {
+            "title": "Multimodal Sensing and Digital Biomarkers in Virtual Reality-Based Cognitive Rehabilitation: Clinical Validation, Adaptive Systems, and Real-World Translation",
+            "link": "https://www.semanticscholar.org/paper/a74b3841b882e47de69db427734d59079fe29b1a",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The review is closely aligned with multimodal digital biomarkers for cognitive rehabilitation, including behavioural, eye-tracking, physiological, EEG and fNIRS measures for MCI and functional outcomes.",
+            "date_fetched": "2026-10-17 07:31:05"
+        }
+    ]
+}
