@@ -17,6 +17,24 @@
             "filtered": false,
             "reason": "The paper focuses on TMS treatment of fear memories and PTSD rather than modelling or assessing planning, working memory, attention, or cognitive control.",
             "date_fetched": "2026-10-18 07:45:46"
+        },
+        {
+            "title": "A parsimonious, age-invariant, and psychometrically validated neural signature of task-control network functioning",
+            "link": "https://www.semanticscholar.org/paper/089ef6cb32e2f9fb373c8301b593f950d37fdf62",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This paper directly characterizes frontoparietal and dorsal attention task-control network activity linked to cognitive ability, symptoms, and goal-directed behavior, making it highly relevant to neural modelling of executive function.",
+            "date_fetched": "2026-10-18 14:11:45"
+        },
+        {
+            "title": "The role of world knowledge in sentence comprehension under working-memory constraints: An fMRI study",
+            "link": "https://www.semanticscholar.org/paper/f2ec49509726bcc46d027b7c7066d1fd515c734b",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This human fMRI study examines phonological working-memory constraints during language comprehension, but its main contribution is sentence-processing neuroscience rather than executive-function modelling.",
+            "date_fetched": "2026-10-18 14:11:45"
         }
     ]
 }
