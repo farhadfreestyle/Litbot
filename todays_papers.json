@@ -1,0 +1,22 @@
+{
+    "papers": [
+        {
+            "title": "Cross-Centaur: Modeling Individual Decision-Making Across Psychological Tasks with Language Models",
+            "link": "https://arxiv.org/abs/2610.23157v1",
+            "relevance_score": 9,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "It develops an individual-level computational model predicting human trial-by-trial decision-making across psychological tasks, directly matching computational modelling of cognition and decision making.",
+            "date_fetched": "2026-10-19 08:28:34"
+        },
+        {
+            "title": "Reversal of refractory epilepsy in an adult with GAMT deficiency: A case report and comparative literature review",
+            "link": "https://www.semanticscholar.org/paper/2f27d5d689bf5fcded9bf617f37db0d4d712a1dd",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "It is a clinical epilepsy and metabolic disorder case report with EEG findings but no substantive focus on executive function, cognitive modelling, or cognitive assessment biomarkers.",
+            "date_fetched": "2026-10-19 08:28:34"
+        }
+    ]
+}
