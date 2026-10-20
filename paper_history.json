@@ -9595,6 +9595,33 @@
             "filtered": false,
             "reason": "This review covers EEG markers of clinical cognitive impairment including attention-task ERPs such as P300, but its focus is broad and not specifically executive-function modelling.",
             "date_fetched": "2026-10-19 17:14:10"
+        },
+        {
+            "title": "Longitudinal fMRI reveals multi-network reconfiguration and a recurrent frontoparietal shift across rest and task states during adult aging",
+            "link": "https://arxiv.org/abs/2610.24433v1",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Longitudinal human fMRI evidence on aging-related frontoparietal network reconfiguration across rest and executive-memory task states is relevant to modelling cognitive control and aging, though it is not itself a cognitive process model.",
+            "date_fetched": "2026-10-20 08:10:41"
+        },
+        {
+            "title": "NeuroAct: Advancing EEG Analysis and Decoding via Dual-Loop Autonomous Research",
+            "link": "https://arxiv.org/abs/2610.25211v1",
+            "relevance_score": 4,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper proposes a general autonomous framework for EEG decoding with some relevance to cognitive workload and clinical EEG classification, but its core contribution is an AI-assisted EEG pipeline rather than executive-function modelling or assessment.",
+            "date_fetched": "2026-10-20 08:10:41"
+        },
+        {
+            "title": "Mapping the Research Landscape and Global Trends: A Bibliometric Analysis of Event-related Potential in Alzheimer's Disease.",
+            "link": "https://www.semanticscholar.org/paper/0fb7dd0c6458bfe4c4b1ce9a8e2f284ac469eba5",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "A bibliometric review of ERP research in Alzheimer's disease is broadly related to EEG biomarkers for cognitive impairment but does not appear to provide primary executive-function findings or a computational model.",
+            "date_fetched": "2026-10-20 08:10:41"
         }
     ]
 }
