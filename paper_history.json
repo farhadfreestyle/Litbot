@@ -9748,6 +9748,42 @@
             "filtered": false,
             "reason": "It uses resting-state EEG, PET biomarkers, clinical grouping, and cognitive outcomes in AD-MCI, making it relevant to EEG-based cognitive impairment biomarkers despite its emphasis on memory rather than executive function.",
             "date_fetched": "2026-10-21 08:16:08"
+        },
+        {
+            "title": "2-Step Agent: How a Bayesian Decision Maker Learns from AI-Decision Support",
+            "link": "https://arxiv.org/abs/2602.21889v4",
+            "relevance_score": 6,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Presents a Bayesian computational model of how a human decision maker updates beliefs from AI decision support, but its focus is general assisted decision making rather than planning, working memory, attention, or cognitive control specifically.",
+            "date_fetched": "2026-10-22 08:17:41"
+        },
+        {
+            "title": "Quantitative Analysis of Electroencephalography in Hypnosis: A Neurophysiological Approach.",
+            "link": "https://www.semanticscholar.org/paper/68d557a26d4941aadbee6d1635b37e8919435992",
+            "relevance_score": 3,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The title indicates quantitative EEG analysis of hypnosis, which may relate indirectly to attention or cognitive control but is not clearly centered on executive function modelling or assessment.",
+            "date_fetched": "2026-10-22 08:17:41"
+        },
+        {
+            "title": "Resting-state fMRI biomarkers of surgical outcome in temporal lobe epilepsy: Network reorganization, rsfMRI-based prediction models, and cognition - A systematic review.",
+            "link": "https://www.semanticscholar.org/paper/4736de2e859cccc2c14d1a7a7af149105fc052e2",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "This is a clinical neuroimaging biomarker review involving cognition, but it is not specifically about executive function, task-based behavioural assessment, EEG, eye tracking, or computational modelling.",
+            "date_fetched": "2026-10-22 08:17:41"
+        },
+        {
+            "title": "Altered network organization with shift to local processing during adaptive behavior in multiple sclerosis",
+            "link": "https://www.semanticscholar.org/paper/3cbb82bf583f296c3aab5f81520c5bbf9fd7eb40",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Directly studies EEG theta connectivity and behavioural switch costs during task switching in healthy controls and multiple sclerosis patients, providing strong neural and behavioural findings on cognitive control.",
+            "date_fetched": "2026-10-22 08:17:41"
         }
     ]
 }
