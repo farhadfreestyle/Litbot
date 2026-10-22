@@ -9784,6 +9784,42 @@
             "filtered": false,
             "reason": "Directly studies EEG theta connectivity and behavioural switch costs during task switching in healthy controls and multiple sclerosis patients, providing strong neural and behavioural findings on cognitive control.",
             "date_fetched": "2026-10-22 08:17:41"
+        },
+        {
+            "title": "A Mechanistic Theory Unifying Value and Schema in the Prefrontal Cortex",
+            "link": "https://www.semanticscholar.org/paper/ddcc4ca8b57ec1da0a64c225f826605020c299d5",
+            "relevance_score": 10,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Core contribution is a mechanistic RL/RNN model of PFC flexible decision making that links value, schemas, and structured working memory.",
+            "date_fetched": "2026-10-22 15:43:10"
+        },
+        {
+            "title": "Temporal modulation of cortical parvalbumin and somatostatin neurons shapes network activation and adaptation during microstimulation",
+            "link": "https://www.semanticscholar.org/paper/a193fe372cebbb50177148cf812999c97aedb31c",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper concerns somatosensory cortical microstimulation and inhibitory interneuron dynamics rather than executive function, cognitive assessment, or human cognition modelling.",
+            "date_fetched": "2026-10-22 15:43:10"
+        },
+        {
+            "title": "Oscillatory Traveling Waves During Visual Entrainment in Autistic and Non-Autistic Adults",
+            "link": "https://www.semanticscholar.org/paper/885e8bbfcab63473bd1b028f9a8af130a0ac811a",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Reports human EEG findings on top-down versus sensory signaling in autism within a predictive coding framework, relevant to modelling attention and perceptual control.",
+            "date_fetched": "2026-10-22 15:43:10"
+        },
+        {
+            "title": "SOFEx: A Self-Organized Feature Extraction Approach for Detecting Mild Cognitive Impairment and Alzheimer\u2019s Disease using EEG Datasets",
+            "link": "https://www.semanticscholar.org/paper/c4119a219bb1c1800abe2f122ca04d69ffa74201",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Focuses on EEG-based detection of MCI and Alzheimer\u2019s disease, matching the digital biomarker and clinical classification aspect despite no stated executive-function modelling.",
+            "date_fetched": "2026-10-22 15:43:10"
         }
     ]
 }
