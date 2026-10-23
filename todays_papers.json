@@ -1,3 +1,67 @@
 {
-    "papers": []
+    "papers": [
+        {
+            "title": "Designing Attention-Driven Play: A Multi-Genre Suite of BCI Games",
+            "link": "https://www.semanticscholar.org/paper/7e47ebaf691745e0a6b743be22407d4e75a4de38",
+            "relevance_score": 5,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper appears to involve attention-based BCI interaction, which is relevant to attention measurement but seems focused on game design rather than executive-function modelling or clinical assessment.",
+            "date_fetched": "2026-10-23 15:31:51"
+        },
+        {
+            "title": "[Neurocognitive characteristics in children with sluggish cognitive tempo].",
+            "link": "https://www.semanticscholar.org/paper/d92c6e20699c0cb93ccfa12eae8e91274102aedb",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study combines clinical child groups, working-memory and attention testing, TOVA, and EEG spectral measures to characterize SCT and ADHD-related cognitive impairment.",
+            "date_fetched": "2026-10-23 15:31:51"
+        },
+        {
+            "title": "Neural Differences Between Prosocial and Self-Serving Lies: A Review of Evidence from Cognitive Neuroscience",
+            "link": "https://www.semanticscholar.org/paper/9bf1ebc9c97ba7083440b3eb1e73b919efd27847",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The review discusses prefrontal and anterior cingulate mechanisms of cognitive control in deception, but executive function is only one component of a broader social-neuroscience topic.",
+            "date_fetched": "2026-10-23 15:31:51"
+        },
+        {
+            "title": "The Association Between Socioeconomic Status and Academic Achievement Mediated by Psychological Factors",
+            "link": "https://www.semanticscholar.org/paper/2fcde4ac52fb9361dfdbad83e97d39fa00911d0e",
+            "relevance_score": 4,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The proposed theoretical model includes central executive functioning and working-memory depletion, but the paper is mainly about educational inequality rather than computational modelling of executive function.",
+            "date_fetched": "2026-10-23 15:31:51"
+        },
+        {
+            "title": "Spatial working memory enhances gamma oscillations in rodent olfactory bulb and medial prefrontal cortex",
+            "link": "https://www.semanticscholar.org/paper/dcdeb58c99d5b8ac1b5a576789fe547214a89b45",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper directly reports animal neural oscillation and connectivity findings during spatial working memory, including medial prefrontal gamma dynamics linked to behaviour.",
+            "date_fetched": "2026-10-23 15:31:51"
+        },
+        {
+            "title": "Neural correlates of ketamine-induced dilation of temporal expectation",
+            "link": "https://www.semanticscholar.org/paper/2f42f3f9b209587946e2d4366d074bd22a2504e3",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study links macaque timing behaviour to cortical ramping and population dynamics under ketamine, offering neural mechanisms relevant to modelling temporal expectation and decision processes.",
+            "date_fetched": "2026-10-23 15:31:51"
+        },
+        {
+            "title": "[Neurophysiological differentiation of children with ADHD alone and ADHD comorbid with dyslexia: a P600-like component analysis].",
+            "link": "https://www.semanticscholar.org/paper/a07559542c0e39865f2a5e47a41d8507ac54473a",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The title indicates an EEG/ERP-based differentiation of clinical child groups involving ADHD, but the apparent focus on a P600-like language component makes the executive-function relevance partial.",
+            "date_fetched": "2026-10-23 15:31:51"
+        }
+    ]
 }
