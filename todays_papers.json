@@ -71,6 +71,15 @@
             "filtered": false,
             "reason": "The title suggests a digital cognitive assessment study, but the available information does not indicate executive-function modelling, clinical classification, eye tracking, EEG, or specific impairment detection.",
             "date_fetched": "2026-10-24 07:52:37"
+        },
+        {
+            "title": "Reinforcement Learning for the Working Memory Controller",
+            "link": "https://www.semanticscholar.org/paper/7a161c7a7571dbe74e44a8508bedcfffd79f3dcf",
+            "relevance_score": 9,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The title indicates a reinforcement learning model of working memory control, directly matching computational modelling of executive function.",
+            "date_fetched": "2026-10-24 14:10:15"
         }
     ]
 }
