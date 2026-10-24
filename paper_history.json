@@ -9883,6 +9883,78 @@
             "filtered": false,
             "reason": "The title indicates an EEG/ERP-based differentiation of clinical child groups involving ADHD, but the apparent focus on a P600-like language component makes the executive-function relevance partial.",
             "date_fetched": "2026-10-23 15:31:51"
+        },
+        {
+            "title": "The successor representation in high-risk drinking and alcohol-related contexts.",
+            "link": "https://www.semanticscholar.org/paper/f6cee818c588c6dfe6ff1aed9f6178cd27136c9b",
+            "relevance_score": 9,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "This is a human reinforcement-learning study modelling decision strategy use with successor representations, model-based control, and model-free control in addiction-relevant contexts.",
+            "date_fetched": "2026-10-24 07:52:37"
+        },
+        {
+            "title": "Instrumental Activities of Daily Living as a Mediator Between Cognition and Anti-Saccade Uncorrected Error Rate in CSVD: An Exploratory Analysis with Education Moderation Testing",
+            "link": "https://www.semanticscholar.org/paper/3ea3676988c0ddfdf8b68a99365a163d29bedfe8",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "This clinical CSVD study uses anti-saccade eye-movement measures as indicators of inhibitory control and relates them to cognition and daily function, although findings are exploratory and weak after correction.",
+            "date_fetched": "2026-10-24 07:52:37"
+        },
+        {
+            "title": "Strong mnemonic prediction errors increase cognitive control, attention, and arousal",
+            "link": "https://www.semanticscholar.org/paper/d8d5062166ee8c342dc3893010b78978b091240c",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This human EEG and pupillometry study directly links mnemonic prediction errors to frontal theta, posterior alpha, pupil-linked arousal, attention, and learning.",
+            "date_fetched": "2026-10-24 07:52:37"
+        },
+        {
+            "title": "Tumor lesions in the supplementary motor area may induce large-scale sensorimotor and cognitive network alterations\u2014 A functional and structural connectivity analysis",
+            "link": "https://www.semanticscholar.org/paper/7a260b3fd6f3f0bed31ded6b355c98109bfb0f79",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This neuroimaging study examines SMA-related structural and functional connectivity changes in cognitive networks, but it lacks direct executive-function behavioral testing.",
+            "date_fetched": "2026-10-24 07:52:37"
+        },
+        {
+            "title": "Poststroke sleep phenotypes and executive dysfunction: toward a sleep-network-executive framework",
+            "link": "https://www.semanticscholar.org/paper/3732dbf7e1571df7f7a28106d4a6a7a2eb62ae95",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This synthesis proposes a mechanistic sleep-network-executive framework linking post-stroke sleep disturbance to frontoparietal, salience, and default-mode network dysfunction in executive impairment.",
+            "date_fetched": "2026-10-24 07:52:37"
+        },
+        {
+            "title": "Functional and Structural Neuroanatomic Correlates of Intraoperative Anesthetic Dose-Adjusted EEG Alpha Power Among Older Surgical Patients",
+            "link": "https://www.semanticscholar.org/paper/a563662f673eae88c6bb0ca34b8c9356faa445d5",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The title indicates an anesthesia EEG and neuroanatomy study in older surgical patients with no clear connection to executive function, cognitive assessment, or computational modelling.",
+            "date_fetched": "2026-10-24 07:52:37"
+        },
+        {
+            "title": "Applying the Information-Motivation-Behavioral Skills Model to a Virtual Reality-Assisted Cognitive Health Education Intervention to Promote Screening Uptake: Qualitative Study.",
+            "link": "https://www.semanticscholar.org/paper/61d3d71ef5138b0a9accb96584ae21a1e36b568e",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "This qualitative study concerns dementia and MCI screening education uptake rather than executive-function modelling, neural mechanisms, or biomarker-based cognitive assessment.",
+            "date_fetched": "2026-10-24 07:52:37"
+        },
+        {
+            "title": "A Virtual Reality-Based Cognitive Assessment Reveals an Association Between Regular Exercise and Multidimensional Cognitive Function in Community-Dwelling Middle-Aged Adults",
+            "link": "https://www.semanticscholar.org/paper/121c075642d9dd0e936da9e2d588cfbe5cd27c7f",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The title suggests a digital cognitive assessment study, but the available information does not indicate executive-function modelling, clinical classification, eye tracking, EEG, or specific impairment detection.",
+            "date_fetched": "2026-10-24 07:52:37"
         }
     ]
 }
