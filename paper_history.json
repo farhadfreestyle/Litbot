@@ -9964,6 +9964,24 @@
             "filtered": false,
             "reason": "The title indicates a reinforcement learning model of working memory control, directly matching computational modelling of executive function.",
             "date_fetched": "2026-10-24 14:10:15"
+        },
+        {
+            "title": "When emotion meets conflict: Additive but not synergistic effects in neural oscillatory activity.",
+            "link": "https://www.semanticscholar.org/paper/53ecbba68231ffc6a9809ed9dc74bd5ff1e60165",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "EEG evidence on fronto-central theta, centro-parietal alpha, and behavioural conflict adaptation directly informs models of cognitive control under emotional modulation.",
+            "date_fetched": "2026-10-25 08:06:25"
+        },
+        {
+            "title": "Aperiodic EEG activity is a domain-specific marker of attentional aging in neurotypical adults.",
+            "link": "https://www.semanticscholar.org/paper/b5c16532e1616d8e09b8d42e2b59877bab56d15f",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Longitudinal EEG and behavioural findings link aperiodic activity decline to sustained attention changes in aging, making it relevant to neural biomarkers of executive-attentional function.",
+            "date_fetched": "2026-10-25 08:06:25"
         }
     ]
 }
