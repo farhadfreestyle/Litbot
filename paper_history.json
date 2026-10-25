@@ -9982,6 +9982,24 @@
             "filtered": false,
             "reason": "Longitudinal EEG and behavioural findings link aperiodic activity decline to sustained attention changes in aging, making it relevant to neural biomarkers of executive-attentional function.",
             "date_fetched": "2026-10-25 08:06:25"
+        },
+        {
+            "title": "Generalized prefrontal task-progress sequences efficiently encode task structure",
+            "link": "https://www.semanticscholar.org/paper/39d327a70b21a359ac2a42bb51bf8e8c36988267",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This animal mPFC study directly examines neural representations of sequential task progress during multi-stage decision behaviour, providing findings highly relevant to computational models of executive function.",
+            "date_fetched": "2026-10-25 14:39:45"
+        },
+        {
+            "title": "Altered brain-body activity during emotional mental imagery in major depressive disorder",
+            "link": "https://www.semanticscholar.org/paper/958b2837588fc61d67c00859dc72c77c5cb9c7bb",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The title indicates an affective neuroscience study of depression and emotional imagery rather than executive function modelling, neural mechanisms of planning or working memory, or digital cognitive biomarkers.",
+            "date_fetched": "2026-10-25 14:39:45"
         }
     ]
 }
