@@ -1,0 +1,58 @@
+{
+    "papers": [
+        {
+            "title": "The development of cool and hot inhibitory control from late childhood to young adulthood: An ERP study.",
+            "link": "https://www.semanticscholar.org/paper/af60707ba2f1686bab431ebcd60910d458adb206",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper directly studies developmental changes in inhibitory control using ERP, making it highly relevant to neural and behavioural mechanisms of executive function.",
+            "date_fetched": "2026-10-26 08:30:31"
+        },
+        {
+            "title": "Visual-linguistic cues in manual communication: Neural and behavioral responses to Mouthings in sign-na\u00efve perception.",
+            "link": "https://www.semanticscholar.org/paper/5c890964d567652907483ef3fd99c13b5460b71f",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study uses EEG and mentions cognitive control demands, but its core contribution is about visual-linguistic processing rather than executive function modelling or assessment.",
+            "date_fetched": "2026-10-26 08:30:31"
+        },
+        {
+            "title": "Associations Between Individual Differences in Cognitive Control Capacity and Multitasking Performance",
+            "link": "https://www.semanticscholar.org/paper/825e809b9e18e21d4e15d08869f7eed7279b7591",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper links individual differences in cognitive control capacity to multitasking behaviour, fatigue, and EEG dynamics, making it strongly relevant to executive function assessment and modelling.",
+            "date_fetched": "2026-10-26 08:30:31"
+        },
+        {
+            "title": "A Quantitative Meta-Analysis of Neural Response to Cognitive Challenge in Children and Adults With a History of Childhood Maltreatment.",
+            "link": "https://www.semanticscholar.org/paper/497936c1151092971d6bda2bb856b2532edf1301",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The meta-analysis concerns neural responses to cognitive challenge in humans, which may inform models of cognitive control, though the executive-function specificity is unclear from the available information.",
+            "date_fetched": "2026-10-26 08:30:31"
+        },
+        {
+            "title": "Deep TMS modulates neurovascular responses and enhances dual-task computation in healthy adults",
+            "link": "https://www.semanticscholar.org/paper/c07a8f5978a4c06d2c769e670d7171e7fd0f9682",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study examines prefrontal and anterior cingulate modulation of dual-task cognitive control using stimulation and fNIRS, giving it clear but intervention-focused relevance to executive function.",
+            "date_fetched": "2026-10-26 08:30:31"
+        },
+        {
+            "title": "Multimodal evidence associated with 20Hz rTMS in AD: neuroaxonal injury reduction, neural oscillatory rebalancing, and multilayer network integration.",
+            "link": "https://www.semanticscholar.org/paper/54143de8e27daaab480d2ce68e5641668573dafc",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper appears to involve multimodal neural evidence in Alzheimer's disease, but the title does not indicate executive-function modelling, task-based assessment, or clinical classification.",
+            "date_fetched": "2026-10-26 08:30:31"
+        }
+    ]
+}
