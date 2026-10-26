@@ -53,6 +53,24 @@
             "filtered": false,
             "reason": "The paper appears to involve multimodal neural evidence in Alzheimer's disease, but the title does not indicate executive-function modelling, task-based assessment, or clinical classification.",
             "date_fetched": "2026-10-26 08:30:31"
+        },
+        {
+            "title": "Transfer-Related Cognitive and Learning Profiles Across Predominant MOBA Roles in Novice Esports Players",
+            "link": "https://www.semanticscholar.org/paper/af655152c967047086d03c24d0ec0dd4b0c968e2",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper measures EEG attention, working-memory theta, and cognitive load during a dual n-back task in humans, but its main focus is exploratory esports role differences rather than modelling or clinical assessment.",
+            "date_fetched": "2026-10-26 17:03:54"
+        },
+        {
+            "title": "Prefrontal cortical morphometric covariance and cognitive task performance in healthy young adults: an exploratory analysis of Human Connectome Project data",
+            "link": "https://www.semanticscholar.org/paper/3fa12c270bacf13e6bf61240c396a00a836c1d52",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper examines associations between prefrontal cortical structure and executive-function tasks including working memory, inhibitory control, and reward-based decision-making, though findings are exploratory and mostly not robust.",
+            "date_fetched": "2026-10-26 17:03:54"
         }
     ]
 }
