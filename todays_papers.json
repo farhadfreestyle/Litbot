@@ -44,6 +44,24 @@
             "filtered": false,
             "reason": "The paper tracks cognitive outcomes during long-term neuromodulation and cognitive training in AD, but it is an uncontrolled single-participant intervention report rather than an executive-function model or diagnostic biomarker method.",
             "date_fetched": "2026-10-27 08:37:45"
+        },
+        {
+            "title": "Learning to Pursue Goals that Conflict with Prior Experience Relies on Fast Revaluation and Slow Value Updating",
+            "link": "https://www.semanticscholar.org/paper/687b7d971efac873c0cdf2ef50ba1adc4a2c73d7",
+            "relevance_score": 10,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The paper develops and fits a computational model of human goal-directed learning with fast goal switching and slow value updating, directly targeting flexible cognitive control and decision making.",
+            "date_fetched": "2026-10-27 16:06:21"
+        },
+        {
+            "title": "Reconfiguration of the Cognitive Control Network Induced by Cerebral and Cerebro\u2013Cerebellar Transcranial Direct Current Stimulation",
+            "link": "https://www.semanticscholar.org/paper/6441d3c32a002bfacf118db69c93f435da9b2435",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper reports human fMRI, effective-connectivity, graph, and drift-diffusion findings on cognitive control networks and switching costs, providing directly model-relevant neuroscience evidence.",
+            "date_fetched": "2026-10-27 16:06:21"
         }
     ]
 }
