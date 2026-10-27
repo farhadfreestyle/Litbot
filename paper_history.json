@@ -10072,6 +10072,51 @@
             "filtered": false,
             "reason": "The paper examines associations between prefrontal cortical structure and executive-function tasks including working memory, inhibitory control, and reward-based decision-making, though findings are exploratory and mostly not robust.",
             "date_fetched": "2026-10-26 17:03:54"
+        },
+        {
+            "title": "Altered Inhibitory Control Across Subclinical Depression and Major Depressive Disorder: Evidence From Stroop Tasks and Diffusion Modeling",
+            "link": "https://www.semanticscholar.org/paper/39d461f2bd3adcfcd72e517d081182cf205d796c",
+            "relevance_score": 9,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The paper uses Stroop tasks with drift diffusion and conflict diffusion modelling to estimate latent inhibitory-control parameters across depression severity groups.",
+            "date_fetched": "2026-10-27 08:37:45"
+        },
+        {
+            "title": "Non-invasive skin trace elementomics reveals a characteristic pattern of essential element deficiency and toxic element accumulation in children with ADHD.",
+            "link": "https://www.semanticscholar.org/paper/a77e37defc25b88fa9be5f63517027d00478e3d6",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper concerns a biological marker for ADHD status but does not appear to model or measure executive function, attention tasks, EEG, eye tracking, or behavioural cognition directly.",
+            "date_fetched": "2026-10-27 08:37:45"
+        },
+        {
+            "title": "How Task Load Modulates the Effect of State Anxiety on Working Memory and Its Neural Mechanisms: Evidence from Verbal and Spatial Modalities.",
+            "link": "https://www.semanticscholar.org/paper/804fe21698f0d8615a2f3694f433c5ec5a999c18",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The title indicates an empirical study of working memory load, anxiety, and neural mechanisms across verbal and spatial modalities, directly relevant to executive-function neuroscience.",
+            "date_fetched": "2026-10-27 08:37:45"
+        },
+        {
+            "title": "Neural evidence for progressive decline of visual face recognition ability in Alzheimer\u2019s disease",
+            "link": "https://www.semanticscholar.org/paper/437b49956b96739f0576d4609e1aafb01673f354",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study uses task-based FPVS-EEG to distinguish cognitive processing changes across cognitively unimpaired, MCI due to AD, and AD dementia groups, although the target process is face recognition rather than executive function.",
+            "date_fetched": "2026-10-27 08:37:45"
+        },
+        {
+            "title": "Longitudinal Non-Pharmacological Neuromodulation and Cognitive Training Across Sequential Intervention Studies in a Participant with Alzheimer\u2019s Disease: A 10-Year Single-Participant Analysis",
+            "link": "https://www.semanticscholar.org/paper/2ee915b967db32253145f242850a520fe2d5e76e",
+            "relevance_score": 3,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper tracks cognitive outcomes during long-term neuromodulation and cognitive training in AD, but it is an uncontrolled single-participant intervention report rather than an executive-function model or diagnostic biomarker method.",
+            "date_fetched": "2026-10-27 08:37:45"
         }
     ]
 }
