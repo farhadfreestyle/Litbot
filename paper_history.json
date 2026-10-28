@@ -10198,6 +10198,51 @@
             "filtered": false,
             "reason": "The paper appears relevant to neurodegeneration and brain health broadly but has no specific stated connection to executive-function modelling or digital cognitive assessment.",
             "date_fetched": "2026-10-28 09:18:01"
+        },
+        {
+            "title": "Mechanisms and measurement of attention in laboratory tasks versus naturalistic learning contexts",
+            "link": "https://www.semanticscholar.org/paper/e08c726e4027261f73cd6e2eb97f0bb53cc11214",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "EEG alpha oscillations are tested as neural metrics of visual attention across laboratory working memory and naturalistic learning contexts in children.",
+            "date_fetched": "2026-10-28 16:52:45"
+        },
+        {
+            "title": "Psychophysiological differences in stress reactivity in response to psychosocial and physiological stress in individuals with emotional burnout",
+            "link": "https://www.semanticscholar.org/paper/831f7c15d23f49ca4c934f823b6d7600db56dba6",
+            "relevance_score": 5,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study combines attention, working memory, EEG, and physiological measures in a burnout sample, but its main focus is stress reactivity rather than executive-function modelling or classification.",
+            "date_fetched": "2026-10-28 16:52:45"
+        },
+        {
+            "title": "Assessment of the effects of psychological stress on cognitive functions and modulation of stress effects using transcranial electrical stimulation",
+            "link": "https://www.semanticscholar.org/paper/825d52823596efdadcd591185331672da298fb55",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper studies effects of acute stress and DLPFC tDCS on working memory, attention, EEG rhythms, and affective state, with moderate relevance to neural mechanisms of executive control.",
+            "date_fetched": "2026-10-28 16:52:45"
+        },
+        {
+            "title": "Reduced-observable dynamic mode decomposition for identifying theta and beta activity in working-memory EEG",
+            "link": "https://www.semanticscholar.org/paper/0418ff28952e6b2adbb66cd458ca2d304bdb190c",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Although mainly a neural time-series method paper, it is applied to working-memory EEG and recovers theta power relationships with encoding and memory load.",
+            "date_fetched": "2026-10-28 16:52:45"
+        },
+        {
+            "title": "Virtual Reality as a Tool for Post\u2011Concussion Cognitive Assessment: A Pilot Comparison of Reaction Time Metrics",
+            "link": "https://www.semanticscholar.org/paper/f703f509ec53db210ad9b05a7d9e9457e2cee2e9",
+            "relevance_score": 3,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The title indicates a VR-based clinical cognitive assessment using reaction-time metrics after concussion, but no summary is provided to establish a stronger executive-function or biomarker connection.",
+            "date_fetched": "2026-10-28 16:52:45"
         }
     ]
 }
