@@ -10135,6 +10135,69 @@
             "filtered": false,
             "reason": "The paper reports human fMRI, effective-connectivity, graph, and drift-diffusion findings on cognitive control networks and switching costs, providing directly model-relevant neuroscience evidence.",
             "date_fetched": "2026-10-27 16:06:21"
+        },
+        {
+            "title": "The geometry of cognition: from neural populations to neurotechnology",
+            "link": "https://arxiv.org/abs/2610.36541v1",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Review of neural population geometry across working memory, decision-making, and cognitive variables, with clear relevance for computational models of executive function.",
+            "date_fetched": "2026-10-28 09:18:01"
+        },
+        {
+            "title": "Shared control-network recruitment and task-dependent brain-behavior associations in bilingual language and rule switching.",
+            "link": "https://www.semanticscholar.org/paper/c8dd9acd8513124a842b0c6222d10534da499070",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The title indicates a human brain-behavior study of control-network recruitment during rule switching, directly relevant to cognitive control mechanisms.",
+            "date_fetched": "2026-10-28 09:18:01"
+        },
+        {
+            "title": "The mediating role of early maladaptive schemas in the relationship between perceived parental attitudes and cognitive flexibility in adolescents",
+            "link": "https://www.semanticscholar.org/paper/f2a9271a9a9606377118f6b04fe4fec3b8f6fec4",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study measures cognitive flexibility in adolescents but is primarily a psychosocial mediation analysis rather than a mechanistic or assessment-focused executive-function study.",
+            "date_fetched": "2026-10-28 09:18:01"
+        },
+        {
+            "title": "Challenges of war: paroxysmal disorders in military personnel. Observational experience and optimization of differential diagnosis",
+            "link": "https://www.semanticscholar.org/paper/d8774bb40bedcdfb9532699f2935c018f5edde79",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper focuses on differential diagnosis and treatment of epileptic versus psychogenic seizures, with only incidental mention of prefrontal inhibitory control.",
+            "date_fetched": "2026-10-28 09:18:01"
+        },
+        {
+            "title": "Reward-Based Eating Drive Is Associated with Distinct Resting-State Connectivity Patterns: A RED-13 and fMRI Study",
+            "link": "https://www.semanticscholar.org/paper/7910bc1c1b630151ec764acba366d37d1d85fdc3",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Resting-state fMRI associations with reward-driven eating include cognitive-control regions, but the core topic is eating behavior rather than executive-function modelling or assessment.",
+            "date_fetched": "2026-10-28 09:18:01"
+        },
+        {
+            "title": "Neural subspaces encode sequential working memory without detectable neural sequences",
+            "link": "https://www.semanticscholar.org/paper/7711a0cd85288410a1f44ebfa3ccd74fda802989",
+            "relevance_score": 10,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Human MEG evidence on low-dimensional neural subspaces for sequential working memory directly informs computational models of working-memory maintenance.",
+            "date_fetched": "2026-10-28 09:18:01"
+        },
+        {
+            "title": "Circadian aging and neurodegeneration: the emerging role of the melatonin-cortisol axis in brain homeostasis, disease progression, and precision chronomedicine.",
+            "link": "https://www.semanticscholar.org/paper/8076516c855dae5005483e7b7ec479b8b8277130",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper appears relevant to neurodegeneration and brain health broadly but has no specific stated connection to executive-function modelling or digital cognitive assessment.",
+            "date_fetched": "2026-10-28 09:18:01"
         }
     ]
 }
