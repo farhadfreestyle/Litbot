@@ -1,0 +1,58 @@
+{
+    "papers": [
+        {
+            "title": "What Is the Role for Humans in Creative Writing? Creativity and Diversity in Human-AI Collaboration",
+            "link": "https://arxiv.org/abs/2610.37916v1",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "Excluded because the paper primarily evaluates human-AI and all-AI creative writing performance rather than modelling human executive function.",
+            "date_fetched": "2026-10-30 09:35:10"
+        },
+        {
+            "title": "Benchmarking Learning-Based Formula 1 Race Strategies",
+            "link": "https://arxiv.org/abs/2512.21570v2",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "Excluded because it is an engineering optimization and reinforcement-learning benchmark for Formula 1 strategy with no grounding in human or animal cognition.",
+            "date_fetched": "2026-10-30 09:35:10"
+        },
+        {
+            "title": "The successor representation in high-risk drinking and alcohol-related contexts",
+            "link": "https://www.semanticscholar.org/paper/f6cee818c588c6dfe6ff1aed9f6178cd27136c9b",
+            "relevance_score": 9,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The paper uses reinforcement-learning strategy models to dissociate successor-representation, model-based, and model-free control in human decision making under addiction-relevant contexts.",
+            "date_fetched": "2026-10-30 09:35:10"
+        },
+        {
+            "title": "Susceptibility to task-irrelevant auditory distractors in relation to visual working memory in children with and without attention-deficit/hyperactivity disorder.",
+            "link": "https://www.semanticscholar.org/paper/fbc5bd9a10122432d0203838bd2d142ba0406fa5",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The title indicates a human study of distractor susceptibility, visual working memory, and ADHD, directly relevant to behavioural mechanisms of attention and executive control.",
+            "date_fetched": "2026-10-30 09:35:10"
+        },
+        {
+            "title": "Impact of hearing loss on visual selective attention: Evidence from N2pc and resting-state networks.",
+            "link": "https://www.semanticscholar.org/paper/8f664280f873c3521816a10bd2e3e3f45f9ba607",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper reports task-based EEG, resting-state network, and behavioural findings on human visual selective attention that could directly inform models of attentional control.",
+            "date_fetched": "2026-10-30 09:35:10"
+        },
+        {
+            "title": "Content Validity and Psychometric Properties Assessment of the Virtual Reality Functional Capacity Assessment Tool and Application in Multiregional Clinical Trials of Cognitive Impairment Associated with Schizophrenia",
+            "link": "https://www.semanticscholar.org/paper/c261ee71d2d347626a2881e5dc738d230e22c535",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper validates a VR-based performance outcome measure for cognitive impairment in schizophrenia, relevant to digital cognitive assessment but not specifically centred on executive-function modelling.",
+            "date_fetched": "2026-10-30 09:35:10"
+        }
+    ]
+}
