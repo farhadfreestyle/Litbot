@@ -1,0 +1,58 @@
+{
+    "papers": [
+        {
+            "title": "Processing speed, not multitasking, drives expert decision-making under pressure.",
+            "link": "https://www.semanticscholar.org/paper/c47b3b59b4f33673003c883c491ef92c53b515a1",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The title suggests a human behavioural study of decision-making under pressure and multitasking, relevant to executive performance but not clearly a computational model or clinical assessment paper.",
+            "date_fetched": "2026-10-31 09:16:17"
+        },
+        {
+            "title": "Motor cortex-based intracortical BCI performance is robust to changes in attentional load during dual-tasking.",
+            "link": "https://www.semanticscholar.org/paper/ef4453127faae754b75d45e40f64a5d1437cf048",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This human study manipulates attentional and working-memory load with an N-back dual task while measuring EEG correlates, making it relevant to executive attention despite its primary BCI focus.",
+            "date_fetched": "2026-10-31 09:16:17"
+        },
+        {
+            "title": "Prefrontal circuitry abnormalities and cognitive impairment in adolescents with early-onset psychosis.",
+            "link": "https://www.semanticscholar.org/paper/b5ce4809b2702ae3f8a30b683195dc581baf746e",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper appears to address prefrontal neural abnormalities and cognitive impairment in a clinical human population, plausibly relevant to executive dysfunction but not clearly focused on planning, working memory, or attention from the available text.",
+            "date_fetched": "2026-10-31 09:16:17"
+        },
+        {
+            "title": "Transcranial Direct Current Stimulation (tDCS) and Smoking Cessation: Clinical and Neurocognitive Outcomes Among Turkish Adults.",
+            "link": "https://www.semanticscholar.org/paper/1741852eb5a04fe40d18bb1538049d71414b3deb",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "This appears to concern clinical and neurocognitive outcomes of tDCS for smoking cessation, with no clear connection to executive-function modelling or cognitive impairment assessment in the provided information.",
+            "date_fetched": "2026-10-31 09:16:17"
+        },
+        {
+            "title": "Nogo-related frontal theta-band activity after magnetic seizure therapy in treatment-resistant depression: an exploratory task-based EEG study",
+            "link": "https://www.semanticscholar.org/paper/ad5f31ea0dfe070ae09919ee84f05bbe18596dee",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This task-based EEG study directly examines frontal midline theta during Go/Nogo response inhibition in depression, although the findings are exploratory and not robust after correction.",
+            "date_fetched": "2026-10-31 09:16:17"
+        },
+        {
+            "title": "Default mode network connectivity and temperament are associated with internalizing symptoms in early childhood.",
+            "link": "https://www.semanticscholar.org/paper/a9721f0732f7e5a3d0d78efd0a86555c2729effa",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study links resting-state connectivity and temperament to internalizing symptoms in children, with only indirect relevance to executive function through frontoparietal cognitive-control network measures.",
+            "date_fetched": "2026-10-31 09:16:17"
+        }
+    ]
+}
