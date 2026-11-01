@@ -53,6 +53,24 @@
             "filtered": false,
             "reason": "Reports a clinical diagnostic case of rapidly progressive dementia using MRI, CSF, and EEG biomarkers without meaningful focus on executive-function modelling or assessment.",
             "date_fetched": "2026-11-01 10:02:20"
+        },
+        {
+            "title": "Countermanding saccades in children",
+            "link": "https://www.semanticscholar.org/paper/e51bd189ad3bd3d1826fb3c0fb103ed8347241ba",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Countermanding saccade tasks measure response inhibition and oculomotor control in human children, making the paper relevant to empirical executive-function findings despite the missing summary.",
+            "date_fetched": "2026-11-01 16:56:46"
+        },
+        {
+            "title": "An EEG-fMRI Jointly Constrained Digital Twin Brain and Its Application in Alzheimer\u2019s Disease",
+            "link": "https://www.semanticscholar.org/paper/758fe215b123054e193917e18bcb26c17f79e1cd",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper uses multimodal EEG-fMRI subject-specific brain modelling in Alzheimer\u2019s disease and links model-derived dynamics to cognitive decline, but it is not specifically focused on executive function.",
+            "date_fetched": "2026-11-01 16:56:46"
         }
     ]
 }
