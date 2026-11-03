@@ -1,0 +1,40 @@
+{
+    "papers": [
+        {
+            "title": "Executive and language systems competitively shape predictive processing during reading",
+            "link": "https://www.semanticscholar.org/paper/e527980ac86731da518c7fdd1b09712a5835c72e",
+            "relevance_score": 9,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Human TMS, n-back, reading, and computational decision modelling directly examine how working memory and executive control shape predictive processing under cognitive load.",
+            "date_fetched": "2026-11-03 10:27:40"
+        },
+        {
+            "title": "Reward changes the use and structure of predictive spatial maps",
+            "link": "https://www.semanticscholar.org/paper/911ddd213fef09fa6d15301669500156d76607ee",
+            "relevance_score": 6,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The paper presents a biologically grounded reinforcement-learning model of reward-dependent spatial representations, relevant to planning and navigation but less directly focused on human executive function.",
+            "date_fetched": "2026-11-03 10:27:40"
+        },
+        {
+            "title": "Intrinsic network dynamics catalyze switching in functional connectivity states of the brain",
+            "link": "https://arxiv.org/abs/2611.03071v1",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Human fMRI findings link dynamic network switching to cognitive state transitions and working-memory performance, offering useful constraints for models of cognitive control.",
+            "date_fetched": "2026-11-03 10:27:40"
+        },
+        {
+            "title": "Acoustic and Attentional Challenges Shape the Balance Between Attended and Competing Speech Tracking Differently",
+            "link": "https://arxiv.org/abs/2611.01876v1",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Across multiple human EEG datasets, the study characterizes selective auditory attention and cortical tracking under acoustic and attentional challenge, directly informing models of attention.",
+            "date_fetched": "2026-11-03 10:27:40"
+        }
+    ]
+}
