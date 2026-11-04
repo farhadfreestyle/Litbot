@@ -10702,6 +10702,114 @@
             "filtered": false,
             "reason": "This rat study links mediodorsal thalamus disruption to selective attention deficits and prefrontal dopamine circuit recruitment, providing mechanistic findings relevant to models of cognitive control.",
             "date_fetched": "2026-11-03 18:09:48"
+        },
+        {
+            "title": "A causal account of the neural origins of mental fatigue.",
+            "link": "https://www.semanticscholar.org/paper/52de307b5b7311931b2ea47f339536a19225b432",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Causal DLPFC stimulation and spectroscopy findings directly address cognitive control effort and fatigue mechanisms relevant to executive-function models.",
+            "date_fetched": "2026-11-04 10:27:13"
+        },
+        {
+            "title": "Elite basketball athletes at rest: enhanced sensorimotor activity and reduced cognitive load",
+            "link": "https://www.semanticscholar.org/paper/4a1dc041193647ca2e625e3d0b9e3158f0a9e66c",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper reports resting-state fMRI differences involving cognitive control and attention networks, but its core focus is athlete sensorimotor expertise rather than executive-function modelling or impairment assessment.",
+            "date_fetched": "2026-11-04 10:27:13"
+        },
+        {
+            "title": "The quiet end of the spectrum: A case report and review of \"simple schizophrenia\".",
+            "link": "https://www.semanticscholar.org/paper/0f100661410f04ed5e363980cd3691e0007e5aad",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The title indicates a clinical schizophrenia case review with no provided evidence of executive-function modelling, neuroscience findings, or digital cognitive assessment.",
+            "date_fetched": "2026-11-04 10:27:13"
+        },
+        {
+            "title": "Altered brain-state dynamics and associations with dependence severity and affective-somatic burden in cocaine use disorder.",
+            "link": "https://www.semanticscholar.org/paper/b18f9187926c868305fbeb07572a2f95f8bad7e3",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Hidden Markov modelling of resting-state fMRI identifies altered frontoparietal and attention-state dynamics in cocaine use disorder, with clear relevance to neural mechanisms of cognitive control.",
+            "date_fetched": "2026-11-04 10:27:13"
+        },
+        {
+            "title": "Modelo din\u00e2mico aplicado ao processamento de informa\u00e7\u00f5es matem\u00e1ticas",
+            "link": "https://www.semanticscholar.org/paper/ea293d0ea8293015c5f96d9159975ba4dc0c83eb",
+            "relevance_score": 9,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The paper proposes a nonlinear dynamical model explicitly simulating interactions among attention, working memory, and cognitive effort during mathematical problem solving.",
+            "date_fetched": "2026-11-04 10:27:13"
+        },
+        {
+            "title": "The integrated bioenergetic-interoceptive model of schizophrenia-spectrum disorders",
+            "link": "https://www.semanticscholar.org/paper/790ef96a0c8f5bb05ffda74132503dd97f11e303",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper presents a broad theoretical model of schizophrenia involving predictive regulation and cognitive control networks, but executive function is only one component of a wider multisystem account.",
+            "date_fetched": "2026-11-04 10:27:13"
+        },
+        {
+            "title": "Simulation-based neural dynamics of stress-related negative cognitive bias in depressive symptoms: a dynamical EEG/ERP framework",
+            "link": "https://www.semanticscholar.org/paper/d2f0d3656b1c230b9b8b3d084956388458291fc5",
+            "relevance_score": 8,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The study builds a nonlinear state-space model linking cognitive control, arousal, stress-related bias, and EEG/ERP observables, although it is simulation-based rather than empirically validated.",
+            "date_fetched": "2026-11-04 10:27:13"
+        },
+        {
+            "title": "VR Scout for AD: An Immersive Virtual Reality System towards Early Screening of Alzheimer's Disease.",
+            "link": "https://www.semanticscholar.org/paper/a404db69921dd101326bbe133a74318c2e33d5f3",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The title indicates an immersive VR system for early Alzheimer's screening, making it relevant to digital cognitive assessment despite the lack of methodological detail in the provided summary.",
+            "date_fetched": "2026-11-04 10:27:13"
+        },
+        {
+            "title": "Eyes-open resting-state EEG microstate analysis using ratio-normalized parameters across four- and seven-class solutions in healthy controls, mild cognitive impairment, and Alzheimer's disease.",
+            "link": "https://www.semanticscholar.org/paper/8c8288d818c76ddf5bc4b96d2d1382387351a207",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Resting-state EEG microstate analysis across healthy controls, MCI, and Alzheimer's disease is relevant to clinical neurophysiological biomarkers, though not specifically executive-function focused.",
+            "date_fetched": "2026-11-04 10:27:13"
+        },
+        {
+            "title": "\u0412\u041f\u041b\u0418\u0412 \u0424\u0406\u0417\u0418\u0427\u041d\u041e\u0407 \u0422\u0415\u0420\u0410\u041f\u0406\u0407 \u0422\u0410 \u0415\u0420\u0413\u041e\u0422\u0415\u0420\u0410\u041f\u0406\u0407 \u041d\u0410 \u041c\u041e\u0422\u041e\u0420\u041d\u0406 \u0422\u0410 \u0421\u0415\u041d\u0421\u041e\u0420\u041d\u0406 \u041f\u041e\u041a\u0410\u0417\u041d\u0418\u041a\u0418 \u041f\u0410\u0426\u0406\u0404\u041d\u0422\u0406\u0412 \u041f\u0406\u0421\u041b\u042f \u0406\u041d\u0421\u0423\u041b\u042c\u0422\u0423",
+            "link": "https://www.semanticscholar.org/paper/c1bee283c5404e4a650c626de4a5171cafda1d13",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The study is primarily about physical and occupational therapy for post-stroke motor recovery, with cognitive outcomes assessed only generally via MoCA.",
+            "date_fetched": "2026-11-04 10:27:13"
+        },
+        {
+            "title": "Neural evidence for progressive decline of visual face recognition ability in Alzheimer's disease.",
+            "link": "https://www.semanticscholar.org/paper/437b49956b96739f0576d4609e1aafb01673f354",
+            "relevance_score": 5,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper uses EEG to assess face identity recognition deficits across MCI and Alzheimer's disease, making it relevant to clinical cognitive biomarkers but not to executive-function modelling specifically.",
+            "date_fetched": "2026-11-04 10:27:13"
+        },
+        {
+            "title": "AI-integrated Approaches in Alzheimer's Disease: Linking Molecular Pathways, Biomarkers, and Emerging Therapies.",
+            "link": "https://www.semanticscholar.org/paper/2d22e032f285686d2647747500524f487873a317",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The title suggests a broad Alzheimer's biomarker and therapy review using AI, with no clear connection to executive-function modelling or behavioural, eye-tracking, or EEG-based assessment.",
+            "date_fetched": "2026-11-04 10:27:13"
         }
     ]
 }
