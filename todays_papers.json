@@ -107,6 +107,33 @@
             "filtered": false,
             "reason": "The title suggests a broad Alzheimer's biomarker and therapy review using AI, with no clear connection to executive-function modelling or behavioural, eye-tracking, or EEG-based assessment.",
             "date_fetched": "2026-11-04 10:27:13"
+        },
+        {
+            "title": "Effects of Intermittent Theta-Burst Stimulation over the Left Dorsolateral Prefrontal Cortex on Executive Function During Sustained Simulated Flight Operations: A Randomized Crossover Study Using a Flight\u2013Cognitive Dual-Task Paradigm",
+            "link": "https://www.semanticscholar.org/paper/cf082693ac713bf0bf8384d46aea9f8abd45f271",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This directly tests DLPFC stimulation effects on human working memory updating and rule switching with EEG microstate and fNIRS measures, making it highly relevant to neural and behavioural mechanisms of executive function.",
+            "date_fetched": "2026-11-04 18:21:01"
+        },
+        {
+            "title": "Working Memory Disruption and Altered Alpha Dynamics in Misophonics",
+            "link": "https://www.semanticscholar.org/paper/199f300d786a896ce399e9b43ca656d2d2b13f96",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This reports behavioural and EEG alpha-band evidence for altered auditory working memory and distractor inhibition in a clinical-relevant human group, directly informing models of attention and working memory control.",
+            "date_fetched": "2026-11-04 18:21:01"
+        },
+        {
+            "title": "Projection Neurons from Infralimbic (IL) to the Basolateral Amygdala (BLA) are Critical for the Expression of Social Familiarity induced Anxiolysis (SoFiA) in rats",
+            "link": "https://www.semanticscholar.org/paper/09dad541440bf7dd0575f86fa43d2d2b13f96",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This animal study identifies a prefrontal-amygdala pathway for social safety learning and anxiety regulation, but its link to planning, working memory, attention, or executive-function modelling is indirect.",
+            "date_fetched": "2026-11-04 18:21:01"
         }
     ]
 }
