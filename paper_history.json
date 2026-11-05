@@ -10918,6 +10918,132 @@
             "filtered": false,
             "reason": "The paper focuses on peripheral hearing assessment feasibility in very old adults rather than executive function, cognitive modelling, or cognitive impairment biomarkers.",
             "date_fetched": "2026-11-05 10:18:58"
+        },
+        {
+            "title": "Combining digital outcomes of mobility with mobile brain imaging to predict future Parkinson\u2019s disease",
+            "link": "https://www.semanticscholar.org/paper/d0e4fb2953c1e93a22e8b288f9b970d5597ea9ed",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "This is a multimodal prodromal Parkinson\u2019s assessment study using wearable mobility metrics, dual-task executive/working-memory challenges, and mobile fNIRS of prefrontal activity.",
+            "date_fetched": "2026-11-05 18:22:50"
+        },
+        {
+            "title": "Behavioral and Neural Measures of Auditory Distraction Are Not Associated with Tinnitus Severity",
+            "link": "https://www.semanticscholar.org/paper/ac8756b6ee3af8e73181b28e3a69c4acc8668975",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper directly measures behavioral and EEG responses to auditory distraction and inhibitory control in humans, though the clinical focus is tinnitus rather than executive impairment.",
+            "date_fetched": "2026-11-05 18:22:50"
+        },
+        {
+            "title": "Altered alpha burst dynamics in Fragile X syndrome",
+            "link": "https://www.semanticscholar.org/paper/4bda7c7718d4600dc70af00d9768f403fb39e635",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study reports resting-state EEG alpha burst abnormalities in a neurodevelopmental disorder with links to inhibitory and cognitive-control circuitry, but it is not task-based executive-function modelling.",
+            "date_fetched": "2026-11-05 18:22:50"
+        },
+        {
+            "title": "Cortical activity during a gait adaptability task in older adults",
+            "link": "https://www.semanticscholar.org/paper/2cbdc305d4d2441eb31b2c7adfc0755f5ec3fbb8",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This human fNIRS study links prefrontal and motor-planning cortical activity to attention, inhibitory control, and performance during adaptive gait in older adults.",
+            "date_fetched": "2026-11-05 18:22:50"
+        },
+        {
+            "title": "Feasibility and tolerability of combining 6 Hz transcranial alternating current stimulation (tACS) at 3.2 mA and digital cognitive training in older adults with mild cognitive impairment",
+            "link": "https://www.semanticscholar.org/paper/bd90ad8c01680a605a21856557584cf67dbc1056",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The title indicates a feasibility study of stimulation plus cognitive training in MCI, but it does not specify executive-function modelling, neural findings, or biomarker classification.",
+            "date_fetched": "2026-11-05 18:22:50"
+        },
+        {
+            "title": "Sequential syntax of EEG microstates captures the temporal dynamics of inhibitory control",
+            "link": "https://www.semanticscholar.org/paper/80bb0ac43dfae78629d4e92b11c1ac9f4974c91f",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The title describes EEG microstate dynamics during inhibitory control, making it directly relevant to neural mechanisms of executive function.",
+            "date_fetched": "2026-11-05 18:22:50"
+        },
+        {
+            "title": "The Role of Stress and Repeated Gameplay in Players\u2019 Motivation and Engagement in a Cognitive Assessment Game",
+            "link": "https://www.semanticscholar.org/paper/dfc6907b68dd04c61706da3d45824be7d9d25788",
+            "relevance_score": 3,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper concerns deployment factors for a digital cognitive assessment game, but its core outcome is motivation and engagement rather than executive-function measurement or clinical classification.",
+            "date_fetched": "2026-11-05 18:22:50"
+        },
+        {
+            "title": "Contextualizing EEG-Derived Results: A Semantic and Multidimensional Architecture for Cross-Study Analysis",
+            "link": "https://www.semanticscholar.org/paper/cf18bfbb9e685e60df7df5cd32e6bd6a4c509db0",
+            "relevance_score": 3,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This is mainly a neuroinformatics architecture for organizing EEG-derived results, with only incidental relevance through examples involving cognitive assessments and problem-solving tasks.",
+            "date_fetched": "2026-11-05 18:22:50"
+        },
+        {
+            "title": "Exploratory evaluation of electroencephalogram-derived features for classification of mild cognitive impairment in two independent datasets",
+            "link": "https://www.semanticscholar.org/paper/a24b322ed4fdd4a86d018b2b39c0bd88ec0a2f30",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper evaluates EEG-derived features for MCI versus control classification across datasets, which is relevant to digital biomarker development but not specifically executive-function modelling.",
+            "date_fetched": "2026-11-05 18:22:50"
+        },
+        {
+            "title": "Machine learning for detection of mild cognitive impairment using VR eye-tracking metrics in older adults: a cross-sectional study",
+            "link": "https://www.semanticscholar.org/paper/9d20a623a8f3c15aff58bf38fd1a84a7ca139b55",
+            "relevance_score": 9,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The title indicates machine-learning classification of MCI using VR eye-tracking metrics in older adults, closely matching digital biomarker assessment for early cognitive impairment.",
+            "date_fetched": "2026-11-05 18:22:50"
+        },
+        {
+            "title": "Effect of high-risk SORL1 variants on clinical presentation in symptomatic Alzheimer\u2019s disease",
+            "link": "https://www.semanticscholar.org/paper/811b1dc4d6e363cc96ccfabcd40c7ff417bb7894",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "This is primarily a genetic and clinical-characterization study of Alzheimer\u2019s disease with general neuropsychological outcomes rather than executive-function modelling or digital assessment.",
+            "date_fetched": "2026-11-05 18:22:50"
+        },
+        {
+            "title": "Decreased EEG Coherence Associated with Verbal Fluency and Visuospatial Deficits as Domain-Specific Biomarker of Cognitive Impairment in Parkinson\u2019s Disease",
+            "link": "https://www.semanticscholar.org/paper/dfa4934dfaca07a6bd060673f3d921049930f7f6",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The title describes EEG coherence biomarkers associated with cognitive-domain deficits in Parkinson\u2019s disease, including verbal fluency, making it relevant to clinical cognitive impairment assessment.",
+            "date_fetched": "2026-11-05 18:22:50"
+        },
+        {
+            "title": "P104 New-onset refractory status epilepticus as the initial presentation of Sj\u00f6gren\u2019s syndrome: a rare case of severe central nervous system involvement",
+            "link": "https://www.semanticscholar.org/paper/89e099a36ef93768027d5f8167be7870aec26c16",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "This is a clinical case report on autoimmune status epilepticus and Sj\u00f6gren\u2019s syndrome without substantive relevance to executive-function modelling or cognitive assessment.",
+            "date_fetched": "2026-11-05 18:22:50"
+        },
+        {
+            "title": "Mathematical analysis for brain bioelectric activity in patients with hemispheric ischemic stroke",
+            "link": "https://www.semanticscholar.org/paper/85255647d2f22109757e16555923753960f3203c",
+            "relevance_score": 4,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study relates EEG spectral and coherence measures to post-stroke cognitive and mood impairments, but the cognitive constructs are broad rather than executive-function specific.",
+            "date_fetched": "2026-11-05 18:22:50"
         }
     ]
 }
