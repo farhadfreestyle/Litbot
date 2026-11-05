@@ -1,0 +1,85 @@
+{
+    "papers": [
+        {
+            "title": "Beyond social facilitation and inhibition: Experimenter presence regulates executive function engagement in children.",
+            "link": "https://www.semanticscholar.org/paper/aa06367b226474f249a92df827681a52c22b36de",
+            "relevance_score": 9,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The paper directly studies children's executive function under working-memory load and uses drift diffusion modeling to interpret Go/no-Go performance.",
+            "date_fetched": "2026-11-05 10:18:58"
+        },
+        {
+            "title": "Scalable big data analytics for neuro-control: An HPC parallel architecture for synchronization suppression in fNIRS networks",
+            "link": "https://www.semanticscholar.org/paper/a91e33984819d9f1737990bc103f1e093b743772",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The paper is about HPC acceleration for neuro-control simulations rather than human or animal executive cognition.",
+            "date_fetched": "2026-11-05 10:18:58"
+        },
+        {
+            "title": "Functional and Effective Connectivity Characteristics of the Dorsolateral Prefrontal Cortex in Drug-Na\u00efve Patients with Generalized Anxiety Disorder",
+            "link": "https://www.semanticscholar.org/paper/5e27a2c654d5e9ed9812eb5ffea17699fc98870d",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study reports human dLPFC connectivity abnormalities linked to attentional bias and cognitive control in generalized anxiety disorder.",
+            "date_fetched": "2026-11-05 10:18:58"
+        },
+        {
+            "title": "Central nervous system involvement, sequelae, and prognostic markers in children with severe hand-foot-and-mouth disease: A multicenter cohort study across four Chinese cities.",
+            "link": "https://www.semanticscholar.org/paper/67fe6b04c3eb1a0c078cda6e85ba06677ecf09c6",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper concerns broad neurological and developmental sequelae after severe infection, with only indirect relevance to executive function assessment or modelling.",
+            "date_fetched": "2026-11-05 10:18:58"
+        },
+        {
+            "title": "Survival analysis of spontaneous speech for predicting mild cognitive impairment-to-dementia conversion.",
+            "link": "https://www.semanticscholar.org/paper/494557cf4c81dfb84594ad5b268446f0978acba4",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper evaluates speech-derived digital biomarkers from verbal fluency for longitudinal prediction of MCI-to-dementia conversion.",
+            "date_fetched": "2026-11-05 10:18:58"
+        },
+        {
+            "title": "Sex differences in parietal alpha power during sustained attention are related to conflict monitoring performance in mild cognitive impairment.",
+            "link": "https://www.semanticscholar.org/paper/420e7f73dc39e61e3aba74197125ab1bb5fccb8f",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The title indicates an EEG study linking alpha power to sustained attention and conflict monitoring in mild cognitive impairment.",
+            "date_fetched": "2026-11-05 10:18:58"
+        },
+        {
+            "title": "Designing and Evaluating a Clinical Decision Support System to Assess Mild Cognitive Impairment",
+            "link": "https://www.semanticscholar.org/paper/f802d32874a1bd83795c4ca7c8d35ab8acc576f9",
+            "relevance_score": 5,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper involves game-based digital biomarkers for MCI assessment, but its main contribution is evaluation of an explainable clinical decision support interface.",
+            "date_fetched": "2026-11-05 10:18:58"
+        },
+        {
+            "title": "Electrophysiological Evidence of Cognitive Dysfunction After tSAH: An ERP Study Based on Three Different Stimulation Paradigms",
+            "link": "https://www.semanticscholar.org/paper/691759949b496b18a1dd471bd666eacf40fd9180",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study uses P300, MMN, and CNV ERPs to characterize cognitive resource allocation and dysfunction after traumatic subarachnoid hemorrhage.",
+            "date_fetched": "2026-11-05 10:18:58"
+        },
+        {
+            "title": "Auditory Steady-State Responses in Adults Aged 88\u201395 Years Measured in a Home Setting: Feasibility and Agreement with Pure-Tone Audiometry",
+            "link": "https://www.semanticscholar.org/paper/7b891d232a5e058bb39dc1957cc1a6260296e026",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper focuses on peripheral hearing assessment feasibility in very old adults rather than executive function, cognitive modelling, or cognitive impairment biomarkers.",
+            "date_fetched": "2026-11-05 10:18:58"
+        }
+    ]
+}
