@@ -11044,6 +11044,249 @@
             "filtered": false,
             "reason": "The study relates EEG spectral and coherence measures to post-stroke cognitive and mood impairments, but the cognitive constructs are broad rather than executive-function specific.",
             "date_fetched": "2026-11-05 18:22:50"
+        },
+        {
+            "title": "Oscillatory Phase Coding Emerges in Adaptive RNNs for Flexible Working Memory",
+            "link": "https://arxiv.org/abs/2611.06932v1",
+            "relevance_score": 9,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The paper develops an adaptive recurrent network and circuit model for sequence working memory and oscillatory coding as a biologically inspired mechanism of human-like cognition.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "Assessing reinforcement learning and vigor with an online decision-making battery",
+            "link": "https://www.semanticscholar.org/paper/caca84d2645ae5c1b4d8f39ce977ee43330a9158",
+            "relevance_score": 9,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The study uses computational modelling of human reinforcement learning, working memory, and motivational vigor in decision-making tasks with clinical relevance.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "Incarcerated youth with history of childhood trauma are characterized by altered neural activation during a Go/NoGo fMRI task.",
+            "link": "https://www.semanticscholar.org/paper/bfee62d99586bc4cad927da64440ff067e4a959a",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper reports fMRI and connectivity findings during response inhibition and error processing, directly relevant to cognitive control mechanisms.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "Depression, but Not Anxiety, Is Associated With Poorer Working Memory in Adolescent Psychiatric Patients",
+            "link": "https://www.semanticscholar.org/paper/02d4c531ed1afe6a1b266b89479914b85a689aec",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study links depressive symptoms to working memory performance in adolescent psychiatric patients, but does not provide a mechanistic model or neural task data.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "Transdiagnostic Functional Brain Alterations Across Familial and Phenotypic Risk Samples: A Meta-Analysis",
+            "link": "https://www.semanticscholar.org/paper/c0681886fbd30366f41743396b10d557c8e804f5",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The title suggests a broad clinical neuroimaging meta-analysis without a clear focus on executive function, working memory, planning, attention, or digital cognitive assessment.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "Expectation-driven gain modulation of preparatory spatial attention.",
+            "link": "https://www.semanticscholar.org/paper/8aa45ea915970cb9bde86dc4087f0397311b3fda",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper combines visual attention tasks with EEG encoding models to identify a specific neural mechanism for preparatory attentional control.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "Greater Stress Response Network (SRN) Connectivity is Associated with Higher Worry in Men and Women Especially in Later Life",
+            "link": "https://www.semanticscholar.org/paper/0f6b5e91b074a38d47985bfdeba84de59c0d8315",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The title concerns stress-network connectivity and worry rather than executive function modelling or cognitive assessment.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "Prefrontal Activation and Cognitive Heterogeneity in Pediatric Sleep-Disordered Breathing.",
+            "link": "https://www.semanticscholar.org/paper/7f371c22afa41d68b1267d9d18f346c0d104e479",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The title indicates relevance to prefrontal activation and cognition in a pediatric clinical group, but the executive-function specificity is unclear from the available information.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "Exposure-Focused Cognitive Behavioral Therapy Increases Connectivity Between the Central Executive and Salience Networks in Pediatric Anxiety.",
+            "link": "https://www.semanticscholar.org/paper/056247d4dd524932eb0ed5de510c5694089c3bf5",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study reports treatment-related changes in central executive and salience network connectivity relevant to cognitive control in pediatric anxiety.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "Rethinking impulsivity: the hippocampal\u2013prefrontal axis as a contextual regulator of reward-seeking behavior",
+            "link": "https://www.semanticscholar.org/paper/d5d8741bc687ce367fa3136a2ee1aefd635082aa",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The review proposes a hippocampal-prefrontal circuit framework for contextual regulation of impulsive reward seeking, which could inform models of decision making and control.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "Dissociable Oscillatory Alpha and Aperiodic Neural Dynamics Underlie Atypical Attentional Control in Children With Attention-Deficit/Hyperactivity Disorder (ADHD)",
+            "link": "https://www.semanticscholar.org/paper/78343715132c90d43dbe59e9517c7ad069948a1b",
+            "relevance_score": 10,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper combines an attention task, EEG features, ADHD versus control comparison, and machine-learning classification, making it a close methodological match to clinical digital assessment.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "Executive function, balance, and EEG connectivity following hippotherapy in four children with ADHD: An exploratory case-series study",
+            "link": "https://www.semanticscholar.org/paper/5899d0647ac1d8a098bb00146d68f3d0819bbd70",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study uses executive-function tasks and EEG connectivity measures in children with ADHD, but its very small uncontrolled case-series design limits relevance.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "Targeting cognitive control and affective processing in aggression: neuromodulation approaches in CRC/TRR 379.",
+            "link": "https://www.semanticscholar.org/paper/56985b138799014114d1aef9eeefbac8282966d6",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper discusses neuromodulation of cognitive control and affect regulation in aggression, but appears to be a programmatic intervention overview rather than a direct executive-function finding.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "Neural dynamics of top-down and stimulus-evoked activity during global and local visual processing of Navon letter stimuli: A multivariate magnetoencephalography (MEG) decoding study.",
+            "link": "https://www.semanticscholar.org/paper/538fb18031b6e7d776172c7dfb4fde76de70a98e",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The title indicates MEG decoding of top-down versus stimulus-evoked visual processing, relevant to attentional control and perceptual selection.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "One digit too many: brain rhythms and autonomic responses at the limits of working memory capacity",
+            "link": "https://www.semanticscholar.org/paper/1fe6848244299ad5f615216dc68f67125ca93aa2",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper reports EEG, pupillometry, autonomic, and behavioural markers of working-memory overload in an adaptive digit-span task.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "Prefrontal-midline thalamic circuitry in rodents at the intersection of cognition, emotion and motivation",
+            "link": "https://www.semanticscholar.org/paper/1dda1c29ac75feb21d058ebe6b67100a492c1ec7",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The review synthesizes rodent evidence on prefrontal-thalamic circuits involved in working memory, executive control, contextual regulation, and motivated behavior.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "The behaviour bends, the code holds: working-memory category information in the multiple-demand network across graded interruption",
+            "link": "https://www.semanticscholar.org/paper/158654a034c2d0477dcdfecf075293cb46cbd367",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper uses fMRI multivariate decoding to examine how the multiple-demand network maintains working-memory representations under interference.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "Mechanisms of impaired cerebral hemodynamics and memory resilience differ by sex: A role for mineralocorticoid receptors in VCID",
+            "link": "https://www.semanticscholar.org/paper/e298b83f577ee902758487050cf15a013da17832",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The animal study links vascular cognitive impairment mechanisms to medial prefrontal and hippocampal hemodynamics and spatial working memory.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "Working Memory Neural Correlates After Ketamine in Treatment-Resistant Depression: A Randomized Placebo-Controlled Functional Magnetic Resonance Imaging Study",
+            "link": "https://www.semanticscholar.org/paper/feef42055ba2217aa4add442081b0fda73407c11",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The title indicates an fMRI study of working-memory neural correlates in treatment-resistant depression, though the lack of summary limits assessment of mechanistic relevance.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "Improving the Clinical Generalizability of Machine Learning-Based Alzheimer's Disease Detection Across Domains and Modalities: A Comprehensive Review",
+            "link": "https://arxiv.org/abs/2611.08188v1",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The review covers domain adaptation and generalization for multimodal Alzheimer's detection, including EEG, eye-tracking, and speech-based cognitive assessment.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "Sleep-like slow waves in wakefulness index post-stroke behavioural alterations.",
+            "link": "https://www.semanticscholar.org/paper/cdee4ab72e33c5f00a77d6d6336ab0a833ecc8fa",
+            "relevance_score": 3,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The title suggests a neural biomarker of post-stroke behavioural alteration, but it does not clearly target executive function or cognitive impairment classification.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "Music-Synchronized Gamma Light Stimulation Strengthens Theta-Gamma Coupling in Older Adults with Cognitive Impairment: Results from a Randomized Feasibility Trial",
+            "link": "https://www.semanticscholar.org/paper/6b7f30a5a10a21425952a59ba63d71d93656ede1",
+            "relevance_score": 4,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The title indicates an EEG-relevant intervention study in older adults with cognitive impairment, but it is not specifically focused on executive function modelling or assessment.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "Linguistic features from constrained spontaneous speech as potential markers of preclinical Alzheimer's disease.",
+            "link": "https://www.semanticscholar.org/paper/ea4baf52c5b6431b867fbb53775cb1d73cc50b40",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper evaluates speech and linguistic digital biomarkers against amyloid and tau measures for preclinical Alzheimer's risk stratification.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "RehabXR: A Mixed-Reality System for Delivery of Battlefield-Focused Vestibular Rehabilitation",
+            "link": "https://www.semanticscholar.org/paper/f9826f8c15e3c6ad89dc9332a39ca9ecb47502c4",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The system includes quantitative assessment of post-mTBI multisensory and cognitive impairments, but the core contribution is vestibular rehabilitation usability rather than executive-function assessment.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "EEG network features and APOE \u03b54 for amyloid classification in mild cognitive impairment",
+            "link": "https://www.semanticscholar.org/paper/80b76c662cf263da76789e428e9d1389560f1e05",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The title indicates EEG-network and genetic-feature classification of amyloid status in MCI, closely aligned with multimodal clinical biomarker assessment.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "NTAD: A longitudinal neuroimaging dataset of Alzheimer\u2019s disease pathology",
+            "link": "https://www.semanticscholar.org/paper/08d571037b9eff2d1f675413c8dafa942f815d46",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper introduces a longitudinal multimodal Alzheimer's dataset with M/EEG, MRI, PET, biomarkers, and neuropsychological assessments useful for digital biomarker research.",
+            "date_fetched": "2026-11-07 23:49:17"
+        },
+        {
+            "title": "Regulatory role of TIPE2 by inhibiting microglial pyroptosis and glycolysis in the treatment of sepsis-associated encephalopathy.",
+            "link": "https://www.semanticscholar.org/paper/5b5ee4f85278808b922fddcb2699c1057449a66b",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The title concerns cellular neuroinflammatory mechanisms in sepsis-associated encephalopathy without a clear connection to executive function modelling, neural cognition, or cognitive assessment.",
+            "date_fetched": "2026-11-07 23:49:17"
         }
     ]
 }
