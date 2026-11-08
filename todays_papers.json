@@ -17,6 +17,15 @@
             "filtered": false,
             "reason": "This animal study concerns molecular mechanisms of sepsis-associated cognitive dysfunction and EEG changes, but it does not address planning, working memory, attention, cognitive control, or computational assessment.",
             "date_fetched": "2026-11-08 09:51:25"
+        },
+        {
+            "title": "Opposing effects of childhood abuse and neglect on neural performance monitoring",
+            "link": "https://www.semanticscholar.org/paper/7a97c351f0bdfbd0f6f52cfbb95639f01bbc66b9",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This human EEG study links childhood adversity dimensions to error-related negativity and frontal midline theta during a flanker task, providing directly relevant findings on cognitive control and performance monitoring.",
+            "date_fetched": "2026-11-08 16:49:51"
         }
     ]
 }
