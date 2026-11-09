@@ -11368,6 +11368,15 @@
             "filtered": false,
             "reason": "This is a broad meta-analysis of cognitive intervention effects in older adults with cognitive impairment, with no clear focus on executive-function modelling or task-based digital biomarker classification.",
             "date_fetched": "2026-11-09 10:53:26"
+        },
+        {
+            "title": "The computational mechanism of stroboscopic training in enhancing badminton anticipation: a randomized controlled trial",
+            "link": "https://www.semanticscholar.org/paper/baf8e040d49ae66b01f6e889e8d440f643a5c512",
+            "relevance_score": 6,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The paper appears to model or analyze mechanisms of human perceptual anticipation and attention in a randomized training study, but its sports-specific focus makes it only partially aligned with executive-function modelling.",
+            "date_fetched": "2026-11-09 21:11:59"
         }
     ]
 }
