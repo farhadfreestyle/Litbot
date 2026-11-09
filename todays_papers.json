@@ -1,0 +1,58 @@
+{
+    "papers": [
+        {
+            "title": "Information, Mass, Energy Principles: A biophysical and ecological framework for understanding the brain.",
+            "link": "https://www.semanticscholar.org/paper/ebebf4b5a5cc9e9ac42ead8c5db16ab84fe7e5c6",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper offers a broad biophysical framework for brain organization with some relevance through inhibitory-control performance and neurodegeneration modelling, but executive function is not its central object.",
+            "date_fetched": "2026-11-09 10:53:26"
+        },
+        {
+            "title": "Association of high-frequency repetitive transcranial magnetic stimulation with 6-month cognitive outcomes and white matter lesion progression in patients with cerebral small vessel disease and cognitive impairment.",
+            "link": "https://www.semanticscholar.org/paper/35c2f812e2df769869510c5abd459a984448851e",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The title indicates a clinical cognitive-outcome study in cognitive impairment, but there is no specific evidence here of executive-function modelling, task-based assessment, or mechanistic cognitive findings.",
+            "date_fetched": "2026-11-09 10:53:26"
+        },
+        {
+            "title": "Expectation-driven gain modulation of preparatory spatial attention",
+            "link": "https://www.semanticscholar.org/paper/8aa45ea915970cb9bde86dc4087f0397311b3fda",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This is a central human EEG and behavioural study of preparatory spatial attention, using inverted encoding models to characterize attentional gain mechanisms relevant to computational modelling.",
+            "date_fetched": "2026-11-09 10:53:26"
+        },
+        {
+            "title": "Social Anxiety Modulates Default Mode Network Dysfunction and Working Memory Impairment During Social Media\u2010Like Cue Distraction",
+            "link": "https://www.semanticscholar.org/paper/e139c5a0fb80b1184affe79bfe190c852fb038c3",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper directly studies working memory impairment under distraction with fMRI network measures and individual differences in social anxiety, making it substantially relevant to executive-function mechanisms.",
+            "date_fetched": "2026-11-09 10:53:26"
+        },
+        {
+            "title": "Working memory neural correlates after ketamine in treatment-resistant depression: a randomized placebo-controlled functional magnetic resonance imaging study.",
+            "link": "https://www.semanticscholar.org/paper/feef42055ba2217aa4add442081b0fda73407c11",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This human clinical fMRI study examines working-memory task activation in treatment-resistant depression after ketamine, but its mechanistic contribution to executive-function modelling is limited by secondary exploratory analyses.",
+            "date_fetched": "2026-11-09 10:53:26"
+        },
+        {
+            "title": "Effects of virtual reality and exergame interventions on cognitive function in Chinese older adults with cognitive impairment: A three-level meta-analysis.",
+            "link": "https://www.semanticscholar.org/paper/c25c28ed4408d220e7c5351fd337d93eca075303",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "This is a broad meta-analysis of cognitive intervention effects in older adults with cognitive impairment, with no clear focus on executive-function modelling or task-based digital biomarker classification.",
+            "date_fetched": "2026-11-09 10:53:26"
+        }
+    ]
+}
