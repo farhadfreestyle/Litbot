@@ -1,0 +1,40 @@
+{
+    "papers": [
+        {
+            "title": "Bayesian transfer for offline Q-learning with multi-task Gaussian processes",
+            "link": "https://arxiv.org/abs/2611.10965v1",
+            "relevance_score": 4,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The paper is mainly an offline reinforcement learning method, but its application to human decision-making data gives it a tangential connection to computational modelling of cognition.",
+            "date_fetched": "2026-11-10 10:45:26"
+        },
+        {
+            "title": "Pixels over Symbols: Sensory Realism Improves Behavioral Alignment in Models of Cognition",
+            "link": "https://arxiv.org/abs/2611.10565v1",
+            "relevance_score": 9,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The paper centrally compares computational models of human cognition on visual working-memory and memory-dependent decision-making tasks using human behavioural alignment.",
+            "date_fetched": "2026-11-10 10:45:26"
+        },
+        {
+            "title": "Trail Making Tests in Extended Reality: A Critical Review with Implications for Cognitive Ageing",
+            "link": "https://arxiv.org/abs/2611.11636v1",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The review is substantially relevant to digital cognitive assessment of ageing and impairment using XR versions of an executive-function test, though it is not itself a multimodal classification study.",
+            "date_fetched": "2026-11-10 10:45:26"
+        },
+        {
+            "title": "The Clinical Profile and Bedside Clues of Anti-LGI1 Encephalitis Presenting With Isolated Cognitive Impairment: A Multicenter Retrospective Cohort Study.",
+            "link": "https://www.semanticscholar.org/paper/33d65369220d9a7e0d1776c046ea085cf26dfc0a",
+            "relevance_score": 2,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper concerns clinical cognitive impairment in humans, but the title gives no specific indication of planning, working memory, attention, cognitive control, or computational assessment.",
+            "date_fetched": "2026-11-10 10:45:26"
+        }
+    ]
+}
