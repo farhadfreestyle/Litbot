@@ -44,6 +44,24 @@
             "filtered": false,
             "reason": "The paper links cognitive remediation in clinical populations to structural changes in prefrontal cortex, but the cognitive outcomes are broad and not specifically modelled as executive-function processes.",
             "date_fetched": "2026-11-11 10:18:14"
+        },
+        {
+            "title": "Developmental interactions between oscillatory and spontaneous neural activity support improvements in inhibitory control from adolescence into adulthood",
+            "link": "https://www.semanticscholar.org/paper/b48ee14cfcafb3478f24d21348761af85246e860",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Longitudinal EEG during an antisaccade inhibitory-control task directly links frontal oscillatory and spontaneous activity to developmental improvements in executive control.",
+            "date_fetched": "2026-11-11 18:11:14"
+        },
+        {
+            "title": "Task structure flexibly shifts working memory formats across cortical circuits",
+            "link": "https://www.semanticscholar.org/paper/02ea0648d6ed626780c3007c6503b94ea96c61aa",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The title indicates a central focus on how task structure alters working-memory representations across cortical circuits, directly relevant to neural mechanisms of executive function.",
+            "date_fetched": "2026-11-11 18:11:14"
         }
     ]
 }
