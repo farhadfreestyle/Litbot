@@ -11476,6 +11476,51 @@
             "filtered": false,
             "reason": "The title indicates a multimodal EEG-fNIRS study of MCI during a virtual driving dual-task, closely matching digital and neurophysiological assessment of cognitive control under dual-task demands.",
             "date_fetched": "2026-11-10 18:21:36"
+        },
+        {
+            "title": "Towards full-stack functionalist theories of consciousness: Identifying the functional profile",
+            "link": "https://arxiv.org/abs/2609.33366v3",
+            "relevance_score": 6,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The paper is primarily about consciousness, but its functional-profile approach and discussion of attentional control, metacognition, and process architectures are relevant to computational modelling of executive cognition.",
+            "date_fetched": "2026-11-11 10:18:14"
+        },
+        {
+            "title": "Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning",
+            "link": "https://www.semanticscholar.org/paper/3bfb38122165c4a5545d375b6d72aa0512e04c67",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": true,
+            "reason": "The paper concerns KV caching, recurrent model memory, and reinforcement learning for AI agents rather than human or animal cognition.",
+            "date_fetched": "2026-11-11 10:18:14"
+        },
+        {
+            "title": "Reduced magnocellular-biased visual responses are associated with working memory and linguistic difficulties in Chinese developmental dyslexia: A hypothesized visual-cognitive cascade.",
+            "link": "https://www.semanticscholar.org/paper/6060f92365691ed4d8598f252ad253f5a15831ab",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study reports EEG and behavioural findings linking early visual cortical processing, verbal working memory, visuospatial attention, and developmental dyslexia, with clear relevance to modelling cognitive cascades in executive function.",
+            "date_fetched": "2026-11-11 10:18:14"
+        },
+        {
+            "title": "Seeing Without Seeing: A Methodological Review of Visual Mental Imagery Reconstruction from Brain Activity",
+            "link": "https://arxiv.org/abs/2611.13691v1",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The review concerns neural decoding of visual imagery and only tangentially overlaps with executive-function modelling through working-memory maintenance and top-down imagery mechanisms.",
+            "date_fetched": "2026-11-11 10:18:14"
+        },
+        {
+            "title": "Structural changes in the dorsolateral prefrontal cortex following a randomized clinical trial of virtual reality-based cognitive remediation in mood and schizophrenia spectrum disorders.",
+            "link": "https://www.semanticscholar.org/paper/15a6f77e7eac63af3172eeccbfa3585c3d359c68",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper links cognitive remediation in clinical populations to structural changes in prefrontal cortex, but the cognitive outcomes are broad and not specifically modelled as executive-function processes.",
+            "date_fetched": "2026-11-11 10:18:14"
         }
     ]
 }
