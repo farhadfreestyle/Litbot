@@ -1,0 +1,85 @@
+{
+    "papers": [
+        {
+            "title": "Constellation Design Thinking: Hybrid Pedagogies for Nonlinear Learning in Art and Design Education",
+            "link": "https://www.semanticscholar.org/paper/03a28c59af9cdd0050819c7ef7fafdad1a753f99",
+            "relevance_score": 3,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study measures cognitive flexibility and reflective reasoning in human students, but its core contribution is design pedagogy rather than modelling or assessment of executive function.",
+            "date_fetched": "2026-11-12 10:38:31"
+        },
+        {
+            "title": "Functional connectivity of reward and cognitive control networks predicts body mass index but not binge eating disorder in women",
+            "link": "https://www.semanticscholar.org/paper/ee51ea3fe482cbdd97f445916819f2072e7caaf2",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper appears to examine human cognitive control network connectivity in relation to BMI and binge eating, but executive function is likely secondary to obesity-related prediction.",
+            "date_fetched": "2026-11-12 10:38:31"
+        },
+        {
+            "title": "Spontaneously emerging patterns show category-biased similarity to task-evoked visual patterns beyond human visual cortex.",
+            "link": "https://www.semanticscholar.org/paper/aaa9480fa46c172b628d27aa8091106a14d237e3",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The title suggests general visual neuroscience about spontaneous and task-evoked category patterns, with no clear link to executive function modelling or cognitive assessment.",
+            "date_fetched": "2026-11-12 10:38:31"
+        },
+        {
+            "title": "Two minds, one body: neural correlates of processing of We-information during shared control over a humanoid robot",
+            "link": "https://www.semanticscholar.org/paper/cf791a11a498a0408a215fe90ca8686cabc7d163",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This human EEG study reports ERP effects involving action selection, working memory, response preparation, and covert attention during shared control, although the main framing is social self-processing.",
+            "date_fetched": "2026-11-12 10:38:31"
+        },
+        {
+            "title": "Body in memory: the role of bodily self-consciousness in episodic memory and autonoetic consciousness",
+            "link": "https://www.semanticscholar.org/paper/7e90b31c2fae2efdb20ecb53254b7071a7a731cd",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The review discusses behavioural and neural mechanisms linking bodily self-consciousness to episodic memory and some working memory, but it is not centrally about executive function.",
+            "date_fetched": "2026-11-12 10:38:31"
+        },
+        {
+            "title": "The effects of smartphone presence during a reading task: a psychophysiological study",
+            "link": "https://www.semanticscholar.org/paper/81c2188c39087abef225ff38109112f929150e73",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This human EEG, ECG, eye-tracking, and behavioural study directly examines attentional distraction, cognitive control demands, anxiety, and task performance during notification interference.",
+            "date_fetched": "2026-11-12 10:38:31"
+        },
+        {
+            "title": "Stress responses and emotion regulation through distraction in non-clinical students: a near-infrared spectroscopy study",
+            "link": "https://www.semanticscholar.org/paper/153b863c5e9dcf990a95ddcfd8931be80c160a2b",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study uses NIRS and a sustained attention task to examine prefrontal activation, attentional control, inhibition, and emotion regulation under stress, with relevance to executive control mechanisms.",
+            "date_fetched": "2026-11-12 10:38:31"
+        },
+        {
+            "title": "What do voice and drawings recorded during the MMSE add to its score? A multicenter multimodal deep learning study of dementia screening.",
+            "link": "https://www.semanticscholar.org/paper/9de0252124765866936ef63314a08a013dba6471",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "This is a close applied match to multimodal digital biomarker work for dementia screening, using behavioural outputs recorded during a standard cognitive assessment.",
+            "date_fetched": "2026-11-12 10:38:31"
+        },
+        {
+            "title": "Beyond Pills: Moving Towards the Use of Virtual Bikes and Virtual Reality Headsets to Treat Depression in Elderly People with Cognitive Impairments in Care Homes",
+            "link": "https://www.semanticscholar.org/paper/913d339ec3349ef087dd67e2e75ebcf0f88c797c",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The review concerns virtual reality and exercise-bike interventions for depression in older adults with cognitive impairment, not executive function modelling or cognitive biomarker assessment.",
+            "date_fetched": "2026-11-12 10:38:31"
+        }
+    ]
+}
