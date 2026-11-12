@@ -11620,6 +11620,60 @@
             "filtered": false,
             "reason": "The review concerns virtual reality and exercise-bike interventions for depression in older adults with cognitive impairment, not executive function modelling or cognitive biomarker assessment.",
             "date_fetched": "2026-11-12 10:38:31"
+        },
+        {
+            "title": "Capturing Habits in Humans: Neural Circuitry, Computations, and Clinical Mechanisms",
+            "link": "https://www.semanticscholar.org/paper/0d2ae8933d4b23f98dabe4951af8997b9ee85eb6",
+            "relevance_score": 8,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The paper appears centered on computational and neural mechanisms of human habit formation, which is closely related to modelling goal-directed versus habitual control.",
+            "date_fetched": "2026-11-12 18:38:50"
+        },
+        {
+            "title": "Striatal Value Signals Track Progress Toward a Goal During Planning",
+            "link": "https://www.semanticscholar.org/paper/2f0d75f3a11dc7bbb31cb52ec0cdc6b8e17486d1",
+            "relevance_score": 10,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "It combines computational models of human goal-directed planning with fMRI evidence about valuation and cognitive-control circuits.",
+            "date_fetched": "2026-11-12 18:38:50"
+        },
+        {
+            "title": "High cortical lesion burden moderates the association between brain networks and processing speed in older adults with multiple sclerosis",
+            "link": "https://www.semanticscholar.org/paper/66b92719bcbdaec66069b2f9c5b085a9967d9d45",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "It concerns clinical cognitive status and brain networks in multiple sclerosis, but processing speed is not a direct match to executive-function modelling or assessment.",
+            "date_fetched": "2026-11-12 18:38:50"
+        },
+        {
+            "title": "Neurobehavioral Profile of Food Addiction: An Exploratory Study of Food Preferences, Executive Functions, and EEG Responses to Appetitive Cues",
+            "link": "https://www.semanticscholar.org/paper/b9a4bb14746a6c074f1e50a4fb7fa5c57b8c4723",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "It studies executive functions and EEG responses in a clinically relevant behavioral phenotype, though its main focus is food addiction rather than general executive-function modelling.",
+            "date_fetched": "2026-11-12 18:38:50"
+        },
+        {
+            "title": "Task exposure and stimulation duration modulate HD-tDCS effects on working memory in older adults",
+            "link": "https://www.semanticscholar.org/paper/1cca0465ed000fcf91d5c9a741847176d3650b7c",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "It directly reports behavioral and EEG findings on working memory in older adults under DLPFC stimulation, with clear relevance to models of state-dependent executive function.",
+            "date_fetched": "2026-11-12 18:38:50"
+        },
+        {
+            "title": "Sporadic Creutzfeldt-Jakob disease misdiagnosed as acute cerebral infarction: a case report highlighting the diagnostic value of MRI-DWI",
+            "link": "https://www.semanticscholar.org/paper/8a9e4ec1580407ac66d3dfec53d4dea282405298",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "It is a neurological diagnostic case report involving rapid cognitive decline but has no meaningful focus on executive function, computational modelling, or task-based assessment.",
+            "date_fetched": "2026-11-12 18:38:50"
         }
     ]
 }
