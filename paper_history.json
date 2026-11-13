@@ -11692,6 +11692,15 @@
             "filtered": false,
             "reason": "The title indicates a clinical intervention study measuring cognition broadly in adolescent depression, but provides no clear link to executive-function modelling, neural mechanisms, or multimodal cognitive assessment.",
             "date_fetched": "2026-11-13 10:30:00"
+        },
+        {
+            "title": "A Common Recognition Architecture Across Memory Scales",
+            "link": "https://www.semanticscholar.org/paper/f2aa03e4261da8798a3cca2c67ef700e2667d404",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Human EEG evidence that recognition memory across working-memory to long-term-memory scales uses a shared neural format could inform computational models of memory and executive function.",
+            "date_fetched": "2026-11-13 18:15:46"
         }
     ]
 }
