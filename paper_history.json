@@ -11674,6 +11674,24 @@
             "filtered": false,
             "reason": "It is a neurological diagnostic case report involving rapid cognitive decline but has no meaningful focus on executive function, computational modelling, or task-based assessment.",
             "date_fetched": "2026-11-12 18:38:50"
+        },
+        {
+            "title": "Social cognition and executive functions in parents of children with autism: a case-control study using an affective stroop fMRI paradigm.",
+            "link": "https://www.semanticscholar.org/paper/332ec498de671dd4319423ad3a58fca611ef705d",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This human fMRI case-control study uses Stroop interference and executive-function measures to identify altered anterior cingulate and medial frontal activation during emotion-related cognitive control.",
+            "date_fetched": "2026-11-13 10:30:00"
+        },
+        {
+            "title": "Effect of a Virtual Reality Cognitive Psychological Intervention on Depression, Sleep, and Cognition in Adolescent Patients With Depression: A Randomized Controlled Trial.",
+            "link": "https://www.semanticscholar.org/paper/d629529cb06d3505a5667feaa37a913725d22821",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The title indicates a clinical intervention study measuring cognition broadly in adolescent depression, but provides no clear link to executive-function modelling, neural mechanisms, or multimodal cognitive assessment.",
+            "date_fetched": "2026-11-13 10:30:00"
         }
     ]
 }
