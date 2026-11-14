@@ -11737,6 +11737,60 @@
             "filtered": false,
             "reason": "This appears relevant to clinical cognitive screening with EEG in Alzheimer's disease but has no clear focus on executive function, computational modelling, or task-based assessment.",
             "date_fetched": "2026-11-14 09:47:55"
+        },
+        {
+            "title": "Working memory capacity is linked to directed exploration: behavioral, computational, and electrophysiological evidence",
+            "link": "https://www.semanticscholar.org/paper/3967e83b6467653f11903c1a4e654d5ff317dd6a",
+            "relevance_score": 10,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The paper centrally links human working memory capacity to directed exploration using behavioral, computational, and electrophysiological evidence, making it a direct match to executive-function modelling.",
+            "date_fetched": "2026-11-14 16:47:02"
+        },
+        {
+            "title": "Transcriptional and DNA Methylation Changes in the Hippocampus and Prefrontal Cortex after Fractionated Cranial Radiation in Mice",
+            "link": "https://www.semanticscholar.org/paper/d9bbbf54eef545fb7ed9d2df8023f3262fbe0b55",
+            "relevance_score": 1,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Although it studies animal hippocampal and prefrontal biology relevant to brain injury, it does not directly address planning, working memory, attention, cognitive control, or cognitive assessment.",
+            "date_fetched": "2026-11-14 16:47:02"
+        },
+        {
+            "title": "Temporal Dynamics of Multi-Item Working Memory Maintenance in Human Gaze Patterns and EEG",
+            "link": "https://www.semanticscholar.org/paper/83987d34dc5b27b32014fb91498a07a2716fc65f",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper directly reports human eye-tracking and EEG findings on multi-item working memory maintenance and attentional prioritization, with clear value for computational models of working memory.",
+            "date_fetched": "2026-11-14 16:47:02"
+        },
+        {
+            "title": "Alpha\u2013beta oscillatory dynamics underlying auditory inhibitory control in children",
+            "link": "https://www.semanticscholar.org/paper/50312530ab4756ddfd9f780e0c072f944b43709e",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study provides direct MEG evidence on oscillatory mechanisms of inhibitory control across development, a core executive-function process relevant to cognitive control models.",
+            "date_fetched": "2026-11-14 16:47:02"
+        },
+        {
+            "title": "Phase-specific stimulation of prefrontal beta oscillations modulates distinct cognitive processes",
+            "link": "https://www.semanticscholar.org/paper/48a162ca6d7f2dcb02a656206d411387beffab87",
+            "relevance_score": 10,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper gives causal EEG-guided rTMS evidence that prefrontal beta phase differentially modulates working memory and response inhibition, directly informing neural models of executive function.",
+            "date_fetched": "2026-11-14 16:47:02"
+        },
+        {
+            "title": "A shared slowing axis and phenotype-specific rhythms link clinical EEG to FDG-PET dementia phenotypes",
+            "link": "https://www.semanticscholar.org/paper/24a21ed533ee503af6dcb519aec16a0f2bc07bd5",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper develops EEG-based clinical phenotyping and classification for dementia subtypes with links to neuropsychological performance including executive function, making it relevant to digital biomarkers of cognitive impairment.",
+            "date_fetched": "2026-11-14 16:47:02"
         }
     ]
 }
