@@ -11701,6 +11701,42 @@
             "filtered": false,
             "reason": "Human EEG evidence that recognition memory across working-memory to long-term-memory scales uses a shared neural format could inform computational models of memory and executive function.",
             "date_fetched": "2026-11-13 18:15:46"
+        },
+        {
+            "title": "Immersive Virtual Reality Exergaming vs Video-Guided Screen-Based Exercise for Cognitive and Neurophysiological Adaptations in Young Adults: Protocol for Acute and Chronic Experimental Studies.",
+            "link": "https://www.semanticscholar.org/paper/f6f62a4ac10e8f5e785960c620ed0d52c04b81b2",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This protocol directly targets inhibitory control with Stroop performance and frontal theta EEG, but it is an intervention design with no results yet.",
+            "date_fetched": "2026-11-14 09:47:55"
+        },
+        {
+            "title": "Dynamic Brain Network Transitions and Sensorimotor Performance Across the Adult Lifespan.",
+            "link": "https://www.semanticscholar.org/paper/8653a221267b8f6c97cb98595b187e702b11668a",
+            "relevance_score": 3,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The title suggests human brain network dynamics and lifespan performance, but the focus appears to be sensorimotor performance rather than executive function, planning, working memory, or attention.",
+            "date_fetched": "2026-11-14 09:47:55"
+        },
+        {
+            "title": "Prefrontal transcranial direct current stimulation combined with cognitive training reduces anxiety, daytime sleepiness, and cognitive complaints in women after COVID-19: A randomized, double-blind, sham-controlled trial.",
+            "link": "https://www.semanticscholar.org/paper/d59bc3d68e878de5085113820ff3fbb28efc268d",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This human trial links left prefrontal stimulation and cognitive training to cognitive outcomes and prefrontal EEG markers, though executive function modelling is not central.",
+            "date_fetched": "2026-11-14 09:47:55"
+        },
+        {
+            "title": "Under-recognized Autoimmune Encephalitis in Patients with Alzheimer's Disease: A Case Series Emphasizing EEG Screening.",
+            "link": "https://www.semanticscholar.org/paper/fa1326e6a8056b12d9334b9d29d3d3fe7105a122",
+            "relevance_score": 2,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "This appears relevant to clinical cognitive screening with EEG in Alzheimer's disease but has no clear focus on executive function, computational modelling, or task-based assessment.",
+            "date_fetched": "2026-11-14 09:47:55"
         }
     ]
 }
