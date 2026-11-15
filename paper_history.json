@@ -11791,6 +11791,96 @@
             "filtered": false,
             "reason": "The paper develops EEG-based clinical phenotyping and classification for dementia subtypes with links to neuropsychological performance including executive function, making it relevant to digital biomarkers of cognitive impairment.",
             "date_fetched": "2026-11-14 16:47:02"
+        },
+        {
+            "title": "Bilingualism and cognitive control in middle adulthood: a systematic review protocol",
+            "link": "https://www.semanticscholar.org/paper/81e8b2a1127c833d8d2ea26967ca3308b7f82199",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This protocol is centrally about human cognitive control in middle adulthood, but it is a planned evidence synthesis rather than a report of new behavioural or neural findings.",
+            "date_fetched": "2026-11-15 10:22:54"
+        },
+        {
+            "title": "Physical Fitness, Visuospatial Working Memory, and Task-Related Hemodynamic Responses in Preschool Children: A Cross-Sectional fNIRS Study",
+            "link": "https://www.semanticscholar.org/paper/b2ff155e1068d72f96f7ed17d64d86feb6021255",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study reports human behavioural and fNIRS findings linking visuospatial working memory performance to prefrontal and visual cortical activation.",
+            "date_fetched": "2026-11-15 10:22:54"
+        },
+        {
+            "title": "Retrieval practice is associated with attenuated stress-related inference impairment and stronger reactivation of bridge-related category information",
+            "link": "https://www.semanticscholar.org/paper/47d73647ed889ca65f6e27ceaaba09331e30e76f",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper provides behavioural and EEG evidence on stress, memory-based inference, and cognitive flexibility, with neural reactivation signals that could inform process models.",
+            "date_fetched": "2026-11-15 10:22:54"
+        },
+        {
+            "title": "Correction: Multimodal EEG and explainable machine learning characterize neuroticism-related neurodynamic heterogeneity in mild cognitive impairment during visuospatial working memory",
+            "link": "https://www.semanticscholar.org/paper/f5b509f76ae1c91146bc557d868335afe5371b4b",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "This appears to be a correction notice rather than a substantive report, despite referring to a highly relevant EEG and working-memory study in MCI.",
+            "date_fetched": "2026-11-15 10:22:54"
+        },
+        {
+            "title": "The role of the right temporal lobe in neural network mechanisms during working memory encoding",
+            "link": "https://www.semanticscholar.org/paper/3f5e20502b6c8edd92946efe8428be7681b7213d",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper directly reports task-based EEG oscillation and connectivity findings during visual working-memory encoding in epilepsy patients and controls.",
+            "date_fetched": "2026-11-15 10:22:54"
+        },
+        {
+            "title": "Early-life ethanol exposure alters the splicing of microexons in the rat brain",
+            "link": "https://www.semanticscholar.org/paper/c283d913ab6c6a7d488125ade2a163120c9c28de",
+            "relevance_score": 3,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The work concerns animal molecular mechanisms relevant to a disorder involving executive deficits, but it does not measure executive function, attention, or working-memory behaviour directly.",
+            "date_fetched": "2026-11-15 10:22:54"
+        },
+        {
+            "title": "The aging human brain exhibits reduced hemodynamic and cerebrospinal fluid flow waves during sleep.",
+            "link": "https://www.semanticscholar.org/paper/3d01230e1285f57d0345021ce0e7261be799c9a1",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The study addresses human brain aging, sleep physiology, and neurodegeneration risk, but it has no specific focus on executive function, working memory, attention, or cognitive assessment.",
+            "date_fetched": "2026-11-15 10:22:54"
+        },
+        {
+            "title": "Technology-Assisted Cognitive Rehabilitation in Parkinson\u2019s Disease: A Systematic Review of Cognitive, Psychological, and Implementation Outcomes",
+            "link": "https://www.semanticscholar.org/paper/c3238edd73b0c6773d2f8c51c143709044cbb523",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The review covers technology-assisted cognitive rehabilitation in Parkinson\u2019s disease, including executive and planning outcomes, but it is about intervention evidence rather than modelling or biomarker development.",
+            "date_fetched": "2026-11-15 10:22:54"
+        },
+        {
+            "title": "Processing speed accounts for the discriminative power of a brief smartphone Go/No-Go task among individuals with multiple sclerosis",
+            "link": "https://www.semanticscholar.org/paper/35f4c2f4042fd30e29dfafed486f0e37062dc73c",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The study evaluates a smartphone Go/No-Go behavioural task as a digital biomarker for clinical group discrimination in multiple sclerosis.",
+            "date_fetched": "2026-11-15 10:22:54"
+        },
+        {
+            "title": "Survival analysis of spontaneous speech for predicting mild cognitive impairment-to-dementia conversion",
+            "link": "https://www.semanticscholar.org/paper/494557cf4c81dfb84594ad5b268446f0978acba4",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper develops speech-derived digital biomarkers for prognosis of MCI-to-dementia conversion, with semantic verbal fluency providing a clinically relevant cognitive assessment signal.",
+            "date_fetched": "2026-11-15 10:22:54"
         }
     ]
 }
