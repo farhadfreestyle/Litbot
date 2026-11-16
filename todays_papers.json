@@ -1,0 +1,40 @@
+{
+    "papers": [
+        {
+            "title": "Frontocentral theta oscillations bias perceptual judgments of ambiguous visual causality.",
+            "link": "https://www.semanticscholar.org/paper/a642a1fadf6a4a595fc2669a392ca054346824dd",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The title indicates an EEG/theta study of perceptual judgment under ambiguity, relevant to attention and cognitive-control mechanisms that could inform executive-function modelling.",
+            "date_fetched": "2026-11-16 10:37:10"
+        },
+        {
+            "title": "EEG Microstate Alterations and Their Association with Cognitive Performance in Late-Onset Epilepsy of Unknown Etiology: Comparison with Alzheimer's Disease.",
+            "link": "https://www.semanticscholar.org/paper/88b2c1a8bf4fc58c28e6dbfd964c9ab2a53c8a2d",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "It links resting-state EEG microstate features to cognitive performance and clinical groups including AD, making it relevant to electrophysiological biomarkers of cognitive impairment though not specifically executive-function modelling.",
+            "date_fetched": "2026-11-16 10:37:10"
+        },
+        {
+            "title": "Long-term Electroclinical Outcomes After Herpes Simplex Virus Encephalitis: A Single-Center Case Series.",
+            "link": "https://www.semanticscholar.org/paper/2a320225e7cefbb9ba4ad98209ada0161c04a7e6",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper appears to concern general neurological electroclinical outcomes after encephalitis, with no clear focus on executive function, cognitive modelling, or cognitive-assessment biomarkers.",
+            "date_fetched": "2026-11-16 10:37:10"
+        },
+        {
+            "title": "Linguistic features from constrained spontaneous speech as potential markers of preclinical Alzheimer\u2019s disease",
+            "link": "https://www.semanticscholar.org/paper/ea4baf52c5b6431b867fbb53775cb1d73cc50b40",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "It develops language-derived digital biomarkers associated with tau pathology in cognitively normal participants, relevant to early detection of cognitive impairment though not centered on executive function.",
+            "date_fetched": "2026-11-16 10:37:10"
+        }
+    ]
+}
