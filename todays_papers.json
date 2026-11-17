@@ -1,0 +1,13 @@
+{
+    "papers": [
+        {
+            "title": "Motor Imagery Classification Using Hybrid Cross-Subject Class Mixup and Selective Attention",
+            "link": "https://arxiv.org/abs/2611.20853v1",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "Human EEG-fNIRS motor imagery classification may offer generic multimodal signal-processing ideas, but it is not about executive function, cognitive impairment assessment, or human attention despite using an attention module.",
+            "date_fetched": "2026-11-17 11:28:08"
+        }
+    ]
+}
