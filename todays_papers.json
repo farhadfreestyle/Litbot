@@ -8,6 +8,33 @@
             "filtered": false,
             "reason": "Human EEG-fNIRS motor imagery classification may offer generic multimodal signal-processing ideas, but it is not about executive function, cognitive impairment assessment, or human attention despite using an attention module.",
             "date_fetched": "2026-11-17 11:28:08"
+        },
+        {
+            "title": "The role of prefrontal sharp wave ripple-like events in working memory and behavioral performance",
+            "link": "https://www.semanticscholar.org/paper/f551e4fccd50a60506653b1b782e5ea942bb7357",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper directly concerns prefrontal neural events linked to working memory and behavioral performance, making it highly relevant to neuroscience findings on executive function.",
+            "date_fetched": "2026-11-17 19:28:25"
+        },
+        {
+            "title": "Testing an accelerated transcranial magnetic stimulation protocol for methamphetamine use disorder \u2014 study protocol",
+            "link": "https://www.semanticscholar.org/paper/99a8698f8e0580a2a39105ff9c6ad751d4095229",
+            "relevance_score": 3,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study targets DLPFC circuits implicated in cognitive control, but its core contribution is a clinical TMS feasibility protocol for methamphetamine use disorder rather than executive function modelling or assessment.",
+            "date_fetched": "2026-11-17 19:28:25"
+        },
+        {
+            "title": "Middle\u2010Aged and Older Parents' Cognitive Impairment and Adult Children's Proximity and Contact: Mobile\u2010App Based Assessment",
+            "link": "https://www.semanticscholar.org/paper/5a583dfb010510ed561186b142fd838b981798f6",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper uses mobile digital biomarkers including keystroke, speech, and eye movement features to assess cognitive impairment, though its main focus is social contact patterns rather than executive function.",
+            "date_fetched": "2026-11-17 19:28:25"
         }
     ]
 }
