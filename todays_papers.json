@@ -1,0 +1,40 @@
+{
+    "papers": [
+        {
+            "title": "Network-Based Brain Stimulation: Targeting the Frontoparietal Network for Cognitive Rehabilitation After Stroke Systematic Review and Meta-Analysis.",
+            "link": "https://www.semanticscholar.org/paper/f2ff7c65832ecf6526d31f2497919378928b26f9",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "A human clinical meta-analysis of frontoparietal network stimulation for cognitive rehabilitation after stroke is relevant to neural mechanisms and intervention targets for executive control, though not a computational model.",
+            "date_fetched": "2026-11-18 11:06:20"
+        },
+        {
+            "title": "Signatures of Performance Monitoring in Obsessive-Compulsive Disorder and At-risk Groups: Midfrontal Theta Predicts Divergent Behavioral Adaptation.",
+            "link": "https://www.semanticscholar.org/paper/bf9cfebe939f5507795c2dd71ab79376d9338c7e",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This directly studies midfrontal theta and behavioral adaptation in performance monitoring, a core cognitive control mechanism with clear relevance for computational models of executive function.",
+            "date_fetched": "2026-11-18 11:06:20"
+        },
+        {
+            "title": "Predictive stability code: Trial-by-trial conflict expectations tune task representations via proactive and reactive spatio-temporo-spectral dynamics",
+            "link": "https://www.semanticscholar.org/paper/6a6d48d38f32a11652b58d135817fa9e13946197",
+            "relevance_score": 10,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The paper combines trial-by-trial Bayesian conflict-expectancy modelling with EEG representational analyses to explain proactive and reactive cognitive control mechanisms.",
+            "date_fetched": "2026-11-18 11:06:20"
+        },
+        {
+            "title": "Toward Closed-Loop Cognitive Modulation in Alzheimer's Disease: BCI-Relevant Evidence and a Translational Roadmap.",
+            "link": "https://www.semanticscholar.org/paper/06e954d7c99f7937eb84293dc0c572e41216ea59",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "This review is relevant to multimodal cognitive-state sensing and adaptive intervention in AD and MCI, but it is broader than executive-function modelling or diagnostic task-based assessment.",
+            "date_fetched": "2026-11-18 11:06:20"
+        }
+    ]
+}
