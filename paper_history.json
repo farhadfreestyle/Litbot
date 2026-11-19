@@ -12106,6 +12106,33 @@
             "filtered": false,
             "reason": "Evaluates EEG-derived features for classifying MCI versus controls across datasets, making it relevant to digital biomarker development for early cognitive impairment despite lacking executive-function tasks.",
             "date_fetched": "2026-11-19 11:06:21"
+        },
+        {
+            "title": "Implementation intention intervention for enhancing executive control in baseball players\u2019 competitive scenes",
+            "link": "https://www.semanticscholar.org/paper/dddfccc20e060c9d4f6e76830bf1f2e71b2b5a4f",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study directly measures inhibitory control with go/no-go behavior and fNIRS prefrontal activation in humans, making it relevant to neural and behavioural mechanisms of executive control despite its small sports-focused sample.",
+            "date_fetched": "2026-11-19 19:14:17"
+        },
+        {
+            "title": "Preserved cognitive control with altered ventromedial prefrontal activity in lichen simplex chronicus: an fMRI study during the Multi-Source Interference Task",
+            "link": "https://www.semanticscholar.org/paper/e15ebe98f99182ca3a955330b8e7d2445500469d",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper uses an established interference-control task with fMRI to examine cognitive control circuitry in a clinical group, though the sample is small and the executive-function findings are relatively narrow.",
+            "date_fetched": "2026-11-19 19:14:17"
+        },
+        {
+            "title": "Attention, communication, and technology-assisted rehabilitation in Rett syndrome: a mini-perspective",
+            "link": "https://www.semanticscholar.org/paper/4048a2d206ddf441266ec23fb5b64b3be89778f3",
+            "relevance_score": 5,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "This perspective discusses attention assessment and eye-tracking or technology-assisted rehabilitation in a neurodevelopmental clinical population, but it is not an empirical modelling or classification study.",
+            "date_fetched": "2026-11-19 19:14:17"
         }
     ]
 }
