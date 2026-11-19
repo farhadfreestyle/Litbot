@@ -1,0 +1,58 @@
+{
+    "papers": [
+        {
+            "title": "Layered abstraction in emblematic gesture processing: evidence from a multilevel priming paradigm and drift-diffusion model.",
+            "link": "https://www.semanticscholar.org/paper/ec82c05387561f026ea9d62b98c18f8dc1d51523",
+            "relevance_score": 7,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "Uses hierarchical drift-diffusion modelling of human evidence accumulation and conflict resolution, though the target domain is gesture comprehension rather than core planning, working memory, or attention.",
+            "date_fetched": "2026-11-19 11:06:21"
+        },
+        {
+            "title": "Females with Epilepsy Show Menstrual Cycle-linked Alterations in Sensory Induced Plasticity.",
+            "link": "https://www.semanticscholar.org/paper/39d0bb267138986f7a4edb39908b7850cbc5b44c",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "Reports EEG and generative modelling of sensory plasticity in epilepsy, but it is not meaningfully focused on executive function, cognitive assessment, or cognitive control.",
+            "date_fetched": "2026-11-19 11:06:21"
+        },
+        {
+            "title": "Working memory capacity moderates stress-related drinking in alcohol use disorder: An intensive one-year ecological assessment study.",
+            "link": "https://www.semanticscholar.org/paper/cd88c3f0c6b4bf849a69f3bcfeed82218e800d28",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Substantially examines working memory capacity as a moderator of real-world clinical behaviour in alcohol use disorder, with smartphone assessment and structural brain imaging relevance.",
+            "date_fetched": "2026-11-19 11:06:21"
+        },
+        {
+            "title": "Cognitive capacity in subjective cognitive decline: Insights from electrophysiological markers and dual-task performance.",
+            "link": "https://www.semanticscholar.org/paper/3481bf9dce2b211df68cb8f0748420a6719ec48f",
+            "relevance_score": 9,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Directly combines EEG and dual-task working-memory performance to distinguish subjective cognitive decline from controls, closely matching early cognitive impairment assessment interests.",
+            "date_fetched": "2026-11-19 11:06:21"
+        },
+        {
+            "title": "Atypical delusional misidentification with alternating impostors in a single body: a case report.",
+            "link": "https://www.semanticscholar.org/paper/887cbd9e5cce93b0cd7002dc579361f8758c5695",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "A psychiatric case report on delusional misidentification has no clear connection to modelling or assessing executive function.",
+            "date_fetched": "2026-11-19 11:06:21"
+        },
+        {
+            "title": "Exploratory evaluation of electroencephalogram-derived features for classification of mild cognitive impairment in two independent datasets.",
+            "link": "https://www.semanticscholar.org/paper/a24b322ed4fdd4a86d018b2b39c0bd88ec0a2f30",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "Evaluates EEG-derived features for classifying MCI versus controls across datasets, making it relevant to digital biomarker development for early cognitive impairment despite lacking executive-function tasks.",
+            "date_fetched": "2026-11-19 11:06:21"
+        }
+    ]
+}
