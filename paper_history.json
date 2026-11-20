@@ -12133,6 +12133,15 @@
             "filtered": false,
             "reason": "This perspective discusses attention assessment and eye-tracking or technology-assisted rehabilitation in a neurodevelopmental clinical population, but it is not an empirical modelling or classification study.",
             "date_fetched": "2026-11-19 19:14:17"
+        },
+        {
+            "title": "Rest-to-task transfer of sparse-to-full EEG reconstruction for cognitive-load decoding.",
+            "link": "https://www.semanticscholar.org/paper/cabe6850eefed428163f3a4e8bc521ed1ca80ce7",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper uses EEG from an N-back working-memory task to evaluate cognitive-load decoding with sparse electrode reconstruction, making it relevant to task-based digital cognitive assessment despite being primarily a signal-reconstruction methods paper.",
+            "date_fetched": "2026-11-20 10:53:52"
         }
     ]
 }
