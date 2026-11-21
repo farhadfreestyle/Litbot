@@ -12205,6 +12205,51 @@
             "filtered": false,
             "reason": "The paper uses individual connectome-based prediction of prefrontal activation during abstract reasoning, making it relevant to higher-order cognition but more methodological than process-oriented.",
             "date_fetched": "2026-11-21 10:38:28"
+        },
+        {
+            "title": "Lennox-Gastaut Syndrome: Clinical Advances and Multimodal Management",
+            "link": "https://www.semanticscholar.org/paper/c7e20ebcd6cff7e450f179ee75a1e9d1fc2a4f20",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "This appears to be a broad clinical management review of Lennox-Gastaut syndrome with no clear focus on modelling, executive function mechanisms, or cognitive biomarker assessment.",
+            "date_fetched": "2026-11-21 17:49:46"
+        },
+        {
+            "title": "Frontotemporal Slow-Frequency Dominance in Quantitative EEG as a Potential Biomarker of Post-COVID Cognitive Dysfunction.",
+            "link": "https://www.semanticscholar.org/paper/3a44e0a2f0be440ae81ffdfe3e3b73405f180ed6",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper is relevant as an EEG biomarker study of clinical cognitive dysfunction, though the available information does not show a specific focus on executive-function modelling or task-based mechanisms.",
+            "date_fetched": "2026-11-21 17:49:46"
+        },
+        {
+            "title": "Eye tracking in epilepsy: neurobiological rationale, clinical applications, and a translational research agenda",
+            "link": "https://www.semanticscholar.org/paper/b85fe95cf0cade2d2f31261076dbf3c14dd6dfb7",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "This review is strongly relevant to eye-tracking biomarkers of executive dysfunction and cognitive phenotyping in a clinical neurological population.",
+            "date_fetched": "2026-11-21 17:49:46"
+        },
+        {
+            "title": "Application value of CSVD burden combined with virtual reality eye-tracking-based cognitive assessment in identifying mild cognitive impairment in patients with cerebral small vessel disease",
+            "link": "https://www.semanticscholar.org/paper/89acf4ff29a171d04212ba4e5b9dba546c86e166",
+            "relevance_score": 9,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "This is a close match because it combines imaging burden with VR eye-tracking cognitive assessment to classify MCI and includes executive function and attention impairments.",
+            "date_fetched": "2026-11-21 17:49:46"
+        },
+        {
+            "title": "Validity, diagnostic accuracy, and feasibility of trail making test in virtual reality for mild cognitive impairment.",
+            "link": "https://www.semanticscholar.org/paper/95ad1b33c66b5b5b9ee66d670f0defb899af5c81",
+            "relevance_score": 8,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The paper validates a VR version of an executive-function neuropsychological task for discriminating MCI, making it relevant to digital cognitive assessment even without computational modelling.",
+            "date_fetched": "2026-11-21 17:49:46"
         }
     ]
 }
