@@ -1,0 +1,58 @@
+{
+    "papers": [
+        {
+            "title": "Sleep-related threat processing in chronic insomnia: A psychosomatic framework for hyperarousal, learning, and treatment",
+            "link": "https://www.semanticscholar.org/paper/6285c48de10592467dfd9d1fb061bbde9196bddc",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper proposes a cognitive-affective framework involving selective attention, learning, and predictive processing in insomnia, but executive function modelling or assessment is peripheral.",
+            "date_fetched": "2026-11-21 10:38:28"
+        },
+        {
+            "title": "Interpreting Functional Connectivity in Alzheimer\u2019s Disease as Cognitive Processes: Multinomial Processing Trees and the Common Model of Cognition",
+            "link": "https://www.semanticscholar.org/paper/ab2b3f0026dd86aeb36df79d62d1bdc8c257221d",
+            "relevance_score": 9,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The paper directly combines Bayesian cognitive process modelling with functional connectivity in Alzheimer's and MCI to interpret retrieval and working-memory-related processes.",
+            "date_fetched": "2026-11-21 10:38:28"
+        },
+        {
+            "title": "Reinforced hippocampus-accumbens pathway marks a shift toward cognitive decline in aging.",
+            "link": "https://www.semanticscholar.org/paper/4ffad37669b9d68a9ebc63edde008cd5a0b57f78",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper reports mechanistic animal and human neuroimaging findings on navigation, memory, goal-directed behavior, and aging-related cognitive decline that could inform cognitive models.",
+            "date_fetched": "2026-11-21 10:38:28"
+        },
+        {
+            "title": "Research Progress on Peripheral Physiological Responses and Central Neural Activity Characteristics of Competitive Anxiety",
+            "link": "https://www.semanticscholar.org/paper/77369e6cfd9f650090197046662c1cead2c009d4",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The review touches attentional networks, executive function, EEG oscillations, and cognitive interference, but its core focus is competitive anxiety physiology rather than executive function modelling.",
+            "date_fetched": "2026-11-21 10:38:28"
+        },
+        {
+            "title": "A Latent Variable Perspective on EEG Measures of Attentional Control",
+            "link": "https://www.semanticscholar.org/paper/a65957aee7b0262984a5a5e62c6ca728ba31bb11",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study directly examines EEG and behavioural measures of attentional control across Stroop, Simon, go/no-go, and change-detection tasks using latent-variable modelling.",
+            "date_fetched": "2026-11-21 10:38:28"
+        },
+        {
+            "title": "Connectome fingerprinting predicts prefrontal cortical activation during abstract reasoning",
+            "link": "https://www.semanticscholar.org/paper/4caa4c729c7daa456bdc4415b8bd6068091876a1",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper uses individual connectome-based prediction of prefrontal activation during abstract reasoning, making it relevant to higher-order cognition but more methodological than process-oriented.",
+            "date_fetched": "2026-11-21 10:38:28"
+        }
+    ]
+}
