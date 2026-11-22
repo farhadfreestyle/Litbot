@@ -35,6 +35,60 @@
             "filtered": false,
             "reason": "The review addresses clinical cognitive rehabilitation and functional outcomes after stroke, but it does not specifically model or measure executive function, attention, or working memory mechanisms.",
             "date_fetched": "2026-11-22 10:42:10"
+        },
+        {
+            "title": "Stability and flexibility in the Wisconsin Card Sorting Task emerge from goal-directed inference and planning under the free-energy principle",
+            "link": "https://www.semanticscholar.org/paper/66ca8a43307c97e5beef436a3ee27e1939636e74",
+            "relevance_score": 10,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The paper directly proposes a free-energy computational model of WCST inference, planning, set maintenance, and set shifting, making it central to executive-function modelling.",
+            "date_fetched": "2026-11-22 18:08:16"
+        },
+        {
+            "title": "The effect of a sports-based cognitive game development program on attention level and frontal-midline (Fz) EEG theta/beta ratio",
+            "link": "https://www.semanticscholar.org/paper/d9fb9f706723073ec9f4a5f6e989e2bd76494d68",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study reports behavioural selective-attention changes alongside frontal EEG theta/beta measures, but it is an intervention study with exploratory neurophysiology rather than a mechanistic model.",
+            "date_fetched": "2026-11-22 18:08:16"
+        },
+        {
+            "title": "Acute high-intensity interval exercise in spinal cord injury: psychological benefits alongside cognitive and neurobiological responses",
+            "link": "https://www.semanticscholar.org/paper/c3ef112b75f0da46b1ddd3f0c51658144cec2c63",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper examines working memory, prefrontal hemodynamics, and biomarkers in a clinical human group, but the cognitive effects are mostly null and the contribution is not computational.",
+            "date_fetched": "2026-11-22 18:08:16"
+        },
+        {
+            "title": "Distinct developmental organization of intrinsic brain dynamics supports different components of inhibitory control during adolescence",
+            "link": "https://www.semanticscholar.org/paper/6754a3782225e46da9300f5d7416fdb147556d7f",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper directly links resting-state fMRI dynamics to developmental components of inhibitory control and contextual control, providing strong neuroscience evidence relevant to executive-function models.",
+            "date_fetched": "2026-11-22 18:08:16"
+        },
+        {
+            "title": "Neural processing of linguistic speech features and their modulation by selective attention in users of hearing aids and cochlear implants",
+            "link": "https://www.semanticscholar.org/paper/37fe6c390c75a0ea237282bb073bdc927bc8988f",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study uses EEG encoding models to examine selective attentional modulation of speech-feature processing, but its main focus is auditory-language processing in hearing impairment rather than executive function broadly.",
+            "date_fetched": "2026-11-22 18:08:16"
+        },
+        {
+            "title": "Brain Signal Variability and Brain\u2013Behavior Coupling in Adults with Dyslexia",
+            "link": "https://www.semanticscholar.org/paper/5d18c133328550d5960a3ffc9beebd5208837d4b",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper includes working-memory and executive-function behavioural domains in brain\u2013behavior analyses, but its core contribution is a dyslexia-focused resting-fMRI variability biomarker.",
+            "date_fetched": "2026-11-22 18:08:16"
         }
     ]
 }
