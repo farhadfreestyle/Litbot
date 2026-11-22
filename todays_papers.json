@@ -1,0 +1,40 @@
+{
+    "papers": [
+        {
+            "title": "Rollout models of human planning with exact action probabilities.",
+            "link": "https://www.semanticscholar.org/paper/c23a9af8610066d6a9ad7a1496f286c0d00036f0",
+            "relevance_score": 10,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "The paper directly proposes and fits a tractable rollout-based computational model of human multi-step planning behavior.",
+            "date_fetched": "2026-11-22 10:42:10"
+        },
+        {
+            "title": "Nonverbal reasoning in children and adolescents with cerebral palsy: associations with gross motor function, MRI, and EEG findings.",
+            "link": "https://www.semanticscholar.org/paper/94a7904d8dfc37b86cda2f3be6f3c2f726c063ec",
+            "relevance_score": 3,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "It concerns clinical cognitive assessment with MRI and EEG in a human pediatric population, but the target construct is nonverbal reasoning rather than executive-function modelling or biomarker classification.",
+            "date_fetched": "2026-11-22 10:42:10"
+        },
+        {
+            "title": "Hidden Drowsiness in Wakefulness: Differences in Resting-State EEG Profiles in Natural Short Sleepers Versus Recommended Length Sleepers.",
+            "link": "https://www.semanticscholar.org/paper/7dbd2c0ca3f7ad96edbed47360076df906a4570f",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Resting-state EEG differences related to drowsiness and sleep duration may inform models of arousal and attention, but it is not centered on executive-function tasks or cognitive impairment assessment.",
+            "date_fetched": "2026-11-22 10:42:10"
+        },
+        {
+            "title": "NONPHARMACOLOGICAL REHABILITATION FOR POST-STROKE COGNITIVE IMPAIRMENT: FUNCTIONAL TRANSFER AND MAINTENANCE",
+            "link": "https://www.semanticscholar.org/paper/7cb5f5ea039de5fe3c47364b569afae85cacf6ce",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The review addresses clinical cognitive rehabilitation and functional outcomes after stroke, but it does not specifically model or measure executive function, attention, or working memory mechanisms.",
+            "date_fetched": "2026-11-22 10:42:10"
+        }
+    ]
+}
