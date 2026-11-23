@@ -1,3 +1,22 @@
 {
-    "papers": []
+    "papers": [
+        {
+            "title": "Investigating the effect of acute consumption of kiwifruit on cognitive function using functional MRI",
+            "link": "https://www.semanticscholar.org/paper/96b1354c999a3204c450037c9892ce6c7d20af1a",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Human fMRI study using an N-back working memory task with cognitive-control activations, though the main contribution is a nutritional intervention rather than an executive-function model.",
+            "date_fetched": "2026-11-23 22:18:15"
+        },
+        {
+            "title": "Precision of sensory representations in cortex is indexed by alpha power and pupil dilation, and tracks the dynamics of correlated noise",
+            "link": "https://www.semanticscholar.org/paper/0c70eb93875d49db32bb8378af5bc3f074fb3ec1",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Directly links EEG alpha power, pupil dilation, decoded representational precision, and working-memory performance in humans, providing mechanisms highly relevant to computational models of attention and memory.",
+            "date_fetched": "2026-11-23 22:18:15"
+        }
+    ]
 }
