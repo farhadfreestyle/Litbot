@@ -1,0 +1,22 @@
+{
+    "papers": [
+        {
+            "title": "Effects of Mindfulness Training on Impulsivity and NoGo-Go-Related Brain Activation in Internet Gaming Disorder.",
+            "link": "https://www.semanticscholar.org/paper/bd1a7acae2b45d0f0005e09ee7edc3615dd94a61",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper studies inhibitory control and impulsivity using a Go/NoGo brain activation paradigm in a clinical human group, directly relevant to executive control mechanisms.",
+            "date_fetched": "2026-11-24 13:15:43"
+        },
+        {
+            "title": "Combined Neuromelanin-Sensitive and Functional Magnetic Resonance Imaging Links Midbrain Dopaminergic Dysfunction to Connectome Architecture in First-Episode, Medication-Na\u00efve Major Depressive Disorder.",
+            "link": "https://www.semanticscholar.org/paper/8fb346277a741d6b4156bc6783edc326eabe5faf",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper is human clinical neuroimaging in depression but does not appear to focus on planning, working memory, attention, cognitive control, or cognitive assessment.",
+            "date_fetched": "2026-11-24 13:15:43"
+        }
+    ]
+}
