@@ -12475,6 +12475,42 @@
             "filtered": false,
             "reason": "Although it involves animal cognitive impairment, the focus appears to be sleep deprivation, propofol, and neuroinflammation rather than executive-function modelling or assessment.",
             "date_fetched": "2026-11-25 12:06:21"
+        },
+        {
+            "title": "JS01.5.A Spatially restricted immature neuronal programs drive functional connectivity in glioblastoma",
+            "link": "https://www.semanticscholar.org/paper/fc43f9e2f6407f17078f6afd69dfddb7c8b2059f",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper studies glioblastoma tumor-neuron connectivity and survival rather than human executive function, cognitive modelling, or cognitive assessment.",
+            "date_fetched": "2026-11-25 20:18:12"
+        },
+        {
+            "title": "OS05.5.A Primary and downstream white matter disruptions differentially predict cognitive outcomes after glioma surgery",
+            "link": "https://www.semanticscholar.org/paper/740aa8cc6bf15079d54b20d528ddbadd35fbc65e",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The study links patient-specific frontoparietal and dorsal-attention white-matter disruptions to executive outcomes including cognitive flexibility and inhibition after glioma surgery.",
+            "date_fetched": "2026-11-25 20:18:12"
+        },
+        {
+            "title": "Working-memory load and task-dependent functional connectivity in competitive football players and novice controls: an exploratory fMRI study",
+            "link": "https://www.semanticscholar.org/paper/1bbf1399b81c5765e0ec46ce925dfe4a065e4a82",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper examines load-dependent working-memory performance and fMRI functional connectivity during an n-back task, though it is exploratory and focused on sports expertise.",
+            "date_fetched": "2026-11-25 20:18:12"
+        },
+        {
+            "title": "Local and network-level dynamics of alpha and beta rhythms during visuospatial attention in autism",
+            "link": "https://www.semanticscholar.org/paper/b4f9423885259a9744c8ad64224281970a562802",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper reports EEG oscillatory and connectivity findings during a visuospatial attention task in autistic and neurotypical youth, directly informing neural models of attentional control.",
+            "date_fetched": "2026-11-25 20:18:12"
         }
     ]
 }
