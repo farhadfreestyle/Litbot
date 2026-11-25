@@ -12448,6 +12448,33 @@
             "filtered": false,
             "reason": "An EEG-based machine-learning approach for Alzheimer detection is relevant to digital biomarkers for cognitive impairment, though it is not specifically focused on executive-function modelling.",
             "date_fetched": "2026-11-24 20:56:04"
+        },
+        {
+            "title": "Blunted No-Go P3 predicts faster increases in disordered eating symptoms in early adolescence: A four-wave longitudinal study.",
+            "link": "https://www.semanticscholar.org/paper/2096bc3bdf2f39a42da5859459a60d443a936ae2",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "Longitudinal EEG evidence linking No-Go P3 response inhibition signals to adolescent symptom trajectories is directly relevant to neural markers of executive control.",
+            "date_fetched": "2026-11-25 12:06:21"
+        },
+        {
+            "title": "Whole-Brain Dynamics and Cognitive Flexibility in Level 1 ASD: An HMM-Based Approach.",
+            "link": "https://www.semanticscholar.org/paper/32df7f7d6e7d3faeadbc89e2412a8dca4ad38525",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper centers on cognitive flexibility in ASD and uses an HMM analysis of whole-brain dynamics, making it highly relevant to neural and computational accounts of executive function.",
+            "date_fetched": "2026-11-25 12:06:21"
+        },
+        {
+            "title": "Propofol rapidly reverses cognitive impairments with restoration of sleep stability and alleviation of neuroinflammation in sleep-deprived mice.",
+            "link": "https://www.semanticscholar.org/paper/fcfb5f831ea7bc0d43c89da49af67e88fc4175f1",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "Although it involves animal cognitive impairment, the focus appears to be sleep deprivation, propofol, and neuroinflammation rather than executive-function modelling or assessment.",
+            "date_fetched": "2026-11-25 12:06:21"
         }
     ]
 }
