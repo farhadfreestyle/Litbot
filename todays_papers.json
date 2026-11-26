@@ -1,0 +1,49 @@
+{
+    "papers": [
+        {
+            "title": "The mediation of anxiety symptoms in the association between seizure frequency and inhibitory control in temporal lobe epilepsy",
+            "link": "https://www.semanticscholar.org/paper/f4ed5a10039e7a1978a57ed673a31d989d0150b2",
+            "relevance_score": 7,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This is a human clinical study of inhibitory control in temporal lobe epilepsy, relevant to behavioural executive-function assessment though not primarily computational modelling.",
+            "date_fetched": "2026-11-26 11:52:37"
+        },
+        {
+            "title": "Sex-selective effects of prenatal \u03949-tetrahydrocannabinol exposure and early-life stress on cognitive function mediated by prefrontal-hippocampal circuitry.",
+            "link": "https://www.semanticscholar.org/paper/32294af2b55e4ae6641920b2348c69934fc1c6ea",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper links developmental exposures to cognitive function and prefrontal-hippocampal circuitry, offering neuroscience findings potentially relevant to executive-function models but with broader cognitive focus.",
+            "date_fetched": "2026-11-26 11:52:37"
+        },
+        {
+            "title": "Cognitive Performance in Experienced Dancers: A Virtual Reality Comparative Analysis.",
+            "link": "https://www.semanticscholar.org/paper/6b7c23f3f27e7c0461ac18e986a6164e8f6e2ca8",
+            "relevance_score": 3,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This appears to assess human cognitive performance using virtual reality, but the connection to executive-function modelling or clinical cognitive assessment is indirect.",
+            "date_fetched": "2026-11-26 11:52:37"
+        },
+        {
+            "title": "Oscillatory power and functional network coordination during graded semantic Go/NoGo processing in amnestic mild cognitive impairment.",
+            "link": "https://www.semanticscholar.org/paper/4da5b55b1b51784d4b9ebde06b61f3a7674ad32e",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "This directly studies EEG oscillatory and network dynamics during inhibitory control processing in amnestic mild cognitive impairment, closely matching executive-function neuroscience and assessment interests.",
+            "date_fetched": "2026-11-26 11:52:37"
+        },
+        {
+            "title": "Beyond Pills: Moving Towards the Use of Virtual Bikes and Virtual Reality Headsets to Treat Depression in Elderly People with Cognitive Impairments in Care Homes.",
+            "link": "https://www.semanticscholar.org/paper/913d339ec3349ef087dd67e2e75ebcf0f88c797c",
+            "relevance_score": 1,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "This is mainly a narrative review of VR-based depression treatment in cognitively impaired older adults, with little direct relevance to executive-function modelling or biomarker assessment.",
+            "date_fetched": "2026-11-26 11:52:37"
+        }
+    ]
+}
