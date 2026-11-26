@@ -44,6 +44,168 @@
             "filtered": false,
             "reason": "This is mainly a narrative review of VR-based depression treatment in cognitively impaired older adults, with little direct relevance to executive-function modelling or biomarker assessment.",
             "date_fetched": "2026-11-26 11:52:37"
+        },
+        {
+            "title": "Inverse Reinforcement Learning with State-Dependent Foresight for Human Decision-Making",
+            "link": "https://www.semanticscholar.org/paper/45238acc13ec75bc1e9475a2d7b043c088b3e576",
+            "relevance_score": 10,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "It introduces an inverse reinforcement learning model of bounded, state-dependent human planning and links inferred foresight to individual traits.",
+            "date_fetched": "2026-11-26 19:54:58"
+        },
+        {
+            "title": "Cognitive Load modulates the exploration-exploitation trade-off Through Reconfiguration of an IPS-Centered Decision Network",
+            "link": "https://www.semanticscholar.org/paper/f80702b784472b4f0ab3878bdd0e18c6730a2596",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The title indicates a neural decision-network study of cognitive load effects on exploration-exploitation control, directly relevant to executive function modelling.",
+            "date_fetched": "2026-11-26 19:54:58"
+        },
+        {
+            "title": "Neural correlates of inhibitory control and contributions of value-driven attentional capture in early childhood",
+            "link": "https://www.semanticscholar.org/paper/b96f6af75c1ce43799d6cb94e2a7d19f1ba4c88b",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "It is centrally about neural correlates of inhibitory control and attentional capture, both core executive-function constructs.",
+            "date_fetched": "2026-11-26 19:54:58"
+        },
+        {
+            "title": "Confound sensitivity of explainable network pair connectivity during working memory fMRI in schizophrenia",
+            "link": "https://www.semanticscholar.org/paper/f9a17c82932113cf0a14277c1aa59e0a60c1fe92",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "It concerns working-memory fMRI connectivity in schizophrenia, but the core contribution appears to be confound sensitivity rather than executive-function modelling or primary cognitive findings.",
+            "date_fetched": "2026-11-26 19:54:58"
+        },
+        {
+            "title": "Locus Ceruleus\u2013Noradrenaline Signaling in the Prefrontal Cortex: From Adaptive Behavior to Circuit Mechanisms",
+            "link": "https://www.semanticscholar.org/paper/5f11c5e001490034b422d08a2d72fab423c24dfc",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "It reviews prefrontal noradrenergic circuit mechanisms for adaptive behavior, plausibly informing computational models of attention and cognitive control.",
+            "date_fetched": "2026-11-26 19:54:58"
+        },
+        {
+            "title": "Altered prefrontal hemodynamic response during a working memory task in individuals with psychotic spectrum disorders and a history of aggression measured by functional near-infrared spectroscopy",
+            "link": "https://www.semanticscholar.org/paper/c3434543c971acb5202988d0029fc2e63c1a18db",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "It reports prefrontal fNIRS findings during a visuospatial working-memory task in clinical groups, directly relevant to neural assessment of executive dysfunction.",
+            "date_fetched": "2026-11-26 19:54:58"
+        },
+        {
+            "title": "Why knowing is not enough: digital interventions for cue-driven UPF consumption",
+            "link": "https://www.semanticscholar.org/paper/317f70efb11a49b2f2c3a242ac1677c90f1154b4",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "It discusses prefrontal regulation and inhibitory-control training, but the main focus is dietary digital intervention rather than modelling or assessing executive function.",
+            "date_fetched": "2026-11-26 19:54:58"
+        },
+        {
+            "title": "P06.08.B The Influence of Isocitrate Dehydrogenase 1 (IDH1) on Language Network Reorganization and Neurocognitive Function",
+            "link": "https://www.semanticscholar.org/paper/bf3ba0e1408188d7ce8c1b4d4f6545c2937ffd5a",
+            "relevance_score": 3,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "It includes executive function and attention measures in brain-tumor patients, but the central focus is language-network reorganization and molecular tumor status.",
+            "date_fetched": "2026-11-26 19:54:58"
+        },
+        {
+            "title": "Working memory as a hybrid attractor: dynamic population representations by cell-type-specific circuit mechanisms",
+            "link": "https://www.semanticscholar.org/paper/9885a479b7f699bb2b2c6af6531b273280102d29",
+            "relevance_score": 9,
+            "matched_area": "Area 1",
+            "filtered": false,
+            "reason": "It develops a mechanistic attractor-based account of working-memory population dynamics and circuit implementation.",
+            "date_fetched": "2026-11-26 19:54:58"
+        },
+        {
+            "title": "Phenylalanine levels are linked to attention and executive network connectivity in phenylketonuria",
+            "link": "https://www.semanticscholar.org/paper/8550c0128b6590043a46f6f37a2cd1faffde0752",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "It reports clinical fMRI connectivity alterations in dorsal attention and frontoparietal executive networks linked to metabolic status.",
+            "date_fetched": "2026-11-26 19:54:58"
+        },
+        {
+            "title": "Do Adolescents Have a \u201cBrain Without Brakes\u201d? Prefrontal Maturation, an Overactive Amygdala, and Social Responsibility",
+            "link": "https://www.semanticscholar.org/paper/385784372f51bf7030338f1c3721f5dfb751620a",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "It reviews prefrontal maturation, inhibitory control, impulsivity, and self-regulation in adolescence, though with a broad social-development framing.",
+            "date_fetched": "2026-11-26 19:54:58"
+        },
+        {
+            "title": "P06.11.A Risk of postoperative neurocognitive decline differs by handedness and language laterality in patients with left hemisphere glioma",
+            "link": "https://www.semanticscholar.org/paper/0a9eb1b08f6921291b183195159f8ef42eb94349",
+            "relevance_score": 3,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "It includes postoperative changes in set-shifting and other neurocognitive outcomes, but its main focus is surgical risk, handedness, and language laterality in glioma.",
+            "date_fetched": "2026-11-26 19:54:58"
+        },
+        {
+            "title": "Neural Correlates of Cognitive Near-Transfer Following Virtual Reality Training in Multiple Sclerosis and Healthy Controls: A Functional Magnetic Resonance Imaging Study",
+            "link": "https://www.semanticscholar.org/paper/437fde34d2720d2b9a3b90566faf5280a8e7ba62",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "It studies working-memory transfer and DLPFC activation after VR cognitive training in multiple sclerosis and controls.",
+            "date_fetched": "2026-11-26 19:54:58"
+        },
+        {
+            "title": "Can Virtual Reality Capture Cognitive Function in Older Adults?",
+            "link": "https://www.semanticscholar.org/paper/2093123d1d66a3ab9ff38bb0cacb60095cf6cfdc",
+            "relevance_score": 5,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "The title suggests VR-based cognitive assessment in older adults, relevant to digital assessment but not specifically tied to executive-function modelling from the available information.",
+            "date_fetched": "2026-11-26 19:54:58"
+        },
+        {
+            "title": "PP074: Seronegative Autoimmune Limbic Encephalitis",
+            "link": "https://www.semanticscholar.org/paper/f6c97d4a9cde7be633fa58794078af6471038275",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The title indicates a clinical encephalitis report with no clear connection to executive-function modelling, neural mechanisms of executive control, or digital cognitive assessment.",
+            "date_fetched": "2026-11-26 19:54:58"
+        },
+        {
+            "title": "PP006: Hepatic Encephalopathy Mimicking Stroke",
+            "link": "https://www.semanticscholar.org/paper/2eafda0ab8db98c3897526969d2d43df82a9c8bb",
+            "relevance_score": 0,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The title indicates a general clinical encephalopathy case without a specific link to executive function, cognitive modelling, or digital biomarker assessment.",
+            "date_fetched": "2026-11-26 19:54:58"
+        },
+        {
+            "title": "Demographic group differences and reliability of the virtual reality version of the Beijing performance-based functional ecological test (BJ-PERFECT VR) in Chinese healthy adults",
+            "link": "https://www.semanticscholar.org/paper/91938b73f904955db4e659bb1312681e72fb8811",
+            "relevance_score": 6,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "It evaluates reliability and demographic effects for a VR-based performance cognitive assessment tool with potential clinical neuropsychiatric use.",
+            "date_fetched": "2026-11-26 19:54:58"
+        },
+        {
+            "title": "Artificial Intelligence for Auditory Electrophysiological Biomarkers in Alzheimer\u2019s Disease and Hearing Loss: A Critical Narrative Review",
+            "link": "https://www.semanticscholar.org/paper/e5b5f4942d49c48cdc2770ca68405d8fe74dbe53",
+            "relevance_score": 7,
+            "matched_area": "Area 3",
+            "filtered": false,
+            "reason": "It reviews EEG, ERP, and other auditory electrophysiological biomarkers with AI methods for Alzheimer\u2019s disease and cognitive decline, aligning with digital biomarker development.",
+            "date_fetched": "2026-11-26 19:54:58"
         }
     ]
 }
