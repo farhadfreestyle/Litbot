@@ -12754,6 +12754,15 @@
             "filtered": false,
             "reason": "The paper concerns resting-state EEG biomarkers in a clinical vascular population but does not clearly target executive function, cognitive task behaviour, or computational modelling.",
             "date_fetched": "2026-11-27 11:44:53"
+        },
+        {
+            "title": "Framework for network-guided neuromodulation for remitting epilepsy syndromes of childhood",
+            "link": "https://www.semanticscholar.org/paper/8c4cccc34da2f7db55bbd3b481707bf42d7b3ea7",
+            "relevance_score": 4,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper discusses pediatric epilepsy network neuromodulation and cognitive or executive developmental morbidity, but executive function is a secondary clinical concern rather than the central object of modelling or empirical analysis.",
+            "date_fetched": "2026-11-27 19:43:36"
         }
     ]
 }
