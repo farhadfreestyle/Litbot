@@ -1,0 +1,76 @@
+{
+    "papers": [
+        {
+            "title": "Cumulative Sedentary Behavior is Associated with Increased Default Mode Network-Sensory Coupling in Young Adults.",
+            "link": "https://www.semanticscholar.org/paper/7105863ad3e6dfecc8ab77b2a19cc3e1bdd66123",
+            "relevance_score": 2,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper concerns sedentary behavior and resting-state network coupling in young adults, with no clear focus on planning, working memory, attention, or cognitive control.",
+            "date_fetched": "2026-11-28 11:20:14"
+        },
+        {
+            "title": "Frequency-dependent effects of transcranial alternating current stimulation on working memory and medial prefrontal cortex integrity in an ICV-STZ rat model of AD-like cognitive impairment.",
+            "link": "https://www.semanticscholar.org/paper/abc56fcd7e41ab126f4e5ee0789046a589955518",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper directly studies working memory and medial prefrontal cortex integrity in an animal model of AD-like cognitive impairment, which is relevant to neural mechanisms of executive function.",
+            "date_fetched": "2026-11-28 11:20:14"
+        },
+        {
+            "title": "Timing-Specific Deviations in Trajectories of Frontoparietal Network Connectivity in Adolescence Precede the Onset of Depression and Anxiety.",
+            "link": "https://www.semanticscholar.org/paper/9c58efdb91d42ce1ccf20965fa4d9512d1d5a9e1",
+            "relevance_score": 5,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper examines developmental frontoparietal connectivity, a network relevant to cognitive control, but its main focus is risk for depression and anxiety rather than executive function itself.",
+            "date_fetched": "2026-11-28 11:20:14"
+        },
+        {
+            "title": "Cognitive control in chronic mild and moderate-to-severe traumatic brain injury: effects of injury severity and recent cannabis use.",
+            "link": "https://www.semanticscholar.org/paper/8ae472bdef35eb0c0e4143fce243bbfc24a01fd6",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper directly reports fMRI and behavioural findings on cognitive control, working memory, and multisensory attention in chronic TBI patients and controls.",
+            "date_fetched": "2026-11-28 11:20:14"
+        },
+        {
+            "title": "Differences in brain responses to letter-sound and animal-sound in Arabic-speaking children learning to read.",
+            "link": "https://www.semanticscholar.org/paper/2ff99eda74e8dc902d3397342172b987007fb008",
+            "relevance_score": 1,
+            "matched_area": "None",
+            "filtered": false,
+            "reason": "The paper appears to focus on reading-related auditory and language processing rather than executive function, cognitive modelling, or impairment assessment.",
+            "date_fetched": "2026-11-28 11:20:14"
+        },
+        {
+            "title": "Higher Shifting Ability Is Associated with Reduced Threat-Safety Differentiation During Fear Generalization.",
+            "link": "https://www.semanticscholar.org/paper/2f8eb802edb7fbab4ad0df212f436332546d567f",
+            "relevance_score": 6,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper relates cognitive shifting ability, an executive function component, to threat-safety differentiation during fear generalization, but executive-function modelling is not its central contribution.",
+            "date_fetched": "2026-11-28 11:20:14"
+        },
+        {
+            "title": "Neural correlates of inhibitory control and contributions of value-driven attentional capture in early childhood.",
+            "link": "https://www.semanticscholar.org/paper/b96f6af75c1ce43799d6cb94e2a7d19f1ba4c88b",
+            "relevance_score": 9,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper directly studies fMRI and behavioural correlates of inhibitory control and value-driven attentional capture in children using a Go/No-Go paradigm.",
+            "date_fetched": "2026-11-28 11:20:14"
+        },
+        {
+            "title": "Characteristics of Dynamic Brain Network Revealed by fNIRS Based on Multitasking in Subjects With Mild Cognitive Impairment.",
+            "link": "https://www.semanticscholar.org/paper/83a243f2139c6d12eb7606afb59541a94dc6116f",
+            "relevance_score": 8,
+            "matched_area": "Area 2",
+            "filtered": false,
+            "reason": "The paper studies dynamic brain networks during multitasking in people with mild cognitive impairment using fNIRS, making it relevant to executive-function assessment and neural mechanisms.",
+            "date_fetched": "2026-11-28 11:20:14"
+        }
+    ]
+}
